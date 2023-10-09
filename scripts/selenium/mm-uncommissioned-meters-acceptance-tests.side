@@ -1,0 +1,191 @@
+{
+  "id": "d0e79c66-4b14-4c34-b4b1-1c1ffc63788e",
+  "version": "2.0",
+  "name": "sms",
+  "url": "http://10.72.99.220:8080/mapView/login",
+  "tests": [{
+    "id": "86e34d60-ea69-4a9d-a621-0dd0dddbc438",
+    "name": "uncommissioned-smart-meters",
+    "commands": [{
+      "id": "a9f54017-4c5b-459b-8f20-57224736caa3",
+      "comment": "",
+      "command": "open",
+      "target": "http://10.72.99.220:8080/mapView/login",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "16c8aa20-2c9b-4c4d-9638-f63514e31a09",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1496x933",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "69660246-e547-4f3d-bb1b-ac9abf9a531d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#loginForm > .form-group:nth-child(1) > .form-control",
+      "targets": [
+        ["css=#loginForm > .form-group:nth-child(1) > .form-control", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4cc1f13e-a7ac-4821-aced-fda6d4f74101",
+      "comment": "",
+      "command": "type",
+      "target": "css=#loginForm > .form-group:nth-child(1) > .form-control",
+      "targets": [
+        ["css=#loginForm > .form-group:nth-child(1) > .form-control", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "sms.user.default@gmail.com"
+    }, {
+      "id": "5885d605-b5e2-4352-99fb-e9a257cb914d",
+      "comment": "",
+      "command": "type",
+      "target": "css=.mb-2 > .form-control",
+      "targets": [
+        ["css=.mb-2 > .form-control", "css:finder"],
+        ["xpath=//input[@type='password']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "Sms_user123"
+    }, {
+      "id": "846ca617-d51e-4701-a838-8c71fe13ed0c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-success",
+      "targets": [
+        ["css=.btn-success", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div[3]/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1c0bda56-2e73-4201-ba37-7f4905c84c98",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "100000"
+    }, {
+      "id": "52e184be-0cd7-45ae-83c3-3381749918b0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.leaflet-interactive:nth-child(2030)",
+      "targets": [
+        ["css=.leaflet-interactive:nth-child(2030)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "9d2c7cf1-df6f-43ee-a0c9-a46557b08b75",
+      "comment": "",
+      "command": "click",
+      "target": "css=label:nth-child(2)",
+      "targets": [
+        ["css=label:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='map']/div[2]/div[3]/div/label", "xpath:idRelative"],
+        ["xpath=//div[3]/div/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Uncommissioned')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0eb5b163-1a7e-4667-843d-711ae382a95b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.meter-info_address",
+      "targets": [],
+      "value": "Amount of MPXNs: 14"
+    }, {
+      "id": "8e1bce2e-483c-448c-a797-bac2f8c0413e",
+      "comment": "",
+      "command": "click",
+      "target": "id=mpxn-button",
+      "targets": [
+        ["id=mpxn-button", "id"],
+        ["css=.mpxn_container:nth-child(1) > #mpxn-button", "css:finder"],
+        ["xpath=//button[@id='mpxn-button']", "xpath:attributes"],
+        ["xpath=//li/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Devices')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "34d07ea7-7ff1-40a2-b1d3-7e468b751127",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "css=.meter-data_item:nth-child(2)",
+      "targets": [],
+      "value": "100000"
+    }, {
+      "id": "0c648c37-df33-4341-9e59-44c46449aa90",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.meter-data_item:nth-child(2) > .meter-data_value--not-active",
+      "targets": [],
+      "value": "NOT COMMISSIONED"
+    }, {
+      "id": "526eeecc-49c0-48f4-ac39-723aaa881232",
+      "comment": "",
+      "command": "click",
+      "target": "id=meter-info-button",
+      "targets": [
+        ["id=meter-info-button", "id"],
+        ["css=#meter-info-button", "css:finder"],
+        ["xpath=//button[@id='meter-info-button']", "xpath:attributes"],
+        ["xpath=//main/div/div/div[2]/div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Show postcode area')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f2b9877a-532f-4ae7-a340-c57262aa254d",
+      "comment": "",
+      "command": "click",
+      "target": "id=userDropdown",
+      "targets": [
+        ["id=userDropdown", "id"],
+        ["linkText=Hello, Admin!", "linkText"],
+        ["css=#userDropdown", "css:finder"],
+        ["xpath=//a[contains(text(),'Hello, Admin!')]", "xpath:link"],
+        ["xpath=//a[@id='userDropdown']", "xpath:attributes"],
+        ["xpath=//div[@id='navbarNav']/ul[2]/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#')])[2]", "xpath:href"],
+        ["xpath=//ul[2]/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Hello, Admin! ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c28a6106-3642-4fb0-9f3a-564b29c89b72",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Log Out",
+      "targets": [
+        ["linkText=Log Out", "linkText"],
+        ["css=li:nth-child(3) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'Log Out')]", "xpath:link"],
+        ["xpath=//div[@id='navbarNav']/ul[2]/li/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#')])[5]", "xpath:href"],
+        ["xpath=//li/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Log Out')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5185d540-091f-4d76-b629-6c26b50ddfda",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://10.72.99.220:8080/", "http://10.72.99.220:8080/mapView/login"],
+  "plugins": []
+}

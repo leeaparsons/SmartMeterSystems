@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+docker login registry.git.cf.ac.uk -u d1711278 -p 3uwy_zxDrxhVXjA7AeLQ
+docker stop $(docker ps -a -q);
+docker rm $(docker ps -a -q);
+docker run -d -p 8070:8070 registry.git.cf.ac.uk/d1310691/project15dissertation/jackson-pollock
+docker run -d -p 8069:8069 registry.git.cf.ac.uk/d1310691/project15dissertation/bob-ross

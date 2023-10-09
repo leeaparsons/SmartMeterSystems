@@ -1,0 +1,26 @@
+  pipeline {
+    agent any
+    
+    environment {
+      docker_password = credentials('password')
+    }
+
+    stages {
+      stage('Tear Down') {
+        steps {
+          sh 'docker login registry.git.cf.ac.uk -u d1711278 -p $docker_password'
+          sh 'docker stop $(docker ps -a -q)'
+          sh 'docker rm $(docker ps -a -q)'
+        }
+      }
+    
+      stage('Rebuild') {
+        steps {
+          sh 'docker login registry.git.cf.ac.uk -u d1711278 -p $docker_password'
+          sh 'docker run -d -p 8070:8070 registry.git.cf.ac.uk/d1310691/project15dissertation/jackson-pollock'
+          sh 'docker run -d -p 8071:8070 registry.git.cf.ac.uk/d1310691/project15dissertation/jackson-pollock'
+          sh 'docker run -d -p 8069:8069 registry.git.cf.ac.uk/d1310691/project15dissertation/bob-ross'
+        }
+      }
+    }
+  }

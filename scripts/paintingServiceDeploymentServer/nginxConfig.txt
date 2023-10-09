@@ -1,0 +1,91 @@
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+include /etc/nginx/modules-enabled/*.conf;
+
+events {
+        worker_connections 768;
+        # multi_accept on;
+}
+
+http {
+
+        gzip on;
+        include /etc/nginx/conf.d/*.conf;
+
+        upstream jpIps {
+                least_conn;
+
+                server 10.72.99.55:8070;
+                server 10.72.99.55:8071;
+        }
+
+
+       server {
+
+                listen 80;
+
+                #Jackson Pollock Proxy Routes
+                location /paintMap/commissioned {
+                        proxy_pass http://jpIps/paintMap/commissioned;
+                }
+
+                location /paintMap/uptake {
+                        proxy_pass http://jpIps/paintMap/uptake;
+                }
+
+                location /paintDashboard/total {
+                        proxy_pass http://jpIps/paintDashboard/total;
+                }
+
+                location /paintDashboard/totalUncommissioned {
+                        proxy_pass http://jpIps/paintDashboard/totalUncommissioned;
+                }
+
+                location /paintDashboard/lowestUptakeArea {
+                        proxy_pass http://jpIps/paintDashboard/lowestUptakeArea;
+                }
+
+                location /paintDashboard/averagePercentageUptake {
+                        proxy_pass http://jpIps/paintDashboard/averagePercentageUptake;
+                }
+
+                location /paintDashboard/acceptableUptake {
+                        proxy_pass http://jpIps/paintDashboard/acceptableUptake;
+                }
+
+                #Bob Ross Proxy Routes
+                location /calculateUptakePercentage {
+                        proxy_pass http://10.72.99.55:8069/calculateUptakePercentage;
+                }
+
+                location /calculateCommissionedDistribution {
+                        proxy_pass http://10.72.99.55:8069/calculateCommissionedDistribution;
+                }
+
+
+                location /paintDashboard/lowestUptakeArea {
+                        proxy_pass http://jpIps/paintDashboard/lowestUptakeArea;
+                }
+
+                location /paintDashboard/averagePercentageUptake {
+                        proxy_pass http://jpIps/paintDashboard/averagePercentageUptake;
+                }
+
+                location /paintDashboard/acceptableUptake {
+                        proxy_pass http://jpIps/paintDashboard/acceptableUptake;
+                }
+
+                #Bob Ross Proxy Routes
+                location /calculateUptakePercentage {
+                        proxy_pass http://10.72.99.55:8069/calculateUptakePercentage;
+                }
+
+                location /calculateCommissionedDistribution {
+                        proxy_pass http://10.72.99.55:8069/calculateCommissionedDistribution;
+                }
+
+        }
+
+}
+

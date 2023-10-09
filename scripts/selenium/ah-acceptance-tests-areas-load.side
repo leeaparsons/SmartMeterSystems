@@ -1,0 +1,127 @@
+{
+  "id": "d0e79c66-4b14-4c34-b4b1-1c1ffc63788e",
+  "version": "2.0",
+  "name": "sms",
+  "url": "http://10.72.99.220:8080/mapView/login",
+  "tests": [{
+    "id": "86e34d60-ea69-4a9d-a621-0dd0dddbc438",
+    "name": "uncommissioned-smart-meters",
+    "commands": [{
+      "id": "a9f54017-4c5b-459b-8f20-57224736caa3",
+      "comment": "",
+      "command": "open",
+      "target": "http://10.72.99.220:8080/mapView/login",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "16c8aa20-2c9b-4c4d-9638-f63514e31a09",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1496x933",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "69660246-e547-4f3d-bb1b-ac9abf9a531d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#loginForm > .form-group:nth-child(1) > .form-control",
+      "targets": [
+        ["css=#loginForm > .form-group:nth-child(1) > .form-control", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4cc1f13e-a7ac-4821-aced-fda6d4f74101",
+      "comment": "",
+      "command": "type",
+      "target": "css=#loginForm > .form-group:nth-child(1) > .form-control",
+      "targets": [
+        ["css=#loginForm > .form-group:nth-child(1) > .form-control", "css:finder"],
+        ["xpath=//input[@type='text']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "sms.user.default@gmail.com"
+    }, {
+      "id": "5885d605-b5e2-4352-99fb-e9a257cb914d",
+      "comment": "",
+      "command": "type",
+      "target": "css=.mb-2 > .form-control",
+      "targets": [
+        ["css=.mb-2 > .form-control", "css:finder"],
+        ["xpath=//input[@type='password']", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "Sms_user123"
+    }, {
+      "id": "846ca617-d51e-4701-a838-8c71fe13ed0c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-success",
+      "targets": [
+        ["css=.btn-success", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='loginForm']/div[3]/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1c0bda56-2e73-4201-ba37-7f4905c84c98",
+      "comment": "",
+      "command": "pause",
+      "target": "",
+      "targets": [],
+      "value": "100000"
+    }, {
+      "id": "52e184be-0cd7-45ae-83c3-3381749918b0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.leaflet-interactive:nth-child(2030)",
+      "targets": [
+        ["css=.leaflet-interactive:nth-child(2030)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "61355a0b-b863-4e05-a6b9-aa1b7b385ec9",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=.leaflet-interactive:nth-child(2747)",
+      "targets": [
+        ["css=.leaflet-interactive:nth-child(2747)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7672448-b36e-4b45-8153-1420dd283868",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=.leaflet-interactive:nth-child(2034)",
+      "targets": [
+        ["css=.leaflet-interactive:nth-child(2034)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "854084db-4560-4b81-9eb5-0e617b59501b",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=.leaflet-interactive:nth-child(2017)",
+      "targets": [
+        ["css=.leaflet-interactive:nth-child(2017)", "css:finder"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5185d540-091f-4d76-b629-6c26b50ddfda",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://10.72.99.220:8080/", "http://10.72.99.220:8080/mapView/login"],
+  "plugins": []
+}
