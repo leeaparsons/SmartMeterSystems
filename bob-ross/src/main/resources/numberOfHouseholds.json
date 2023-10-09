@@ -1,0 +1,9078 @@
+[
+ {
+   "postcode": "AL1",
+   "totalResidents": 15573
+ },
+ {
+   "postcode": "AL10",
+   "totalResidents": 13247
+ },
+ {
+   "postcode": "AL2",
+   "totalResidents": 9823
+ },
+ {
+   "postcode": "AL3",
+   "totalResidents": 11809
+ },
+ {
+   "postcode": "AL4",
+   "totalResidents": 11056
+ },
+ {
+   "postcode": "AL5",
+   "totalResidents": 11893
+ },
+ {
+   "postcode": "AL6",
+   "totalResidents": 4708
+ },
+ {
+   "postcode": "AL7",
+   "totalResidents": 14737
+ },
+ {
+   "postcode": "AL8",
+   "totalResidents": 5774
+ },
+ {
+   "postcode": "AL9",
+   "totalResidents": 4455
+ },
+ {
+   "postcode": "B1",
+   "totalResidents": 4705
+ },
+ {
+   "postcode": "B10",
+   "totalResidents": 7282
+ },
+ {
+   "postcode": "B11",
+   "totalResidents": 13221
+ },
+ {
+   "postcode": "B12",
+   "totalResidents": 6914
+ },
+ {
+   "postcode": "B13",
+   "totalResidents": 15746
+ },
+ {
+   "postcode": "B14",
+   "totalResidents": 18811
+ },
+ {
+   "postcode": "B15",
+   "totalResidents": 6640
+ },
+ {
+   "postcode": "B16",
+   "totalResidents": 10879
+ },
+ {
+   "postcode": "B17",
+   "totalResidents": 11430
+ },
+ {
+   "postcode": "B18",
+   "totalResidents": 6478
+ },
+ {
+   "postcode": "B19",
+   "totalResidents": 6690
+ },
+ {
+   "postcode": "B2",
+   "totalResidents": 503
+ },
+ {
+   "postcode": "B20",
+   "totalResidents": 11442
+ },
+ {
+   "postcode": "B21",
+   "totalResidents": 10337
+ },
+ {
+   "postcode": "B23",
+   "totalResidents": 19266
+ },
+ {
+   "postcode": "B24",
+   "totalResidents": 12386
+ },
+ {
+   "postcode": "B25",
+   "totalResidents": 6148
+ },
+ {
+   "postcode": "B26",
+   "totalResidents": 13935
+ },
+ {
+   "postcode": "B27",
+   "totalResidents": 10205
+ },
+ {
+   "postcode": "B28",
+   "totalResidents": 11280
+ },
+ {
+   "postcode": "B29",
+   "totalResidents": 15577
+ },
+ {
+   "postcode": "B3",
+   "totalResidents": 1784
+ },
+ {
+   "postcode": "B30",
+   "totalResidents": 13023
+ },
+ {
+   "postcode": "B31",
+   "totalResidents": 23714
+ },
+ {
+   "postcode": "B32",
+   "totalResidents": 16751
+ },
+ {
+   "postcode": "B33",
+   "totalResidents": 14128
+ },
+ {
+   "postcode": "B34",
+   "totalResidents": 8372
+ },
+ {
+   "postcode": "B35",
+   "totalResidents": 4299
+ },
+ {
+   "postcode": "B36",
+   "totalResidents": 14039
+ },
+ {
+   "postcode": "B37",
+   "totalResidents": 15549
+ },
+ {
+   "postcode": "B38",
+   "totalResidents": 9209
+ },
+ {
+   "postcode": "B4",
+   "totalResidents": 652
+ },
+ {
+   "postcode": "B42",
+   "totalResidents": 9636
+ },
+ {
+   "postcode": "B43",
+   "totalResidents": 12117
+ },
+ {
+   "postcode": "B44",
+   "totalResidents": 15370
+ },
+ {
+   "postcode": "B45",
+   "totalResidents": 13075
+ },
+ {
+   "postcode": "B46",
+   "totalResidents": 5406
+ },
+ {
+   "postcode": "B47",
+   "totalResidents": 4103
+ },
+ {
+   "postcode": "B48",
+   "totalResidents": 2469
+ },
+ {
+   "postcode": "B49",
+   "totalResidents": 4666
+ },
+ {
+   "postcode": "B5",
+   "totalResidents": 5419
+ },
+ {
+   "postcode": "B50",
+   "totalResidents": 2232
+ },
+ {
+   "postcode": "B6",
+   "totalResidents": 6099
+ },
+ {
+   "postcode": "B60",
+   "totalResidents": 12002
+ },
+ {
+   "postcode": "B61",
+   "totalResidents": 9970
+ },
+ {
+   "postcode": "B62",
+   "totalResidents": 10517
+ },
+ {
+   "postcode": "B63",
+   "totalResidents": 16013
+ },
+ {
+   "postcode": "B64",
+   "totalResidents": 7352
+ },
+ {
+   "postcode": "B65",
+   "totalResidents": 10233
+ },
+ {
+   "postcode": "B66",
+   "totalResidents": 7651
+ },
+ {
+   "postcode": "B67",
+   "totalResidents": 12140
+ },
+ {
+   "postcode": "B68",
+   "totalResidents": 12864
+ },
+ {
+   "postcode": "B69",
+   "totalResidents": 11981
+ },
+ {
+   "postcode": "B7",
+   "totalResidents": 3528
+ },
+ {
+   "postcode": "B70",
+   "totalResidents": 11220
+ },
+ {
+   "postcode": "B71",
+   "totalResidents": 13022
+ },
+ {
+   "postcode": "B72",
+   "totalResidents": 4043
+ },
+ {
+   "postcode": "B73",
+   "totalResidents": 9938
+ },
+ {
+   "postcode": "B74",
+   "totalResidents": 13987
+ },
+ {
+   "postcode": "B75",
+   "totalResidents": 11315
+ },
+ {
+   "postcode": "B76",
+   "totalResidents": 9443
+ },
+ {
+   "postcode": "B77",
+   "totalResidents": 23311
+ },
+ {
+   "postcode": "B78",
+   "totalResidents": 10445
+ },
+ {
+   "postcode": "B79",
+   "totalResidents": 9943
+ },
+ {
+   "postcode": "B8",
+   "totalResidents": 12378
+ },
+ {
+   "postcode": "B80",
+   "totalResidents": 3106
+ },
+ {
+   "postcode": "B9",
+   "totalResidents": 7701
+ },
+ {
+   "postcode": "B90",
+   "totalResidents": 19313
+ },
+ {
+   "postcode": "B91",
+   "totalResidents": 13944
+ },
+ {
+   "postcode": "B92",
+   "totalResidents": 16132
+ },
+ {
+   "postcode": "B93",
+   "totalResidents": 8212
+ },
+ {
+   "postcode": "B94",
+   "totalResidents": 3136
+ },
+ {
+   "postcode": "B95",
+   "totalResidents": 2800
+ },
+ {
+   "postcode": "B96",
+   "totalResidents": 2325
+ },
+ {
+   "postcode": "B97",
+   "totalResidents": 13936
+ },
+ {
+   "postcode": "B98",
+   "totalResidents": 20716
+ },
+ {
+   "postcode": "BA1",
+   "totalResidents": 19809
+ },
+ {
+   "postcode": "BA10",
+   "totalResidents": 1474
+ },
+ {
+   "postcode": "BA11",
+   "totalResidents": 14636
+ },
+ {
+   "postcode": "BA12",
+   "totalResidents": 13235
+ },
+ {
+   "postcode": "BA13",
+   "totalResidents": 8718
+ },
+ {
+   "postcode": "BA14",
+   "totalResidents": 20606
+ },
+ {
+   "postcode": "BA15",
+   "totalResidents": 6080
+ },
+ {
+   "postcode": "BA16",
+   "totalResidents": 5469
+ },
+ {
+   "postcode": "BA2",
+   "totalResidents": 30521
+ },
+ {
+   "postcode": "BA20",
+   "totalResidents": 5082
+ },
+ {
+   "postcode": "BA21",
+   "totalResidents": 14903
+ },
+ {
+   "postcode": "BA22",
+   "totalResidents": 7656
+ },
+ {
+   "postcode": "BA3",
+   "totalResidents": 14451
+ },
+ {
+   "postcode": "BA4",
+   "totalResidents": 7824
+ },
+ {
+   "postcode": "BA5",
+   "totalResidents": 8275
+ },
+ {
+   "postcode": "BA6",
+   "totalResidents": 6035
+ },
+ {
+   "postcode": "BA7",
+   "totalResidents": 1725
+ },
+ {
+   "postcode": "BA8",
+   "totalResidents": 1953
+ },
+ {
+   "postcode": "BA9",
+   "totalResidents": 3430
+ },
+ {
+   "postcode": "BB1",
+   "totalResidents": 25197
+ },
+ {
+   "postcode": "BB10",
+   "totalResidents": 16832
+ },
+ {
+   "postcode": "BB11",
+   "totalResidents": 10478
+ },
+ {
+   "postcode": "BB12",
+   "totalResidents": 15691
+ },
+ {
+   "postcode": "BB18",
+   "totalResidents": 7975
+ },
+ {
+   "postcode": "BB2",
+   "totalResidents": 24965
+ },
+ {
+   "postcode": "BB3",
+   "totalResidents": 15611
+ },
+ {
+   "postcode": "BB4",
+   "totalResidents": 18471
+ },
+ {
+   "postcode": "BB5",
+   "totalResidents": 26908
+ },
+ {
+   "postcode": "BB6",
+   "totalResidents": 6591
+ },
+ {
+   "postcode": "BB7",
+   "totalResidents": 14082
+ },
+ {
+   "postcode": "BB8",
+   "totalResidents": 10848
+ },
+ {
+   "postcode": "BB9",
+   "totalResidents": 18661
+ },
+ {
+   "postcode": "BD1",
+   "totalResidents": 2023
+ },
+ {
+   "postcode": "BD10",
+   "totalResidents": 11123
+ },
+ {
+   "postcode": "BD11",
+   "totalResidents": 5053
+ },
+ {
+   "postcode": "BD12",
+   "totalResidents": 7576
+ },
+ {
+   "postcode": "BD13",
+   "totalResidents": 11016
+ },
+ {
+   "postcode": "BD14",
+   "totalResidents": 3482
+ },
+ {
+   "postcode": "BD15",
+   "totalResidents": 6436
+ },
+ {
+   "postcode": "BD16",
+   "totalResidents": 11940
+ },
+ {
+   "postcode": "BD17",
+   "totalResidents": 8496
+ },
+ {
+   "postcode": "BD18",
+   "totalResidents": 11971
+ },
+ {
+   "postcode": "BD19",
+   "totalResidents": 10079
+ },
+ {
+   "postcode": "BD2",
+   "totalResidents": 11527
+ },
+ {
+   "postcode": "BD20",
+   "totalResidents": 15489
+ },
+ {
+   "postcode": "BD21",
+   "totalResidents": 10623
+ },
+ {
+   "postcode": "BD22",
+   "totalResidents": 13315
+ },
+ {
+   "postcode": "BD23",
+   "totalResidents": 14462
+ },
+ {
+   "postcode": "BD24",
+   "totalResidents": 2703
+ },
+ {
+   "postcode": "BD3",
+   "totalResidents": 10356
+ },
+ {
+   "postcode": "BD4",
+   "totalResidents": 13147
+ },
+ {
+   "postcode": "BD5",
+   "totalResidents": 11094
+ },
+ {
+   "postcode": "BD6",
+   "totalResidents": 12650
+ },
+ {
+   "postcode": "BD7",
+   "totalResidents": 11580
+ },
+ {
+   "postcode": "BD8",
+   "totalResidents": 10132
+ },
+ {
+   "postcode": "BD9",
+   "totalResidents": 8593
+ },
+ {
+   "postcode": "BH1",
+   "totalResidents": 10939
+ },
+ {
+   "postcode": "BH10",
+   "totalResidents": 8810
+ },
+ {
+   "postcode": "BH11",
+   "totalResidents": 8690
+ },
+ {
+   "postcode": "BH12",
+   "totalResidents": 15132
+ },
+ {
+   "postcode": "BH13",
+   "totalResidents": 5223
+ },
+ {
+   "postcode": "BH14",
+   "totalResidents": 11136
+ },
+ {
+   "postcode": "BH15",
+   "totalResidents": 15461
+ },
+ {
+   "postcode": "BH16",
+   "totalResidents": 6758
+ },
+ {
+   "postcode": "BH17",
+   "totalResidents": 9656
+ },
+ {
+   "postcode": "BH18",
+   "totalResidents": 4664
+ },
+ {
+   "postcode": "BH19",
+   "totalResidents": 6968
+ },
+ {
+   "postcode": "BH2",
+   "totalResidents": 5271
+ },
+ {
+   "postcode": "BH20",
+   "totalResidents": 9171
+ },
+ {
+   "postcode": "BH21",
+   "totalResidents": 17332
+ },
+ {
+   "postcode": "BH22",
+   "totalResidents": 12722
+ },
+ {
+   "postcode": "BH23",
+   "totalResidents": 25264
+ },
+ {
+   "postcode": "BH24",
+   "totalResidents": 10610
+ },
+ {
+   "postcode": "BH25",
+   "totalResidents": 12477
+ },
+ {
+   "postcode": "BH3",
+   "totalResidents": 2379
+ },
+ {
+   "postcode": "BH31",
+   "totalResidents": 5715
+ },
+ {
+   "postcode": "BH4",
+   "totalResidents": 5628
+ },
+ {
+   "postcode": "BH5",
+   "totalResidents": 6261
+ },
+ {
+   "postcode": "BH6",
+   "totalResidents": 10682
+ },
+ {
+   "postcode": "BH7",
+   "totalResidents": 5200
+ },
+ {
+   "postcode": "BH8",
+   "totalResidents": 12377
+ },
+ {
+   "postcode": "BH9",
+   "totalResidents": 12502
+ },
+ {
+   "postcode": "BL0",
+   "totalResidents": 8028
+ },
+ {
+   "postcode": "BL1",
+   "totalResidents": 28496
+ },
+ {
+   "postcode": "BL2",
+   "totalResidents": 20731
+ },
+ {
+   "postcode": "BL3",
+   "totalResidents": 26293
+ },
+ {
+   "postcode": "BL4",
+   "totalResidents": 14848
+ },
+ {
+   "postcode": "BL5",
+   "totalResidents": 11809
+ },
+ {
+   "postcode": "BL6",
+   "totalResidents": 13065
+ },
+ {
+   "postcode": "BL7",
+   "totalResidents": 6575
+ },
+ {
+   "postcode": "BL8",
+   "totalResidents": 15435
+ },
+ {
+   "postcode": "BL9",
+   "totalResidents": 21224
+ },
+ {
+   "postcode": "BN1",
+   "totalResidents": 37904
+ },
+ {
+   "postcode": "BN10",
+   "totalResidents": 8326
+ },
+ {
+   "postcode": "BN11",
+   "totalResidents": 17335
+ },
+ {
+   "postcode": "BN12",
+   "totalResidents": 9532
+ },
+ {
+   "postcode": "BN13",
+   "totalResidents": 12137
+ },
+ {
+   "postcode": "BN14",
+   "totalResidents": 13243
+ },
+ {
+   "postcode": "BN15",
+   "totalResidents": 12533
+ },
+ {
+   "postcode": "BN16",
+   "totalResidents": 13834
+ },
+ {
+   "postcode": "BN17",
+   "totalResidents": 12935
+ },
+ {
+   "postcode": "BN18",
+   "totalResidents": 6038
+ },
+ {
+   "postcode": "BN2",
+   "totalResidents": 42545
+ },
+ {
+   "postcode": "BN20",
+   "totalResidents": 10061
+ },
+ {
+   "postcode": "BN21",
+   "totalResidents": 13856
+ },
+ {
+   "postcode": "BN22",
+   "totalResidents": 14317
+ },
+ {
+   "postcode": "BN23",
+   "totalResidents": 13341
+ },
+ {
+   "postcode": "BN24",
+   "totalResidents": 4377
+ },
+ {
+   "postcode": "BN25",
+   "totalResidents": 11293
+ },
+ {
+   "postcode": "BN26",
+   "totalResidents": 5702
+ },
+ {
+   "postcode": "BN27",
+   "totalResidents": 11705
+ },
+ {
+   "postcode": "BN3",
+   "totalResidents": 39665
+ },
+ {
+   "postcode": "BN41",
+   "totalResidents": 8754
+ },
+ {
+   "postcode": "BN42",
+   "totalResidents": 4299
+ },
+ {
+   "postcode": "BN43",
+   "totalResidents": 10287
+ },
+ {
+   "postcode": "BN44",
+   "totalResidents": 4581
+ },
+ {
+   "postcode": "BN45",
+   "totalResidents": 284
+ },
+ {
+   "postcode": "BN5",
+   "totalResidents": 3144
+ },
+ {
+   "postcode": "BN6",
+   "totalResidents": 7454
+ },
+ {
+   "postcode": "BN7",
+   "totalResidents": 9277
+ },
+ {
+   "postcode": "BN8",
+   "totalResidents": 6858
+ },
+ {
+   "postcode": "BN9",
+   "totalResidents": 6015
+ },
+ {
+   "postcode": "BR1",
+   "totalResidents": 24250
+ },
+ {
+   "postcode": "BR2",
+   "totalResidents": 19747
+ },
+ {
+   "postcode": "BR3",
+   "totalResidents": 21766
+ },
+ {
+   "postcode": "BR4",
+   "totalResidents": 7399
+ },
+ {
+   "postcode": "BR5",
+   "totalResidents": 19245
+ },
+ {
+   "postcode": "BR6",
+   "totalResidents": 19814
+ },
+ {
+   "postcode": "BR7",
+   "totalResidents": 7430
+ },
+ {
+   "postcode": "BR8",
+   "totalResidents": 9260
+ },
+ {
+   "postcode": "BS1",
+   "totalResidents": 6076
+ },
+ {
+   "postcode": "BS10",
+   "totalResidents": 12117
+ },
+ {
+   "postcode": "BS11",
+   "totalResidents": 7718
+ },
+ {
+   "postcode": "BS13",
+   "totalResidents": 13010
+ },
+ {
+   "postcode": "BS14",
+   "totalResidents": 12189
+ },
+ {
+   "postcode": "BS15",
+   "totalResidents": 20755
+ },
+ {
+   "postcode": "BS16",
+   "totalResidents": 31861
+ },
+ {
+   "postcode": "BS2",
+   "totalResidents": 7517
+ },
+ {
+   "postcode": "BS20",
+   "totalResidents": 13436
+ },
+ {
+   "postcode": "BS21",
+   "totalResidents": 10576
+ },
+ {
+   "postcode": "BS22",
+   "totalResidents": 16616
+ },
+ {
+   "postcode": "BS23",
+   "totalResidents": 17732
+ },
+ {
+   "postcode": "BS24",
+   "totalResidents": 8119
+ },
+ {
+   "postcode": "BS25",
+   "totalResidents": 2770
+ },
+ {
+   "postcode": "BS26",
+   "totalResidents": 2174
+ },
+ {
+   "postcode": "BS27",
+   "totalResidents": 3105
+ },
+ {
+   "postcode": "BS28",
+   "totalResidents": 1388
+ },
+ {
+   "postcode": "BS29",
+   "totalResidents": 1336
+ },
+ {
+   "postcode": "BS3",
+   "totalResidents": 17462
+ },
+ {
+   "postcode": "BS30",
+   "totalResidents": 12766
+ },
+ {
+   "postcode": "BS31",
+   "totalResidents": 8837
+ },
+ {
+   "postcode": "BS32",
+   "totalResidents": 10265
+ },
+ {
+   "postcode": "BS34",
+   "totalResidents": 12841
+ },
+ {
+   "postcode": "BS35",
+   "totalResidents": 9308
+ },
+ {
+   "postcode": "BS36",
+   "totalResidents": 6348
+ },
+ {
+   "postcode": "BS37",
+   "totalResidents": 15680
+ },
+ {
+   "postcode": "BS39",
+   "totalResidents": 6335
+ },
+ {
+   "postcode": "BS4",
+   "totalResidents": 20743
+ },
+ {
+   "postcode": "BS40",
+   "totalResidents": 5508
+ },
+ {
+   "postcode": "BS41",
+   "totalResidents": 2581
+ },
+ {
+   "postcode": "BS48",
+   "totalResidents": 10063
+ },
+ {
+   "postcode": "BS49",
+   "totalResidents": 4970
+ },
+ {
+   "postcode": "BS5",
+   "totalResidents": 23619
+ },
+ {
+   "postcode": "BS6",
+   "totalResidents": 14575
+ },
+ {
+   "postcode": "BS7",
+   "totalResidents": 16826
+ },
+ {
+   "postcode": "BS8",
+   "totalResidents": 12371
+ },
+ {
+   "postcode": "BS9",
+   "totalResidents": 12766
+ },
+ {
+   "postcode": "CA1",
+   "totalResidents": 11748
+ },
+ {
+   "postcode": "CA10",
+   "totalResidents": 6484
+ },
+ {
+   "postcode": "CA11",
+   "totalResidents": 10590
+ },
+ {
+   "postcode": "CA12",
+   "totalResidents": 4537
+ },
+ {
+   "postcode": "CA13",
+   "totalResidents": 7192
+ },
+ {
+   "postcode": "CA14",
+   "totalResidents": 16567
+ },
+ {
+   "postcode": "CA15",
+   "totalResidents": 7438
+ },
+ {
+   "postcode": "CA16",
+   "totalResidents": 3012
+ },
+ {
+   "postcode": "CA17",
+   "totalResidents": 2451
+ },
+ {
+   "postcode": "CA18",
+   "totalResidents": 190
+ },
+ {
+   "postcode": "CA19",
+   "totalResidents": 557
+ },
+ {
+   "postcode": "CA2",
+   "totalResidents": 18848
+ },
+ {
+   "postcode": "CA20",
+   "totalResidents": 1688
+ },
+ {
+   "postcode": "CA21",
+   "totalResidents": 480
+ },
+ {
+   "postcode": "CA22",
+   "totalResidents": 4067
+ },
+ {
+   "postcode": "CA23",
+   "totalResidents": 682
+ },
+ {
+   "postcode": "CA24",
+   "totalResidents": 546
+ },
+ {
+   "postcode": "CA25",
+   "totalResidents": 2842
+ },
+ {
+   "postcode": "CA26",
+   "totalResidents": 1845
+ },
+ {
+   "postcode": "CA27",
+   "totalResidents": 741
+ },
+ {
+   "postcode": "CA28",
+   "totalResidents": 12849
+ },
+ {
+   "postcode": "CA3",
+   "totalResidents": 6323
+ },
+ {
+   "postcode": "CA4",
+   "totalResidents": 4392
+ },
+ {
+   "postcode": "CA5",
+   "totalResidents": 3129
+ },
+ {
+   "postcode": "CA6",
+   "totalResidents": 4026
+ },
+ {
+   "postcode": "CA7",
+   "totalResidents": 10370
+ },
+ {
+   "postcode": "CA8",
+   "totalResidents": 4879
+ },
+ {
+   "postcode": "CA9",
+   "totalResidents": 1156
+ },
+ {
+   "postcode": "CB1",
+   "totalResidents": 20910
+ },
+ {
+   "postcode": "CB10",
+   "totalResidents": 5669
+ },
+ {
+   "postcode": "CB11",
+   "totalResidents": 7507
+ },
+ {
+   "postcode": "CB2",
+   "totalResidents": 5142
+ },
+ {
+   "postcode": "CB21",
+   "totalResidents": 6524
+ },
+ {
+   "postcode": "CB22",
+   "totalResidents": 10326
+ },
+ {
+   "postcode": "CB23",
+   "totalResidents": 12521
+ },
+ {
+   "postcode": "CB24",
+   "totalResidents": 13819
+ },
+ {
+   "postcode": "CB25",
+   "totalResidents": 7569
+ },
+ {
+   "postcode": "CB3",
+   "totalResidents": 4814
+ },
+ {
+   "postcode": "CB4",
+   "totalResidents": 18479
+ },
+ {
+   "postcode": "CB5",
+   "totalResidents": 4799
+ },
+ {
+   "postcode": "CB6",
+   "totalResidents": 16052
+ },
+ {
+   "postcode": "CB7",
+   "totalResidents": 11749
+ },
+ {
+   "postcode": "CB8",
+   "totalResidents": 14911
+ },
+ {
+   "postcode": "CB9",
+   "totalResidents": 13264
+ },
+ {
+   "postcode": "CH1",
+   "totalResidents": 14718
+ },
+ {
+   "postcode": "CH2",
+   "totalResidents": 15508
+ },
+ {
+   "postcode": "CH3",
+   "totalResidents": 14348
+ },
+ {
+   "postcode": "CH4",
+   "totalResidents": 14456
+ },
+ {
+   "postcode": "CH41",
+   "totalResidents": 9771
+ },
+ {
+   "postcode": "CH42",
+   "totalResidents": 14387
+ },
+ {
+   "postcode": "CH43",
+   "totalResidents": 17815
+ },
+ {
+   "postcode": "CH44",
+   "totalResidents": 13643
+ },
+ {
+   "postcode": "CH45",
+   "totalResidents": 14235
+ },
+ {
+   "postcode": "CH46",
+   "totalResidents": 11456
+ },
+ {
+   "postcode": "CH47",
+   "totalResidents": 4764
+ },
+ {
+   "postcode": "CH48",
+   "totalResidents": 6942
+ },
+ {
+   "postcode": "CH49",
+   "totalResidents": 12965
+ },
+ {
+   "postcode": "CH5",
+   "totalResidents": 18121
+ },
+ {
+   "postcode": "CH6",
+   "totalResidents": 7108
+ },
+ {
+   "postcode": "CH60",
+   "totalResidents": 5899
+ },
+ {
+   "postcode": "CH61",
+   "totalResidents": 7919
+ },
+ {
+   "postcode": "CH62",
+   "totalResidents": 13083
+ },
+ {
+   "postcode": "CH63",
+   "totalResidents": 13065
+ },
+ {
+   "postcode": "CH64",
+   "totalResidents": 8782
+ },
+ {
+   "postcode": "CH65",
+   "totalResidents": 12092
+ },
+ {
+   "postcode": "CH66",
+   "totalResidents": 15197
+ },
+ {
+   "postcode": "CH7",
+   "totalResidents": 21914
+ },
+ {
+   "postcode": "CH8",
+   "totalResidents": 9186
+ },
+ {
+   "postcode": "CM0",
+   "totalResidents": 7339
+ },
+ {
+   "postcode": "CM1",
+   "totalResidents": 26667
+ },
+ {
+   "postcode": "CM11",
+   "totalResidents": 7619
+ },
+ {
+   "postcode": "CM12",
+   "totalResidents": 8626
+ },
+ {
+   "postcode": "CM13",
+   "totalResidents": 10458
+ },
+ {
+   "postcode": "CM14",
+   "totalResidents": 9253
+ },
+ {
+   "postcode": "CM15",
+   "totalResidents": 9753
+ },
+ {
+   "postcode": "CM16",
+   "totalResidents": 9906
+ },
+ {
+   "postcode": "CM17",
+   "totalResidents": 9171
+ },
+ {
+   "postcode": "CM18",
+   "totalResidents": 10475
+ },
+ {
+   "postcode": "CM19",
+   "totalResidents": 8134
+ },
+ {
+   "postcode": "CM2",
+   "totalResidents": 25100
+ },
+ {
+   "postcode": "CM20",
+   "totalResidents": 9720
+ },
+ {
+   "postcode": "CM21",
+   "totalResidents": 4895
+ },
+ {
+   "postcode": "CM22",
+   "totalResidents": 5292
+ },
+ {
+   "postcode": "CM23",
+   "totalResidents": 16723
+ },
+ {
+   "postcode": "CM24",
+   "totalResidents": 2880
+ },
+ {
+   "postcode": "CM3",
+   "totalResidents": 22247
+ },
+ {
+   "postcode": "CM4",
+   "totalResidents": 4524
+ },
+ {
+   "postcode": "CM5",
+   "totalResidents": 4615
+ },
+ {
+   "postcode": "CM6",
+   "totalResidents": 10452
+ },
+ {
+   "postcode": "CM7",
+   "totalResidents": 20862
+ },
+ {
+   "postcode": "CM77",
+   "totalResidents": 5897
+ },
+ {
+   "postcode": "CM8",
+   "totalResidents": 14152
+ },
+ {
+   "postcode": "CM9",
+   "totalResidents": 14839
+ },
+ {
+   "postcode": "CO1",
+   "totalResidents": 7832
+ },
+ {
+   "postcode": "CO10",
+   "totalResidents": 21246
+ },
+ {
+   "postcode": "CO11",
+   "totalResidents": 5832
+ },
+ {
+   "postcode": "CO12",
+   "totalResidents": 10249
+ },
+ {
+   "postcode": "CO13",
+   "totalResidents": 6374
+ },
+ {
+   "postcode": "CO14",
+   "totalResidents": 3733
+ },
+ {
+   "postcode": "CO15",
+   "totalResidents": 21838
+ },
+ {
+   "postcode": "CO16",
+   "totalResidents": 11422
+ },
+ {
+   "postcode": "CO2",
+   "totalResidents": 14346
+ },
+ {
+   "postcode": "CO3",
+   "totalResidents": 12362
+ },
+ {
+   "postcode": "CO4",
+   "totalResidents": 19479
+ },
+ {
+   "postcode": "CO5",
+   "totalResidents": 12624
+ },
+ {
+   "postcode": "CO6",
+   "totalResidents": 12317
+ },
+ {
+   "postcode": "CO7",
+   "totalResidents": 14798
+ },
+ {
+   "postcode": "CO8",
+   "totalResidents": 1035
+ },
+ {
+   "postcode": "CO9",
+   "totalResidents": 11133
+ },
+ {
+   "postcode": "CR0",
+   "totalResidents": 63758
+ },
+ {
+   "postcode": "CR2",
+   "totalResidents": 20246
+ },
+ {
+   "postcode": "CR3",
+   "totalResidents": 12033
+ },
+ {
+   "postcode": "CR4",
+   "totalResidents": 22393
+ },
+ {
+   "postcode": "CR5",
+   "totalResidents": 11340
+ },
+ {
+   "postcode": "CR6",
+   "totalResidents": 4193
+ },
+ {
+   "postcode": "CR7",
+   "totalResidents": 16661
+ },
+ {
+   "postcode": "CR8",
+   "totalResidents": 12705
+ },
+ {
+   "postcode": "CT1",
+   "totalResidents": 12524
+ },
+ {
+   "postcode": "CT10",
+   "totalResidents": 11963
+ },
+ {
+   "postcode": "CT11",
+   "totalResidents": 14335
+ },
+ {
+   "postcode": "CT12",
+   "totalResidents": 8186
+ },
+ {
+   "postcode": "CT13",
+   "totalResidents": 4225
+ },
+ {
+   "postcode": "CT14",
+   "totalResidents": 16924
+ },
+ {
+   "postcode": "CT15",
+   "totalResidents": 6036
+ },
+ {
+   "postcode": "CT16",
+   "totalResidents": 8926
+ },
+ {
+   "postcode": "CT17",
+   "totalResidents": 9842
+ },
+ {
+   "postcode": "CT18",
+   "totalResidents": 5926
+ },
+ {
+   "postcode": "CT19",
+   "totalResidents": 12160
+ },
+ {
+   "postcode": "CT2",
+   "totalResidents": 10948
+ },
+ {
+   "postcode": "CT20",
+   "totalResidents": 12066
+ },
+ {
+   "postcode": "CT21",
+   "totalResidents": 8343
+ },
+ {
+   "postcode": "CT3",
+   "totalResidents": 7264
+ },
+ {
+   "postcode": "CT4",
+   "totalResidents": 7152
+ },
+ {
+   "postcode": "CT5",
+   "totalResidents": 15569
+ },
+ {
+   "postcode": "CT6",
+   "totalResidents": 17362
+ },
+ {
+   "postcode": "CT7",
+   "totalResidents": 6254
+ },
+ {
+   "postcode": "CT8",
+   "totalResidents": 3759
+ },
+ {
+   "postcode": "CT9",
+   "totalResidents": 20779
+ },
+ {
+   "postcode": "CV1",
+   "totalResidents": 12681
+ },
+ {
+   "postcode": "CV10",
+   "totalResidents": 21423
+ },
+ {
+   "postcode": "CV11",
+   "totalResidents": 16977
+ },
+ {
+   "postcode": "CV12",
+   "totalResidents": 14045
+ },
+ {
+   "postcode": "CV13",
+   "totalResidents": 4640
+ },
+ {
+   "postcode": "CV2",
+   "totalResidents": 27400
+ },
+ {
+   "postcode": "CV21",
+   "totalResidents": 16147
+ },
+ {
+   "postcode": "CV22",
+   "totalResidents": 14804
+ },
+ {
+   "postcode": "CV23",
+   "totalResidents": 8819
+ },
+ {
+   "postcode": "CV3",
+   "totalResidents": 27475
+ },
+ {
+   "postcode": "CV31",
+   "totalResidents": 13176
+ },
+ {
+   "postcode": "CV32",
+   "totalResidents": 15133
+ },
+ {
+   "postcode": "CV33",
+   "totalResidents": 2646
+ },
+ {
+   "postcode": "CV34",
+   "totalResidents": 14226
+ },
+ {
+   "postcode": "CV35",
+   "totalResidents": 10627
+ },
+ {
+   "postcode": "CV36",
+   "totalResidents": 4477
+ },
+ {
+   "postcode": "CV37",
+   "totalResidents": 19206
+ },
+ {
+   "postcode": "CV4",
+   "totalResidents": 12411
+ },
+ {
+   "postcode": "CV47",
+   "totalResidents": 7184
+ },
+ {
+   "postcode": "CV5",
+   "totalResidents": 20831
+ },
+ {
+   "postcode": "CV6",
+   "totalResidents": 35106
+ },
+ {
+   "postcode": "CV7",
+   "totalResidents": 11894
+ },
+ {
+   "postcode": "CV8",
+   "totalResidents": 13973
+ },
+ {
+   "postcode": "CV9",
+   "totalResidents": 9408
+ },
+ {
+   "postcode": "CW1",
+   "totalResidents": 18103
+ },
+ {
+   "postcode": "CW10",
+   "totalResidents": 6264
+ },
+ {
+   "postcode": "CW11",
+   "totalResidents": 10043
+ },
+ {
+   "postcode": "CW12",
+   "totalResidents": 13251
+ },
+ {
+   "postcode": "CW2",
+   "totalResidents": 18015
+ },
+ {
+   "postcode": "CW3",
+   "totalResidents": 4142
+ },
+ {
+   "postcode": "CW4",
+   "totalResidents": 4132
+ },
+ {
+   "postcode": "CW5",
+   "totalResidents": 13449
+ },
+ {
+   "postcode": "CW6",
+   "totalResidents": 5247
+ },
+ {
+   "postcode": "CW7",
+   "totalResidents": 13303
+ },
+ {
+   "postcode": "CW8",
+   "totalResidents": 15659
+ },
+ {
+   "postcode": "CW9",
+   "totalResidents": 14402
+ },
+ {
+   "postcode": "DA1",
+   "totalResidents": 22379
+ },
+ {
+   "postcode": "DA10",
+   "totalResidents": 2904
+ },
+ {
+   "postcode": "DA11",
+   "totalResidents": 15684
+ },
+ {
+   "postcode": "DA12",
+   "totalResidents": 19436
+ },
+ {
+   "postcode": "DA13",
+   "totalResidents": 5912
+ },
+ {
+   "postcode": "DA14",
+   "totalResidents": 9728
+ },
+ {
+   "postcode": "DA15",
+   "totalResidents": 11649
+ },
+ {
+   "postcode": "DA16",
+   "totalResidents": 13998
+ },
+ {
+   "postcode": "DA17",
+   "totalResidents": 7155
+ },
+ {
+   "postcode": "DA18",
+   "totalResidents": 2015
+ },
+ {
+   "postcode": "DA2",
+   "totalResidents": 9283
+ },
+ {
+   "postcode": "DA3",
+   "totalResidents": 6909
+ },
+ {
+   "postcode": "DA4",
+   "totalResidents": 4011
+ },
+ {
+   "postcode": "DA5",
+   "totalResidents": 8456
+ },
+ {
+   "postcode": "DA6",
+   "totalResidents": 4093
+ },
+ {
+   "postcode": "DA7",
+   "totalResidents": 14507
+ },
+ {
+   "postcode": "DA8",
+   "totalResidents": 14060
+ },
+ {
+   "postcode": "DA9",
+   "totalResidents": 6107
+ },
+ {
+   "postcode": "DE1",
+   "totalResidents": 7061
+ },
+ {
+   "postcode": "DE11",
+   "totalResidents": 19065
+ },
+ {
+   "postcode": "DE12",
+   "totalResidents": 8764
+ },
+ {
+   "postcode": "DE13",
+   "totalResidents": 17685
+ },
+ {
+   "postcode": "DE14",
+   "totalResidents": 12639
+ },
+ {
+   "postcode": "DE15",
+   "totalResidents": 10586
+ },
+ {
+   "postcode": "DE21",
+   "totalResidents": 24732
+ },
+ {
+   "postcode": "DE22",
+   "totalResidents": 21230
+ },
+ {
+   "postcode": "DE23",
+   "totalResidents": 22794
+ },
+ {
+   "postcode": "DE24",
+   "totalResidents": 23630
+ },
+ {
+   "postcode": "DE3",
+   "totalResidents": 7368
+ },
+ {
+   "postcode": "DE4",
+   "totalResidents": 15919
+ },
+ {
+   "postcode": "DE45",
+   "totalResidents": 4375
+ },
+ {
+   "postcode": "DE5",
+   "totalResidents": 9812
+ },
+ {
+   "postcode": "DE55",
+   "totalResidents": 23106
+ },
+ {
+   "postcode": "DE56",
+   "totalResidents": 18189
+ },
+ {
+   "postcode": "DE6",
+   "totalResidents": 11241
+ },
+ {
+   "postcode": "DE65",
+   "totalResidents": 9563
+ },
+ {
+   "postcode": "DE7",
+   "totalResidents": 22315
+ },
+ {
+   "postcode": "DE72",
+   "totalResidents": 9111
+ },
+ {
+   "postcode": "DE73",
+   "totalResidents": 8099
+ },
+ {
+   "postcode": "DE74",
+   "totalResidents": 5110
+ },
+ {
+   "postcode": "DE75",
+   "totalResidents": 8094
+ },
+ {
+   "postcode": "DH1",
+   "totalResidents": 18770
+ },
+ {
+   "postcode": "DH2",
+   "totalResidents": 13759
+ },
+ {
+   "postcode": "DH3",
+   "totalResidents": 11914
+ },
+ {
+   "postcode": "DH4",
+   "totalResidents": 14754
+ },
+ {
+   "postcode": "DH5",
+   "totalResidents": 9025
+ },
+ {
+   "postcode": "DH6",
+   "totalResidents": 15319
+ },
+ {
+   "postcode": "DH7",
+   "totalResidents": 19455
+ },
+ {
+   "postcode": "DH8",
+   "totalResidents": 17930
+ },
+ {
+   "postcode": "DH9",
+   "totalResidents": 17280
+ },
+ {
+   "postcode": "DL1",
+   "totalResidents": 21272
+ },
+ {
+   "postcode": "DL10",
+   "totalResidents": 8307
+ },
+ {
+   "postcode": "DL11",
+   "totalResidents": 2966
+ },
+ {
+   "postcode": "DL12",
+   "totalResidents": 5859
+ },
+ {
+   "postcode": "DL13",
+   "totalResidents": 7108
+ },
+ {
+   "postcode": "DL14",
+   "totalResidents": 17520
+ },
+ {
+   "postcode": "DL15",
+   "totalResidents": 10568
+ },
+ {
+   "postcode": "DL16",
+   "totalResidents": 9145
+ },
+ {
+   "postcode": "DL17",
+   "totalResidents": 8627
+ },
+ {
+   "postcode": "DL2",
+   "totalResidents": 7607
+ },
+ {
+   "postcode": "DL3",
+   "totalResidents": 21193
+ },
+ {
+   "postcode": "DL4",
+   "totalResidents": 4843
+ },
+ {
+   "postcode": "DL5",
+   "totalResidents": 12910
+ },
+ {
+   "postcode": "DL6",
+   "totalResidents": 7069
+ },
+ {
+   "postcode": "DL7",
+   "totalResidents": 6885
+ },
+ {
+   "postcode": "DL8",
+   "totalResidents": 9760
+ },
+ {
+   "postcode": "DL9",
+   "totalResidents": 4643
+ },
+ {
+   "postcode": "DN1",
+   "totalResidents": 4439
+ },
+ {
+   "postcode": "DN10",
+   "totalResidents": 5473
+ },
+ {
+   "postcode": "DN11",
+   "totalResidents": 12392
+ },
+ {
+   "postcode": "DN12",
+   "totalResidents": 10452
+ },
+ {
+   "postcode": "DN14",
+   "totalResidents": 20240
+ },
+ {
+   "postcode": "DN15",
+   "totalResidents": 15771
+ },
+ {
+   "postcode": "DN16",
+   "totalResidents": 14044
+ },
+ {
+   "postcode": "DN17",
+   "totalResidents": 16187
+ },
+ {
+   "postcode": "DN18",
+   "totalResidents": 5422
+ },
+ {
+   "postcode": "DN19",
+   "totalResidents": 2756
+ },
+ {
+   "postcode": "DN2",
+   "totalResidents": 10447
+ },
+ {
+   "postcode": "DN20",
+   "totalResidents": 8545
+ },
+ {
+   "postcode": "DN21",
+   "totalResidents": 17007
+ },
+ {
+   "postcode": "DN22",
+   "totalResidents": 15871
+ },
+ {
+   "postcode": "DN3",
+   "totalResidents": 13142
+ },
+ {
+   "postcode": "DN31",
+   "totalResidents": 4867
+ },
+ {
+   "postcode": "DN32",
+   "totalResidents": 14150
+ },
+ {
+   "postcode": "DN33",
+   "totalResidents": 8414
+ },
+ {
+   "postcode": "DN34",
+   "totalResidents": 8569
+ },
+ {
+   "postcode": "DN35",
+   "totalResidents": 16001
+ },
+ {
+   "postcode": "DN36",
+   "totalResidents": 8636
+ },
+ {
+   "postcode": "DN37",
+   "totalResidents": 9434
+ },
+ {
+   "postcode": "DN38",
+   "totalResidents": 1301
+ },
+ {
+   "postcode": "DN39",
+   "totalResidents": 1276
+ },
+ {
+   "postcode": "DN4",
+   "totalResidents": 23604
+ },
+ {
+   "postcode": "DN40",
+   "totalResidents": 5462
+ },
+ {
+   "postcode": "DN41",
+   "totalResidents": 2749
+ },
+ {
+   "postcode": "DN5",
+   "totalResidents": 17608
+ },
+ {
+   "postcode": "DN6",
+   "totalResidents": 13228
+ },
+ {
+   "postcode": "DN7",
+   "totalResidents": 9628
+ },
+ {
+   "postcode": "DN8",
+   "totalResidents": 7502
+ },
+ {
+   "postcode": "DN9",
+   "totalResidents": 8618
+ },
+ {
+   "postcode": "DT1",
+   "totalResidents": 9001
+ },
+ {
+   "postcode": "DT10",
+   "totalResidents": 5495
+ },
+ {
+   "postcode": "DT11",
+   "totalResidents": 12771
+ },
+ {
+   "postcode": "DT2",
+   "totalResidents": 11786
+ },
+ {
+   "postcode": "DT3",
+   "totalResidents": 11032
+ },
+ {
+   "postcode": "DT4",
+   "totalResidents": 18185
+ },
+ {
+   "postcode": "DT5",
+   "totalResidents": 5610
+ },
+ {
+   "postcode": "DT6",
+   "totalResidents": 11787
+ },
+ {
+   "postcode": "DT7",
+   "totalResidents": 3457
+ },
+ {
+   "postcode": "DT8",
+   "totalResidents": 3107
+ },
+ {
+   "postcode": "DT9",
+   "totalResidents": 9719
+ },
+ {
+   "postcode": "DY1",
+   "totalResidents": 13259
+ },
+ {
+   "postcode": "DY10",
+   "totalResidents": 16110
+ },
+ {
+   "postcode": "DY11",
+   "totalResidents": 13350
+ },
+ {
+   "postcode": "DY12",
+   "totalResidents": 6287
+ },
+ {
+   "postcode": "DY13",
+   "totalResidents": 10447
+ },
+ {
+   "postcode": "DY14",
+   "totalResidents": 3658
+ },
+ {
+   "postcode": "DY2",
+   "totalResidents": 14131
+ },
+ {
+   "postcode": "DY3",
+   "totalResidents": 14855
+ },
+ {
+   "postcode": "DY4",
+   "totalResidents": 18042
+ },
+ {
+   "postcode": "DY5",
+   "totalResidents": 17725
+ },
+ {
+   "postcode": "DY6",
+   "totalResidents": 11684
+ },
+ {
+   "postcode": "DY7",
+   "totalResidents": 3630
+ },
+ {
+   "postcode": "DY8",
+   "totalResidents": 22415
+ },
+ {
+   "postcode": "DY9",
+   "totalResidents": 12692
+ },
+ {
+   "postcode": "E1",
+   "totalResidents": 26921
+ },
+ {
+   "postcode": "E10",
+   "totalResidents": 15637
+ },
+ {
+   "postcode": "E11",
+   "totalResidents": 22041
+ },
+ {
+   "postcode": "E12",
+   "totalResidents": 13022
+ },
+ {
+   "postcode": "E13",
+   "totalResidents": 16007
+ },
+ {
+   "postcode": "E14",
+   "totalResidents": 36913
+ },
+ {
+   "postcode": "E15",
+   "totalResidents": 19906
+ },
+ {
+   "postcode": "E16",
+   "totalResidents": 17814
+ },
+ {
+   "postcode": "E17",
+   "totalResidents": 39225
+ },
+ {
+   "postcode": "E18",
+   "totalResidents": 8735
+ },
+ {
+   "postcode": "E1W",
+   "totalResidents": 6531
+ },
+ {
+   "postcode": "E2",
+   "totalResidents": 19244
+ },
+ {
+   "postcode": "E3",
+   "totalResidents": 21042
+ },
+ {
+   "postcode": "E4",
+   "totalResidents": 24317
+ },
+ {
+   "postcode": "E5",
+   "totalResidents": 19764
+ },
+ {
+   "postcode": "E6",
+   "totalResidents": 24693
+ },
+ {
+   "postcode": "E7",
+   "totalResidents": 16476
+ },
+ {
+   "postcode": "E8",
+   "totalResidents": 17636
+ },
+ {
+   "postcode": "E9",
+   "totalResidents": 16010
+ },
+ {
+   "postcode": "EC1A",
+   "totalResidents": 805
+ },
+ {
+   "postcode": "EC1M",
+   "totalResidents": 1208
+ },
+ {
+   "postcode": "EC1N",
+   "totalResidents": 1329
+ },
+ {
+   "postcode": "EC1R",
+   "totalResidents": 2644
+ },
+ {
+   "postcode": "EC1V",
+   "totalResidents": 6455
+ },
+ {
+   "postcode": "EC1Y",
+   "totalResidents": 2085
+ },
+ {
+   "postcode": "EC2A",
+   "totalResidents": 756
+ },
+ {
+   "postcode": "EC2Y",
+   "totalResidents": 2210
+ },
+ {
+   "postcode": "EC3R",
+   "totalResidents": 226
+ },
+ {
+   "postcode": "EC4A",
+   "totalResidents": 164
+ },
+ {
+   "postcode": "EC4V",
+   "totalResidents": 620
+ },
+ {
+   "postcode": "EC4Y",
+   "totalResidents": 334
+ },
+ {
+   "postcode": "EN1",
+   "totalResidents": 17989
+ },
+ {
+   "postcode": "EN10",
+   "totalResidents": 7043
+ },
+ {
+   "postcode": "EN11",
+   "totalResidents": 9108
+ },
+ {
+   "postcode": "EN2",
+   "totalResidents": 13136
+ },
+ {
+   "postcode": "EN3",
+   "totalResidents": 21471
+ },
+ {
+   "postcode": "EN4",
+   "totalResidents": 10220
+ },
+ {
+   "postcode": "EN5",
+   "totalResidents": 16007
+ },
+ {
+   "postcode": "EN6",
+   "totalResidents": 12338
+ },
+ {
+   "postcode": "EN7",
+   "totalResidents": 8497
+ },
+ {
+   "postcode": "EN8",
+   "totalResidents": 15681
+ },
+ {
+   "postcode": "EN9",
+   "totalResidents": 10533
+ },
+ {
+   "postcode": "EX1",
+   "totalResidents": 9517
+ },
+ {
+   "postcode": "EX10",
+   "totalResidents": 8987
+ },
+ {
+   "postcode": "EX11",
+   "totalResidents": 3513
+ },
+ {
+   "postcode": "EX12",
+   "totalResidents": 5503
+ },
+ {
+   "postcode": "EX13",
+   "totalResidents": 5539
+ },
+ {
+   "postcode": "EX14",
+   "totalResidents": 9641
+ },
+ {
+   "postcode": "EX15",
+   "totalResidents": 9127
+ },
+ {
+   "postcode": "EX16",
+   "totalResidents": 14368
+ },
+ {
+   "postcode": "EX17",
+   "totalResidents": 8521
+ },
+ {
+   "postcode": "EX18",
+   "totalResidents": 1524
+ },
+ {
+   "postcode": "EX19",
+   "totalResidents": 1725
+ },
+ {
+   "postcode": "EX2",
+   "totalResidents": 18338
+ },
+ {
+   "postcode": "EX20",
+   "totalResidents": 9223
+ },
+ {
+   "postcode": "EX21",
+   "totalResidents": 2059
+ },
+ {
+   "postcode": "EX22",
+   "totalResidents": 4916
+ },
+ {
+   "postcode": "EX23",
+   "totalResidents": 8144
+ },
+ {
+   "postcode": "EX24",
+   "totalResidents": 1890
+ },
+ {
+   "postcode": "EX3",
+   "totalResidents": 2586
+ },
+ {
+   "postcode": "EX31",
+   "totalResidents": 11321
+ },
+ {
+   "postcode": "EX32",
+   "totalResidents": 10598
+ },
+ {
+   "postcode": "EX33",
+   "totalResidents": 5222
+ },
+ {
+   "postcode": "EX34",
+   "totalResidents": 9022
+ },
+ {
+   "postcode": "EX35",
+   "totalResidents": 1003
+ },
+ {
+   "postcode": "EX36",
+   "totalResidents": 3995
+ },
+ {
+   "postcode": "EX37",
+   "totalResidents": 1585
+ },
+ {
+   "postcode": "EX38",
+   "totalResidents": 3682
+ },
+ {
+   "postcode": "EX39",
+   "totalResidents": 18583
+ },
+ {
+   "postcode": "EX4",
+   "totalResidents": 22358
+ },
+ {
+   "postcode": "EX5",
+   "totalResidents": 8102
+ },
+ {
+   "postcode": "EX6",
+   "totalResidents": 6319
+ },
+ {
+   "postcode": "EX7",
+   "totalResidents": 6194
+ },
+ {
+   "postcode": "EX8",
+   "totalResidents": 17400
+ },
+ {
+   "postcode": "EX9",
+   "totalResidents": 3580
+ },
+ {
+   "postcode": "FY1",
+   "totalResidents": 17506
+ },
+ {
+   "postcode": "FY2",
+   "totalResidents": 11765
+ },
+ {
+   "postcode": "FY3",
+   "totalResidents": 15060
+ },
+ {
+   "postcode": "FY4",
+   "totalResidents": 20753
+ },
+ {
+   "postcode": "FY5",
+   "totalResidents": 21483
+ },
+ {
+   "postcode": "FY6",
+   "totalResidents": 13283
+ },
+ {
+   "postcode": "FY7",
+   "totalResidents": 12087
+ },
+ {
+   "postcode": "FY8",
+   "totalResidents": 23262
+ },
+ {
+   "postcode": "GL1",
+   "totalResidents": 15980
+ },
+ {
+   "postcode": "GL10",
+   "totalResidents": 6003
+ },
+ {
+   "postcode": "GL11",
+   "totalResidents": 8036
+ },
+ {
+   "postcode": "GL12",
+   "totalResidents": 5853
+ },
+ {
+   "postcode": "GL13",
+   "totalResidents": 2591
+ },
+ {
+   "postcode": "GL14",
+   "totalResidents": 6990
+ },
+ {
+   "postcode": "GL15",
+   "totalResidents": 9303
+ },
+ {
+   "postcode": "GL16",
+   "totalResidents": 6048
+ },
+ {
+   "postcode": "GL17",
+   "totalResidents": 4938
+ },
+ {
+   "postcode": "GL18",
+   "totalResidents": 3402
+ },
+ {
+   "postcode": "GL19",
+   "totalResidents": 3973
+ },
+ {
+   "postcode": "GL2",
+   "totalResidents": 21595
+ },
+ {
+   "postcode": "GL20",
+   "totalResidents": 12605
+ },
+ {
+   "postcode": "GL3",
+   "totalResidents": 13524
+ },
+ {
+   "postcode": "GL4",
+   "totalResidents": 20313
+ },
+ {
+   "postcode": "GL5",
+   "totalResidents": 13990
+ },
+ {
+   "postcode": "GL50",
+   "totalResidents": 11237
+ },
+ {
+   "postcode": "GL51",
+   "totalResidents": 22929
+ },
+ {
+   "postcode": "GL52",
+   "totalResidents": 20208
+ },
+ {
+   "postcode": "GL53",
+   "totalResidents": 8694
+ },
+ {
+   "postcode": "GL54",
+   "totalResidents": 11190
+ },
+ {
+   "postcode": "GL55",
+   "totalResidents": 2822
+ },
+ {
+   "postcode": "GL56",
+   "totalResidents": 4521
+ },
+ {
+   "postcode": "GL6",
+   "totalResidents": 11183
+ },
+ {
+   "postcode": "GL7",
+   "totalResidents": 19593
+ },
+ {
+   "postcode": "GL8",
+   "totalResidents": 3974
+ },
+ {
+   "postcode": "GL9",
+   "totalResidents": 1131
+ },
+ {
+   "postcode": "GU1",
+   "totalResidents": 13202
+ },
+ {
+   "postcode": "GU10",
+   "totalResidents": 9015
+ },
+ {
+   "postcode": "GU11",
+   "totalResidents": 9154
+ },
+ {
+   "postcode": "GU12",
+   "totalResidents": 13279
+ },
+ {
+   "postcode": "GU14",
+   "totalResidents": 22266
+ },
+ {
+   "postcode": "GU15",
+   "totalResidents": 13655
+ },
+ {
+   "postcode": "GU16",
+   "totalResidents": 9406
+ },
+ {
+   "postcode": "GU17",
+   "totalResidents": 4268
+ },
+ {
+   "postcode": "GU18",
+   "totalResidents": 2848
+ },
+ {
+   "postcode": "GU19",
+   "totalResidents": 2409
+ },
+ {
+   "postcode": "GU2",
+   "totalResidents": 12236
+ },
+ {
+   "postcode": "GU20",
+   "totalResidents": 1896
+ },
+ {
+   "postcode": "GU21",
+   "totalResidents": 20197
+ },
+ {
+   "postcode": "GU22",
+   "totalResidents": 13761
+ },
+ {
+   "postcode": "GU23",
+   "totalResidents": 2788
+ },
+ {
+   "postcode": "GU24",
+   "totalResidents": 6647
+ },
+ {
+   "postcode": "GU25",
+   "totalResidents": 2357
+ },
+ {
+   "postcode": "GU26",
+   "totalResidents": 3135
+ },
+ {
+   "postcode": "GU27",
+   "totalResidents": 7634
+ },
+ {
+   "postcode": "GU28",
+   "totalResidents": 3125
+ },
+ {
+   "postcode": "GU29",
+   "totalResidents": 4576
+ },
+ {
+   "postcode": "GU3",
+   "totalResidents": 4616
+ },
+ {
+   "postcode": "GU30",
+   "totalResidents": 4038
+ },
+ {
+   "postcode": "GU31",
+   "totalResidents": 5013
+ },
+ {
+   "postcode": "GU32",
+   "totalResidents": 5160
+ },
+ {
+   "postcode": "GU33",
+   "totalResidents": 3463
+ },
+ {
+   "postcode": "GU34",
+   "totalResidents": 12765
+ },
+ {
+   "postcode": "GU35",
+   "totalResidents": 9556
+ },
+ {
+   "postcode": "GU4",
+   "totalResidents": 6844
+ },
+ {
+   "postcode": "GU46",
+   "totalResidents": 5911
+ },
+ {
+   "postcode": "GU47",
+   "totalResidents": 7611
+ },
+ {
+   "postcode": "GU5",
+   "totalResidents": 4766
+ },
+ {
+   "postcode": "GU51",
+   "totalResidents": 9667
+ },
+ {
+   "postcode": "GU52",
+   "totalResidents": 6425
+ },
+ {
+   "postcode": "GU6",
+   "totalResidents": 6293
+ },
+ {
+   "postcode": "GU7",
+   "totalResidents": 9605
+ },
+ {
+   "postcode": "GU8",
+   "totalResidents": 7304
+ },
+ {
+   "postcode": "GU9",
+   "totalResidents": 12872
+ },
+ {
+   "postcode": "HA0",
+   "totalResidents": 15360
+ },
+ {
+   "postcode": "HA1",
+   "totalResidents": 15042
+ },
+ {
+   "postcode": "HA2",
+   "totalResidents": 19672
+ },
+ {
+   "postcode": "HA3",
+   "totalResidents": 23608
+ },
+ {
+   "postcode": "HA4",
+   "totalResidents": 20117
+ },
+ {
+   "postcode": "HA5",
+   "totalResidents": 18121
+ },
+ {
+   "postcode": "HA6",
+   "totalResidents": 9406
+ },
+ {
+   "postcode": "HA7",
+   "totalResidents": 13528
+ },
+ {
+   "postcode": "HA8",
+   "totalResidents": 23545
+ },
+ {
+   "postcode": "HA9",
+   "totalResidents": 16208
+ },
+ {
+   "postcode": "HD1",
+   "totalResidents": 9558
+ },
+ {
+   "postcode": "HD2",
+   "totalResidents": 12583
+ },
+ {
+   "postcode": "HD3",
+   "totalResidents": 13718
+ },
+ {
+   "postcode": "HD4",
+   "totalResidents": 13823
+ },
+ {
+   "postcode": "HD5",
+   "totalResidents": 14097
+ },
+ {
+   "postcode": "HD6",
+   "totalResidents": 12791
+ },
+ {
+   "postcode": "HD7",
+   "totalResidents": 10344
+ },
+ {
+   "postcode": "HD8",
+   "totalResidents": 14312
+ },
+ {
+   "postcode": "HD9",
+   "totalResidents": 15653
+ },
+ {
+   "postcode": "HG1",
+   "totalResidents": 16297
+ },
+ {
+   "postcode": "HG2",
+   "totalResidents": 14935
+ },
+ {
+   "postcode": "HG3",
+   "totalResidents": 11693
+ },
+ {
+   "postcode": "HG4",
+   "totalResidents": 11578
+ },
+ {
+   "postcode": "HG5",
+   "totalResidents": 8113
+ },
+ {
+   "postcode": "HP1",
+   "totalResidents": 10844
+ },
+ {
+   "postcode": "HP10",
+   "totalResidents": 7898
+ },
+ {
+   "postcode": "HP11",
+   "totalResidents": 5346
+ },
+ {
+   "postcode": "HP12",
+   "totalResidents": 8742
+ },
+ {
+   "postcode": "HP13",
+   "totalResidents": 17365
+ },
+ {
+   "postcode": "HP14",
+   "totalResidents": 7333
+ },
+ {
+   "postcode": "HP15",
+   "totalResidents": 6998
+ },
+ {
+   "postcode": "HP16",
+   "totalResidents": 4910
+ },
+ {
+   "postcode": "HP17",
+   "totalResidents": 4360
+ },
+ {
+   "postcode": "HP18",
+   "totalResidents": 5448
+ },
+ {
+   "postcode": "HP19",
+   "totalResidents": 9759
+ },
+ {
+   "postcode": "HP2",
+   "totalResidents": 16621
+ },
+ {
+   "postcode": "HP20",
+   "totalResidents": 6196
+ },
+ {
+   "postcode": "HP21",
+   "totalResidents": 13779
+ },
+ {
+   "postcode": "HP22",
+   "totalResidents": 10327
+ },
+ {
+   "postcode": "HP23",
+   "totalResidents": 7384
+ },
+ {
+   "postcode": "HP27",
+   "totalResidents": 5257
+ },
+ {
+   "postcode": "HP3",
+   "totalResidents": 12937
+ },
+ {
+   "postcode": "HP4",
+   "totalResidents": 10531
+ },
+ {
+   "postcode": "HP5",
+   "totalResidents": 10680
+ },
+ {
+   "postcode": "HP6",
+   "totalResidents": 5732
+ },
+ {
+   "postcode": "HP7",
+   "totalResidents": 4571
+ },
+ {
+   "postcode": "HP8",
+   "totalResidents": 2785
+ },
+ {
+   "postcode": "HP9",
+   "totalResidents": 6994
+ },
+ {
+   "postcode": "HR1",
+   "totalResidents": 13913
+ },
+ {
+   "postcode": "HR2",
+   "totalResidents": 16858
+ },
+ {
+   "postcode": "HR3",
+   "totalResidents": 3941
+ },
+ {
+   "postcode": "HR4",
+   "totalResidents": 13636
+ },
+ {
+   "postcode": "HR5",
+   "totalResidents": 2245
+ },
+ {
+   "postcode": "HR6",
+   "totalResidents": 9481
+ },
+ {
+   "postcode": "HR7",
+   "totalResidents": 3328
+ },
+ {
+   "postcode": "HR8",
+   "totalResidents": 6463
+ },
+ {
+   "postcode": "HR9",
+   "totalResidents": 9834
+ },
+ {
+   "postcode": "HU1",
+   "totalResidents": 2259
+ },
+ {
+   "postcode": "HU10",
+   "totalResidents": 8402
+ },
+ {
+   "postcode": "HU11",
+   "totalResidents": 5285
+ },
+ {
+   "postcode": "HU12",
+   "totalResidents": 11284
+ },
+ {
+   "postcode": "HU13",
+   "totalResidents": 6503
+ },
+ {
+   "postcode": "HU14",
+   "totalResidents": 3592
+ },
+ {
+   "postcode": "HU15",
+   "totalResidents": 10032
+ },
+ {
+   "postcode": "HU16",
+   "totalResidents": 7144
+ },
+ {
+   "postcode": "HU17",
+   "totalResidents": 19369
+ },
+ {
+   "postcode": "HU18",
+   "totalResidents": 4114
+ },
+ {
+   "postcode": "HU19",
+   "totalResidents": 3338
+ },
+ {
+   "postcode": "HU2",
+   "totalResidents": 2254
+ },
+ {
+   "postcode": "HU20",
+   "totalResidents": 430
+ },
+ {
+   "postcode": "HU3",
+   "totalResidents": 13602
+ },
+ {
+   "postcode": "HU4",
+   "totalResidents": 10291
+ },
+ {
+   "postcode": "HU5",
+   "totalResidents": 23627
+ },
+ {
+   "postcode": "HU6",
+   "totalResidents": 14816
+ },
+ {
+   "postcode": "HU7",
+   "totalResidents": 17626
+ },
+ {
+   "postcode": "HU8",
+   "totalResidents": 15598
+ },
+ {
+   "postcode": "HU9",
+   "totalResidents": 19234
+ },
+ {
+   "postcode": "HX1",
+   "totalResidents": 9665
+ },
+ {
+   "postcode": "HX2",
+   "totalResidents": 15981
+ },
+ {
+   "postcode": "HX3",
+   "totalResidents": 20991
+ },
+ {
+   "postcode": "HX4",
+   "totalResidents": 5314
+ },
+ {
+   "postcode": "HX5",
+   "totalResidents": 4767
+ },
+ {
+   "postcode": "HX6",
+   "totalResidents": 8664
+ },
+ {
+   "postcode": "HX7",
+   "totalResidents": 6490
+ },
+ {
+   "postcode": "IG1",
+   "totalResidents": 20701
+ },
+ {
+   "postcode": "IG10",
+   "totalResidents": 13609
+ },
+ {
+   "postcode": "IG11",
+   "totalResidents": 19622
+ },
+ {
+   "postcode": "IG2",
+   "totalResidents": 9904
+ },
+ {
+   "postcode": "IG3",
+   "totalResidents": 11455
+ },
+ {
+   "postcode": "IG4",
+   "totalResidents": 2789
+ },
+ {
+   "postcode": "IG5",
+   "totalResidents": 5939
+ },
+ {
+   "postcode": "IG6",
+   "totalResidents": 10576
+ },
+ {
+   "postcode": "IG7",
+   "totalResidents": 8211
+ },
+ {
+   "postcode": "IG8",
+   "totalResidents": 14381
+ },
+ {
+   "postcode": "IG9",
+   "totalResidents": 5765
+ },
+ {
+   "postcode": "IP1",
+   "totalResidents": 17515
+ },
+ {
+   "postcode": "IP10",
+   "totalResidents": 1381
+ },
+ {
+   "postcode": "IP11",
+   "totalResidents": 13634
+ },
+ {
+   "postcode": "IP12",
+   "totalResidents": 11432
+ },
+ {
+   "postcode": "IP13",
+   "totalResidents": 8134
+ },
+ {
+   "postcode": "IP14",
+   "totalResidents": 16810
+ },
+ {
+   "postcode": "IP15",
+   "totalResidents": 2018
+ },
+ {
+   "postcode": "IP16",
+   "totalResidents": 3375
+ },
+ {
+   "postcode": "IP17",
+   "totalResidents": 5624
+ },
+ {
+   "postcode": "IP18",
+   "totalResidents": 3124
+ },
+ {
+   "postcode": "IP19",
+   "totalResidents": 5197
+ },
+ {
+   "postcode": "IP2",
+   "totalResidents": 14145
+ },
+ {
+   "postcode": "IP20",
+   "totalResidents": 3692
+ },
+ {
+   "postcode": "IP21",
+   "totalResidents": 5107
+ },
+ {
+   "postcode": "IP22",
+   "totalResidents": 10012
+ },
+ {
+   "postcode": "IP23",
+   "totalResidents": 3083
+ },
+ {
+   "postcode": "IP24",
+   "totalResidents": 11649
+ },
+ {
+   "postcode": "IP25",
+   "totalResidents": 7978
+ },
+ {
+   "postcode": "IP26",
+   "totalResidents": 4042
+ },
+ {
+   "postcode": "IP27",
+   "totalResidents": 8408
+ },
+ {
+   "postcode": "IP28",
+   "totalResidents": 11055
+ },
+ {
+   "postcode": "IP29",
+   "totalResidents": 3894
+ },
+ {
+   "postcode": "IP3",
+   "totalResidents": 14915
+ },
+ {
+   "postcode": "IP30",
+   "totalResidents": 5844
+ },
+ {
+   "postcode": "IP31",
+   "totalResidents": 8597
+ },
+ {
+   "postcode": "IP32",
+   "totalResidents": 7184
+ },
+ {
+   "postcode": "IP33",
+   "totalResidents": 11594
+ },
+ {
+   "postcode": "IP4",
+   "totalResidents": 16190
+ },
+ {
+   "postcode": "IP5",
+   "totalResidents": 8234
+ },
+ {
+   "postcode": "IP6",
+   "totalResidents": 7193
+ },
+ {
+   "postcode": "IP7",
+   "totalResidents": 6935
+ },
+ {
+   "postcode": "IP8",
+   "totalResidents": 4903
+ },
+ {
+   "postcode": "IP9",
+   "totalResidents": 4787
+ },
+ {
+   "postcode": "KT1",
+   "totalResidents": 10583
+ },
+ {
+   "postcode": "KT10",
+   "totalResidents": 8352
+ },
+ {
+   "postcode": "KT11",
+   "totalResidents": 6117
+ },
+ {
+   "postcode": "KT12",
+   "totalResidents": 16118
+ },
+ {
+   "postcode": "KT13",
+   "totalResidents": 9729
+ },
+ {
+   "postcode": "KT14",
+   "totalResidents": 5670
+ },
+ {
+   "postcode": "KT15",
+   "totalResidents": 11894
+ },
+ {
+   "postcode": "KT16",
+   "totalResidents": 8401
+ },
+ {
+   "postcode": "KT17",
+   "totalResidents": 9585
+ },
+ {
+   "postcode": "KT18",
+   "totalResidents": 7492
+ },
+ {
+   "postcode": "KT19",
+   "totalResidents": 13520
+ },
+ {
+   "postcode": "KT2",
+   "totalResidents": 12339
+ },
+ {
+   "postcode": "KT20",
+   "totalResidents": 8744
+ },
+ {
+   "postcode": "KT21",
+   "totalResidents": 5632
+ },
+ {
+   "postcode": "KT22",
+   "totalResidents": 10478
+ },
+ {
+   "postcode": "KT23",
+   "totalResidents": 4671
+ },
+ {
+   "postcode": "KT24",
+   "totalResidents": 3876
+ },
+ {
+   "postcode": "KT3",
+   "totalResidents": 14739
+ },
+ {
+   "postcode": "KT4",
+   "totalResidents": 11620
+ },
+ {
+   "postcode": "KT5",
+   "totalResidents": 8187
+ },
+ {
+   "postcode": "KT6",
+   "totalResidents": 13970
+ },
+ {
+   "postcode": "KT7",
+   "totalResidents": 4206
+ },
+ {
+   "postcode": "KT8",
+   "totalResidents": 8614
+ },
+ {
+   "postcode": "KT9",
+   "totalResidents": 8490
+ },
+ {
+   "postcode": "L1",
+   "totalResidents": 4355
+ },
+ {
+   "postcode": "L10",
+   "totalResidents": 6542
+ },
+ {
+   "postcode": "L11",
+   "totalResidents": 10934
+ },
+ {
+   "postcode": "L12",
+   "totalResidents": 13480
+ },
+ {
+   "postcode": "L13",
+   "totalResidents": 14236
+ },
+ {
+   "postcode": "L14",
+   "totalResidents": 10936
+ },
+ {
+   "postcode": "L15",
+   "totalResidents": 13169
+ },
+ {
+   "postcode": "L16",
+   "totalResidents": 5775
+ },
+ {
+   "postcode": "L17",
+   "totalResidents": 12111
+ },
+ {
+   "postcode": "L18",
+   "totalResidents": 12168
+ },
+ {
+   "postcode": "L19",
+   "totalResidents": 10893
+ },
+ {
+   "postcode": "L2",
+   "totalResidents": 398
+ },
+ {
+   "postcode": "L20",
+   "totalResidents": 15248
+ },
+ {
+   "postcode": "L21",
+   "totalResidents": 11712
+ },
+ {
+   "postcode": "L22",
+   "totalResidents": 6589
+ },
+ {
+   "postcode": "L23",
+   "totalResidents": 13184
+ },
+ {
+   "postcode": "L24",
+   "totalResidents": 7053
+ },
+ {
+   "postcode": "L25",
+   "totalResidents": 15688
+ },
+ {
+   "postcode": "L26",
+   "totalResidents": 6248
+ },
+ {
+   "postcode": "L27",
+   "totalResidents": 2806
+ },
+ {
+   "postcode": "L28",
+   "totalResidents": 3037
+ },
+ {
+   "postcode": "L29",
+   "totalResidents": 161
+ },
+ {
+   "postcode": "L3",
+   "totalResidents": 8121
+ },
+ {
+   "postcode": "L30",
+   "totalResidents": 8703
+ },
+ {
+   "postcode": "L31",
+   "totalResidents": 12933
+ },
+ {
+   "postcode": "L32",
+   "totalResidents": 9011
+ },
+ {
+   "postcode": "L33",
+   "totalResidents": 6947
+ },
+ {
+   "postcode": "L34",
+   "totalResidents": 5526
+ },
+ {
+   "postcode": "L35",
+   "totalResidents": 13356
+ },
+ {
+   "postcode": "L36",
+   "totalResidents": 17199
+ },
+ {
+   "postcode": "L37",
+   "totalResidents": 10143
+ },
+ {
+   "postcode": "L38",
+   "totalResidents": 1125
+ },
+ {
+   "postcode": "L39",
+   "totalResidents": 11932
+ },
+ {
+   "postcode": "L4",
+   "totalResidents": 19587
+ },
+ {
+   "postcode": "L40",
+   "totalResidents": 7935
+ },
+ {
+   "postcode": "L5",
+   "totalResidents": 6444
+ },
+ {
+   "postcode": "L6",
+   "totalResidents": 11695
+ },
+ {
+   "postcode": "L7",
+   "totalResidents": 7892
+ },
+ {
+   "postcode": "L8",
+   "totalResidents": 17718
+ },
+ {
+   "postcode": "L9",
+   "totalResidents": 14065
+ },
+ {
+   "postcode": "LA1",
+   "totalResidents": 21342
+ },
+ {
+   "postcode": "LA10",
+   "totalResidents": 1998
+ },
+ {
+   "postcode": "LA11",
+   "totalResidents": 5324
+ },
+ {
+   "postcode": "LA12",
+   "totalResidents": 10202
+ },
+ {
+   "postcode": "LA13",
+   "totalResidents": 8377
+ },
+ {
+   "postcode": "LA14",
+   "totalResidents": 19333
+ },
+ {
+   "postcode": "LA15",
+   "totalResidents": 3633
+ },
+ {
+   "postcode": "LA16",
+   "totalResidents": 1521
+ },
+ {
+   "postcode": "LA17",
+   "totalResidents": 605
+ },
+ {
+   "postcode": "LA18",
+   "totalResidents": 4106
+ },
+ {
+   "postcode": "LA19",
+   "totalResidents": 475
+ },
+ {
+   "postcode": "LA2",
+   "totalResidents": 9210
+ },
+ {
+   "postcode": "LA20",
+   "totalResidents": 702
+ },
+ {
+   "postcode": "LA21",
+   "totalResidents": 635
+ },
+ {
+   "postcode": "LA22",
+   "totalResidents": 3578
+ },
+ {
+   "postcode": "LA23",
+   "totalResidents": 5287
+ },
+ {
+   "postcode": "LA3",
+   "totalResidents": 11388
+ },
+ {
+   "postcode": "LA4",
+   "totalResidents": 12966
+ },
+ {
+   "postcode": "LA5",
+   "totalResidents": 7835
+ },
+ {
+   "postcode": "LA6",
+   "totalResidents": 6174
+ },
+ {
+   "postcode": "LA7",
+   "totalResidents": 2451
+ },
+ {
+   "postcode": "LA8",
+   "totalResidents": 4462
+ },
+ {
+   "postcode": "LA9",
+   "totalResidents": 14285
+ },
+ {
+   "postcode": "LE1",
+   "totalResidents": 5961
+ },
+ {
+   "postcode": "LE10",
+   "totalResidents": 21504
+ },
+ {
+   "postcode": "LE11",
+   "totalResidents": 23630
+ },
+ {
+   "postcode": "LE12",
+   "totalResidents": 26829
+ },
+ {
+   "postcode": "LE13",
+   "totalResidents": 11965
+ },
+ {
+   "postcode": "LE14",
+   "totalResidents": 7628
+ },
+ {
+   "postcode": "LE15",
+   "totalResidents": 13876
+ },
+ {
+   "postcode": "LE16",
+   "totalResidents": 15242
+ },
+ {
+   "postcode": "LE17",
+   "totalResidents": 8698
+ },
+ {
+   "postcode": "LE18",
+   "totalResidents": 14091
+ },
+ {
+   "postcode": "LE19",
+   "totalResidents": 6336
+ },
+ {
+   "postcode": "LE2",
+   "totalResidents": 45959
+ },
+ {
+   "postcode": "LE3",
+   "totalResidents": 42658
+ },
+ {
+   "postcode": "LE4",
+   "totalResidents": 37413
+ },
+ {
+   "postcode": "LE5",
+   "totalResidents": 29743
+ },
+ {
+   "postcode": "LE6",
+   "totalResidents": 5184
+ },
+ {
+   "postcode": "LE65",
+   "totalResidents": 6083
+ },
+ {
+   "postcode": "LE67",
+   "totalResidents": 25504
+ },
+ {
+   "postcode": "LE7",
+   "totalResidents": 19261
+ },
+ {
+   "postcode": "LE8",
+   "totalResidents": 14898
+ },
+ {
+   "postcode": "LE9",
+   "totalResidents": 23863
+ },
+ {
+   "postcode": "LN1",
+   "totalResidents": 13004
+ },
+ {
+   "postcode": "LN10",
+   "totalResidents": 2882
+ },
+ {
+   "postcode": "LN11",
+   "totalResidents": 13177
+ },
+ {
+   "postcode": "LN12",
+   "totalResidents": 7054
+ },
+ {
+   "postcode": "LN13",
+   "totalResidents": 3607
+ },
+ {
+   "postcode": "LN2",
+   "totalResidents": 17307
+ },
+ {
+   "postcode": "LN3",
+   "totalResidents": 3998
+ },
+ {
+   "postcode": "LN4",
+   "totalResidents": 16923
+ },
+ {
+   "postcode": "LN5",
+   "totalResidents": 14992
+ },
+ {
+   "postcode": "LN6",
+   "totalResidents": 25012
+ },
+ {
+   "postcode": "LN7",
+   "totalResidents": 2746
+ },
+ {
+   "postcode": "LN8",
+   "totalResidents": 7969
+ },
+ {
+   "postcode": "LN9",
+   "totalResidents": 4688
+ },
+ {
+   "postcode": "LS1",
+   "totalResidents": 2389
+ },
+ {
+   "postcode": "LS10",
+   "totalResidents": 16446
+ },
+ {
+   "postcode": "LS11",
+   "totalResidents": 16854
+ },
+ {
+   "postcode": "LS12",
+   "totalResidents": 19290
+ },
+ {
+   "postcode": "LS13",
+   "totalResidents": 15968
+ },
+ {
+   "postcode": "LS14",
+   "totalResidents": 15507
+ },
+ {
+   "postcode": "LS15",
+   "totalResidents": 15669
+ },
+ {
+   "postcode": "LS16",
+   "totalResidents": 16069
+ },
+ {
+   "postcode": "LS17",
+   "totalResidents": 19242
+ },
+ {
+   "postcode": "LS18",
+   "totalResidents": 8606
+ },
+ {
+   "postcode": "LS19",
+   "totalResidents": 8918
+ },
+ {
+   "postcode": "LS2",
+   "totalResidents": 3530
+ },
+ {
+   "postcode": "LS20",
+   "totalResidents": 5517
+ },
+ {
+   "postcode": "LS21",
+   "totalResidents": 8121
+ },
+ {
+   "postcode": "LS22",
+   "totalResidents": 7085
+ },
+ {
+   "postcode": "LS23",
+   "totalResidents": 3854
+ },
+ {
+   "postcode": "LS24",
+   "totalResidents": 5227
+ },
+ {
+   "postcode": "LS25",
+   "totalResidents": 17244
+ },
+ {
+   "postcode": "LS26",
+   "totalResidents": 13068
+ },
+ {
+   "postcode": "LS27",
+   "totalResidents": 16675
+ },
+ {
+   "postcode": "LS28",
+   "totalResidents": 17148
+ },
+ {
+   "postcode": "LS29",
+   "totalResidents": 14190
+ },
+ {
+   "postcode": "LS3",
+   "totalResidents": 1144
+ },
+ {
+   "postcode": "LS4",
+   "totalResidents": 3996
+ },
+ {
+   "postcode": "LS5",
+   "totalResidents": 3499
+ },
+ {
+   "postcode": "LS6",
+   "totalResidents": 17661
+ },
+ {
+   "postcode": "LS7",
+   "totalResidents": 13243
+ },
+ {
+   "postcode": "LS8",
+   "totalResidents": 19429
+ },
+ {
+   "postcode": "LS9",
+   "totalResidents": 17640
+ },
+ {
+   "postcode": "LU1",
+   "totalResidents": 16928
+ },
+ {
+   "postcode": "LU2",
+   "totalResidents": 23156
+ },
+ {
+   "postcode": "LU3",
+   "totalResidents": 22196
+ },
+ {
+   "postcode": "LU4",
+   "totalResidents": 18253
+ },
+ {
+   "postcode": "LU5",
+   "totalResidents": 16027
+ },
+ {
+   "postcode": "LU6",
+   "totalResidents": 13422
+ },
+ {
+   "postcode": "LU7",
+   "totalResidents": 23476
+ },
+ {
+   "postcode": "M1",
+   "totalResidents": 5540
+ },
+ {
+   "postcode": "M11",
+   "totalResidents": 9087
+ },
+ {
+   "postcode": "M12",
+   "totalResidents": 6509
+ },
+ {
+   "postcode": "M13",
+   "totalResidents": 7325
+ },
+ {
+   "postcode": "M14",
+   "totalResidents": 18545
+ },
+ {
+   "postcode": "M15",
+   "totalResidents": 10149
+ },
+ {
+   "postcode": "M16",
+   "totalResidents": 14386
+ },
+ {
+   "postcode": "M18",
+   "totalResidents": 10228
+ },
+ {
+   "postcode": "M19",
+   "totalResidents": 14055
+ },
+ {
+   "postcode": "M20",
+   "totalResidents": 21579
+ },
+ {
+   "postcode": "M21",
+   "totalResidents": 12945
+ },
+ {
+   "postcode": "M22",
+   "totalResidents": 18711
+ },
+ {
+   "postcode": "M23",
+   "totalResidents": 14013
+ },
+ {
+   "postcode": "M24",
+   "totalResidents": 21451
+ },
+ {
+   "postcode": "M25",
+   "totalResidents": 13121
+ },
+ {
+   "postcode": "M26",
+   "totalResidents": 15784
+ },
+ {
+   "postcode": "M27",
+   "totalResidents": 18739
+ },
+ {
+   "postcode": "M28",
+   "totalResidents": 17685
+ },
+ {
+   "postcode": "M29",
+   "totalResidents": 10029
+ },
+ {
+   "postcode": "M3",
+   "totalResidents": 7229
+ },
+ {
+   "postcode": "M30",
+   "totalResidents": 17415
+ },
+ {
+   "postcode": "M31",
+   "totalResidents": 3625
+ },
+ {
+   "postcode": "M32",
+   "totalResidents": 12552
+ },
+ {
+   "postcode": "M33",
+   "totalResidents": 26753
+ },
+ {
+   "postcode": "M34",
+   "totalResidents": 21151
+ },
+ {
+   "postcode": "M35",
+   "totalResidents": 9371
+ },
+ {
+   "postcode": "M38",
+   "totalResidents": 5781
+ },
+ {
+   "postcode": "M4",
+   "totalResidents": 6565
+ },
+ {
+   "postcode": "M40",
+   "totalResidents": 18863
+ },
+ {
+   "postcode": "M41",
+   "totalResidents": 17723
+ },
+ {
+   "postcode": "M43",
+   "totalResidents": 10540
+ },
+ {
+   "postcode": "M44",
+   "totalResidents": 8622
+ },
+ {
+   "postcode": "M45",
+   "totalResidents": 10249
+ },
+ {
+   "postcode": "M46",
+   "totalResidents": 10370
+ },
+ {
+   "postcode": "M5",
+   "totalResidents": 8053
+ },
+ {
+   "postcode": "M50",
+   "totalResidents": 2757
+ },
+ {
+   "postcode": "M6",
+   "totalResidents": 14855
+ },
+ {
+   "postcode": "M60",
+   "totalResidents": 154
+ },
+ {
+   "postcode": "M7",
+   "totalResidents": 11772
+ },
+ {
+   "postcode": "M8",
+   "totalResidents": 11883
+ },
+ {
+   "postcode": "M9",
+   "totalResidents": 18111
+ },
+ {
+   "postcode": "ME1",
+   "totalResidents": 13294
+ },
+ {
+   "postcode": "ME10",
+   "totalResidents": 19927
+ },
+ {
+   "postcode": "ME11",
+   "totalResidents": 1503
+ },
+ {
+   "postcode": "ME12",
+   "totalResidents": 15919
+ },
+ {
+   "postcode": "ME13",
+   "totalResidents": 12331
+ },
+ {
+   "postcode": "ME14",
+   "totalResidents": 13387
+ },
+ {
+   "postcode": "ME15",
+   "totalResidents": 19974
+ },
+ {
+   "postcode": "ME16",
+   "totalResidents": 13032
+ },
+ {
+   "postcode": "ME17",
+   "totalResidents": 9408
+ },
+ {
+   "postcode": "ME18",
+   "totalResidents": 2970
+ },
+ {
+   "postcode": "ME19",
+   "totalResidents": 8711
+ },
+ {
+   "postcode": "ME2",
+   "totalResidents": 16413
+ },
+ {
+   "postcode": "ME20",
+   "totalResidents": 8514
+ },
+ {
+   "postcode": "ME3",
+   "totalResidents": 11180
+ },
+ {
+   "postcode": "ME4",
+   "totalResidents": 12657
+ },
+ {
+   "postcode": "ME5",
+   "totalResidents": 21162
+ },
+ {
+   "postcode": "ME6",
+   "totalResidents": 4474
+ },
+ {
+   "postcode": "ME7",
+   "totalResidents": 21064
+ },
+ {
+   "postcode": "ME8",
+   "totalResidents": 20882
+ },
+ {
+   "postcode": "ME9",
+   "totalResidents": 8593
+ },
+ {
+   "postcode": "MK1",
+   "totalResidents": 355
+ },
+ {
+   "postcode": "MK10",
+   "totalResidents": 5212
+ },
+ {
+   "postcode": "MK11",
+   "totalResidents": 3382
+ },
+ {
+   "postcode": "MK12",
+   "totalResidents": 5293
+ },
+ {
+   "postcode": "MK13",
+   "totalResidents": 7796
+ },
+ {
+   "postcode": "MK14",
+   "totalResidents": 7661
+ },
+ {
+   "postcode": "MK15",
+   "totalResidents": 3182
+ },
+ {
+   "postcode": "MK16",
+   "totalResidents": 7813
+ },
+ {
+   "postcode": "MK17",
+   "totalResidents": 7510
+ },
+ {
+   "postcode": "MK18",
+   "totalResidents": 12560
+ },
+ {
+   "postcode": "MK19",
+   "totalResidents": 4678
+ },
+ {
+   "postcode": "MK2",
+   "totalResidents": 6021
+ },
+ {
+   "postcode": "MK3",
+   "totalResidents": 9331
+ },
+ {
+   "postcode": "MK4",
+   "totalResidents": 8362
+ },
+ {
+   "postcode": "MK40",
+   "totalResidents": 14024
+ },
+ {
+   "postcode": "MK41",
+   "totalResidents": 18002
+ },
+ {
+   "postcode": "MK42",
+   "totalResidents": 18655
+ },
+ {
+   "postcode": "MK43",
+   "totalResidents": 13486
+ },
+ {
+   "postcode": "MK44",
+   "totalResidents": 6742
+ },
+ {
+   "postcode": "MK45",
+   "totalResidents": 18102
+ },
+ {
+   "postcode": "MK46",
+   "totalResidents": 3978
+ },
+ {
+   "postcode": "MK5",
+   "totalResidents": 5845
+ },
+ {
+   "postcode": "MK6",
+   "totalResidents": 10793
+ },
+ {
+   "postcode": "MK7",
+   "totalResidents": 5969
+ },
+ {
+   "postcode": "MK8",
+   "totalResidents": 4752
+ },
+ {
+   "postcode": "MK9",
+   "totalResidents": 2195
+ },
+ {
+   "postcode": "N1",
+   "totalResidents": 43192
+ },
+ {
+   "postcode": "N10",
+   "totalResidents": 11749
+ },
+ {
+   "postcode": "N11",
+   "totalResidents": 11961
+ },
+ {
+   "postcode": "N12",
+   "totalResidents": 11755
+ },
+ {
+   "postcode": "N13",
+   "totalResidents": 12580
+ },
+ {
+   "postcode": "N14",
+   "totalResidents": 11630
+ },
+ {
+   "postcode": "N15",
+   "totalResidents": 17230
+ },
+ {
+   "postcode": "N16",
+   "totalResidents": 27008
+ },
+ {
+   "postcode": "N17",
+   "totalResidents": 24710
+ },
+ {
+   "postcode": "N18",
+   "totalResidents": 11585
+ },
+ {
+   "postcode": "N19",
+   "totalResidents": 15592
+ },
+ {
+   "postcode": "N2",
+   "totalResidents": 10012
+ },
+ {
+   "postcode": "N20",
+   "totalResidents": 7529
+ },
+ {
+   "postcode": "N21",
+   "totalResidents": 9441
+ },
+ {
+   "postcode": "N22",
+   "totalResidents": 17450
+ },
+ {
+   "postcode": "N3",
+   "totalResidents": 10806
+ },
+ {
+   "postcode": "N4",
+   "totalResidents": 21893
+ },
+ {
+   "postcode": "N5",
+   "totalResidents": 11473
+ },
+ {
+   "postcode": "N6",
+   "totalResidents": 9354
+ },
+ {
+   "postcode": "N7",
+   "totalResidents": 22314
+ },
+ {
+   "postcode": "N8",
+   "totalResidents": 18036
+ },
+ {
+   "postcode": "N9",
+   "totalResidents": 19880
+ },
+ {
+   "postcode": "NE1",
+   "totalResidents": 4437
+ },
+ {
+   "postcode": "NE10",
+   "totalResidents": 16845
+ },
+ {
+   "postcode": "NE11",
+   "totalResidents": 7388
+ },
+ {
+   "postcode": "NE12",
+   "totalResidents": 16160
+ },
+ {
+   "postcode": "NE13",
+   "totalResidents": 6085
+ },
+ {
+   "postcode": "NE15",
+   "totalResidents": 14648
+ },
+ {
+   "postcode": "NE16",
+   "totalResidents": 11642
+ },
+ {
+   "postcode": "NE17",
+   "totalResidents": 2337
+ },
+ {
+   "postcode": "NE18",
+   "totalResidents": 417
+ },
+ {
+   "postcode": "NE19",
+   "totalResidents": 1084
+ },
+ {
+   "postcode": "NE2",
+   "totalResidents": 10918
+ },
+ {
+   "postcode": "NE20",
+   "totalResidents": 5127
+ },
+ {
+   "postcode": "NE21",
+   "totalResidents": 7859
+ },
+ {
+   "postcode": "NE22",
+   "totalResidents": 8110
+ },
+ {
+   "postcode": "NE23",
+   "totalResidents": 17374
+ },
+ {
+   "postcode": "NE24",
+   "totalResidents": 17383
+ },
+ {
+   "postcode": "NE25",
+   "totalResidents": 13497
+ },
+ {
+   "postcode": "NE26",
+   "totalResidents": 8691
+ },
+ {
+   "postcode": "NE27",
+   "totalResidents": 5294
+ },
+ {
+   "postcode": "NE28",
+   "totalResidents": 21433
+ },
+ {
+   "postcode": "NE29",
+   "totalResidents": 17302
+ },
+ {
+   "postcode": "NE3",
+   "totalResidents": 23251
+ },
+ {
+   "postcode": "NE30",
+   "totalResidents": 11282
+ },
+ {
+   "postcode": "NE31",
+   "totalResidents": 9278
+ },
+ {
+   "postcode": "NE32",
+   "totalResidents": 11612
+ },
+ {
+   "postcode": "NE33",
+   "totalResidents": 14076
+ },
+ {
+   "postcode": "NE34",
+   "totalResidents": 24208
+ },
+ {
+   "postcode": "NE35",
+   "totalResidents": 2909
+ },
+ {
+   "postcode": "NE36",
+   "totalResidents": 3155
+ },
+ {
+   "postcode": "NE37",
+   "totalResidents": 9248
+ },
+ {
+   "postcode": "NE38",
+   "totalResidents": 13505
+ },
+ {
+   "postcode": "NE39",
+   "totalResidents": 3823
+ },
+ {
+   "postcode": "NE4",
+   "totalResidents": 15262
+ },
+ {
+   "postcode": "NE40",
+   "totalResidents": 7052
+ },
+ {
+   "postcode": "NE41",
+   "totalResidents": 1001
+ },
+ {
+   "postcode": "NE42",
+   "totalResidents": 5433
+ },
+ {
+   "postcode": "NE43",
+   "totalResidents": 1977
+ },
+ {
+   "postcode": "NE44",
+   "totalResidents": 427
+ },
+ {
+   "postcode": "NE45",
+   "totalResidents": 1811
+ },
+ {
+   "postcode": "NE46",
+   "totalResidents": 7104
+ },
+ {
+   "postcode": "NE47",
+   "totalResidents": 3655
+ },
+ {
+   "postcode": "NE48",
+   "totalResidents": 2136
+ },
+ {
+   "postcode": "NE49",
+   "totalResidents": 2147
+ },
+ {
+   "postcode": "NE5",
+   "totalResidents": 21824
+ },
+ {
+   "postcode": "NE6",
+   "totalResidents": 23814
+ },
+ {
+   "postcode": "NE61",
+   "totalResidents": 14280
+ },
+ {
+   "postcode": "NE62",
+   "totalResidents": 4493
+ },
+ {
+   "postcode": "NE63",
+   "totalResidents": 13096
+ },
+ {
+   "postcode": "NE64",
+   "totalResidents": 3089
+ },
+ {
+   "postcode": "NE65",
+   "totalResidents": 9638
+ },
+ {
+   "postcode": "NE66",
+   "totalResidents": 8872
+ },
+ {
+   "postcode": "NE67",
+   "totalResidents": 871
+ },
+ {
+   "postcode": "NE68",
+   "totalResidents": 1341
+ },
+ {
+   "postcode": "NE69",
+   "totalResidents": 420
+ },
+ {
+   "postcode": "NE7",
+   "totalResidents": 6408
+ },
+ {
+   "postcode": "NE70",
+   "totalResidents": 1026
+ },
+ {
+   "postcode": "NE71",
+   "totalResidents": 1740
+ },
+ {
+   "postcode": "NE8",
+   "totalResidents": 16668
+ },
+ {
+   "postcode": "NE9",
+   "totalResidents": 16922
+ },
+ {
+   "postcode": "NG1",
+   "totalResidents": 6582
+ },
+ {
+   "postcode": "NG10",
+   "totalResidents": 21288
+ },
+ {
+   "postcode": "NG11",
+   "totalResidents": 16529
+ },
+ {
+   "postcode": "NG12",
+   "totalResidents": 14548
+ },
+ {
+   "postcode": "NG13",
+   "totalResidents": 9017
+ },
+ {
+   "postcode": "NG14",
+   "totalResidents": 8175
+ },
+ {
+   "postcode": "NG15",
+   "totalResidents": 18158
+ },
+ {
+   "postcode": "NG16",
+   "totalResidents": 28196
+ },
+ {
+   "postcode": "NG17",
+   "totalResidents": 32208
+ },
+ {
+   "postcode": "NG18",
+   "totalResidents": 18999
+ },
+ {
+   "postcode": "NG19",
+   "totalResidents": 23305
+ },
+ {
+   "postcode": "NG2",
+   "totalResidents": 25702
+ },
+ {
+   "postcode": "NG20",
+   "totalResidents": 11403
+ },
+ {
+   "postcode": "NG21",
+   "totalResidents": 9623
+ },
+ {
+   "postcode": "NG22",
+   "totalResidents": 11633
+ },
+ {
+   "postcode": "NG23",
+   "totalResidents": 7609
+ },
+ {
+   "postcode": "NG24",
+   "totalResidents": 20773
+ },
+ {
+   "postcode": "NG25",
+   "totalResidents": 3857
+ },
+ {
+   "postcode": "NG3",
+   "totalResidents": 21994
+ },
+ {
+   "postcode": "NG31",
+   "totalResidents": 19789
+ },
+ {
+   "postcode": "NG32",
+   "totalResidents": 5611
+ },
+ {
+   "postcode": "NG33",
+   "totalResidents": 4436
+ },
+ {
+   "postcode": "NG34",
+   "totalResidents": 18490
+ },
+ {
+   "postcode": "NG4",
+   "totalResidents": 18303
+ },
+ {
+   "postcode": "NG5",
+   "totalResidents": 39155
+ },
+ {
+   "postcode": "NG6",
+   "totalResidents": 17113
+ },
+ {
+   "postcode": "NG7",
+   "totalResidents": 21817
+ },
+ {
+   "postcode": "NG8",
+   "totalResidents": 26538
+ },
+ {
+   "postcode": "NG9",
+   "totalResidents": 31911
+ },
+ {
+   "postcode": "NN1",
+   "totalResidents": 14359
+ },
+ {
+   "postcode": "NN10",
+   "totalResidents": 16682
+ },
+ {
+   "postcode": "NN11",
+   "totalResidents": 16067
+ },
+ {
+   "postcode": "NN12",
+   "totalResidents": 9838
+ },
+ {
+   "postcode": "NN13",
+   "totalResidents": 7971
+ },
+ {
+   "postcode": "NN14",
+   "totalResidents": 18761
+ },
+ {
+   "postcode": "NN15",
+   "totalResidents": 14660
+ },
+ {
+   "postcode": "NN16",
+   "totalResidents": 13925
+ },
+ {
+   "postcode": "NN17",
+   "totalResidents": 11727
+ },
+ {
+   "postcode": "NN18",
+   "totalResidents": 13709
+ },
+ {
+   "postcode": "NN2",
+   "totalResidents": 16279
+ },
+ {
+   "postcode": "NN29",
+   "totalResidents": 5058
+ },
+ {
+   "postcode": "NN3",
+   "totalResidents": 28876
+ },
+ {
+   "postcode": "NN4",
+   "totalResidents": 18896
+ },
+ {
+   "postcode": "NN5",
+   "totalResidents": 16923
+ },
+ {
+   "postcode": "NN6",
+   "totalResidents": 14104
+ },
+ {
+   "postcode": "NN7",
+   "totalResidents": 11781
+ },
+ {
+   "postcode": "NN8",
+   "totalResidents": 21333
+ },
+ {
+   "postcode": "NN9",
+   "totalResidents": 11477
+ },
+ {
+   "postcode": "NR1",
+   "totalResidents": 13305
+ },
+ {
+   "postcode": "NR10",
+   "totalResidents": 9546
+ },
+ {
+   "postcode": "NR11",
+   "totalResidents": 8821
+ },
+ {
+   "postcode": "NR12",
+   "totalResidents": 10377
+ },
+ {
+   "postcode": "NR13",
+   "totalResidents": 11567
+ },
+ {
+   "postcode": "NR14",
+   "totalResidents": 10305
+ },
+ {
+   "postcode": "NR15",
+   "totalResidents": 6661
+ },
+ {
+   "postcode": "NR16",
+   "totalResidents": 5111
+ },
+ {
+   "postcode": "NR17",
+   "totalResidents": 6856
+ },
+ {
+   "postcode": "NR18",
+   "totalResidents": 7474
+ },
+ {
+   "postcode": "NR19",
+   "totalResidents": 9086
+ },
+ {
+   "postcode": "NR2",
+   "totalResidents": 13384
+ },
+ {
+   "postcode": "NR20",
+   "totalResidents": 8419
+ },
+ {
+   "postcode": "NR21",
+   "totalResidents": 8073
+ },
+ {
+   "postcode": "NR22",
+   "totalResidents": 523
+ },
+ {
+   "postcode": "NR23",
+   "totalResidents": 2120
+ },
+ {
+   "postcode": "NR24",
+   "totalResidents": 2210
+ },
+ {
+   "postcode": "NR25",
+   "totalResidents": 5391
+ },
+ {
+   "postcode": "NR26",
+   "totalResidents": 4670
+ },
+ {
+   "postcode": "NR27",
+   "totalResidents": 6529
+ },
+ {
+   "postcode": "NR28",
+   "totalResidents": 8140
+ },
+ {
+   "postcode": "NR29",
+   "totalResidents": 9376
+ },
+ {
+   "postcode": "NR3",
+   "totalResidents": 16754
+ },
+ {
+   "postcode": "NR30",
+   "totalResidents": 14443
+ },
+ {
+   "postcode": "NR31",
+   "totalResidents": 22317
+ },
+ {
+   "postcode": "NR32",
+   "totalResidents": 18004
+ },
+ {
+   "postcode": "NR33",
+   "totalResidents": 18111
+ },
+ {
+   "postcode": "NR34",
+   "totalResidents": 10338
+ },
+ {
+   "postcode": "NR35",
+   "totalResidents": 4924
+ },
+ {
+   "postcode": "NR4",
+   "totalResidents": 8415
+ },
+ {
+   "postcode": "NR5",
+   "totalResidents": 12487
+ },
+ {
+   "postcode": "NR6",
+   "totalResidents": 10828
+ },
+ {
+   "postcode": "NR7",
+   "totalResidents": 14501
+ },
+ {
+   "postcode": "NR8",
+   "totalResidents": 8630
+ },
+ {
+   "postcode": "NR9",
+   "totalResidents": 7522
+ },
+ {
+   "postcode": "NW1",
+   "totalResidents": 27901
+ },
+ {
+   "postcode": "NW10",
+   "totalResidents": 35256
+ },
+ {
+   "postcode": "NW11",
+   "totalResidents": 12452
+ },
+ {
+   "postcode": "NW2",
+   "totalResidents": 26344
+ },
+ {
+   "postcode": "NW3",
+   "totalResidents": 24942
+ },
+ {
+   "postcode": "NW4",
+   "totalResidents": 12093
+ },
+ {
+   "postcode": "NW5",
+   "totalResidents": 13507
+ },
+ {
+   "postcode": "NW6",
+   "totalResidents": 30348
+ },
+ {
+   "postcode": "NW7",
+   "totalResidents": 9818
+ },
+ {
+   "postcode": "NW8",
+   "totalResidents": 16775
+ },
+ {
+   "postcode": "NW9",
+   "totalResidents": 21313
+ },
+ {
+   "postcode": "OL1",
+   "totalResidents": 8604
+ },
+ {
+   "postcode": "OL10",
+   "totalResidents": 12629
+ },
+ {
+   "postcode": "OL11",
+   "totalResidents": 18650
+ },
+ {
+   "postcode": "OL12",
+   "totalResidents": 19376
+ },
+ {
+   "postcode": "OL13",
+   "totalResidents": 7084
+ },
+ {
+   "postcode": "OL14",
+   "totalResidents": 7381
+ },
+ {
+   "postcode": "OL15",
+   "totalResidents": 6325
+ },
+ {
+   "postcode": "OL16",
+   "totalResidents": 14778
+ },
+ {
+   "postcode": "OL2",
+   "totalResidents": 18816
+ },
+ {
+   "postcode": "OL3",
+   "totalResidents": 6812
+ },
+ {
+   "postcode": "OL4",
+   "totalResidents": 18092
+ },
+ {
+   "postcode": "OL5",
+   "totalResidents": 5212
+ },
+ {
+   "postcode": "OL6",
+   "totalResidents": 13104
+ },
+ {
+   "postcode": "OL7",
+   "totalResidents": 7498
+ },
+ {
+   "postcode": "OL8",
+   "totalResidents": 14974
+ },
+ {
+   "postcode": "OL9",
+   "totalResidents": 16356
+ },
+ {
+   "postcode": "OX1",
+   "totalResidents": 7462
+ },
+ {
+   "postcode": "OX10",
+   "totalResidents": 10917
+ },
+ {
+   "postcode": "OX11",
+   "totalResidents": 13779
+ },
+ {
+   "postcode": "OX12",
+   "totalResidents": 10774
+ },
+ {
+   "postcode": "OX13",
+   "totalResidents": 5157
+ },
+ {
+   "postcode": "OX14",
+   "totalResidents": 18876
+ },
+ {
+   "postcode": "OX15",
+   "totalResidents": 7810
+ },
+ {
+   "postcode": "OX16",
+   "totalResidents": 19874
+ },
+ {
+   "postcode": "OX17",
+   "totalResidents": 7433
+ },
+ {
+   "postcode": "OX18",
+   "totalResidents": 10488
+ },
+ {
+   "postcode": "OX2",
+   "totalResidents": 16609
+ },
+ {
+   "postcode": "OX20",
+   "totalResidents": 2274
+ },
+ {
+   "postcode": "OX25",
+   "totalResidents": 3605
+ },
+ {
+   "postcode": "OX26",
+   "totalResidents": 13542
+ },
+ {
+   "postcode": "OX27",
+   "totalResidents": 2657
+ },
+ {
+   "postcode": "OX28",
+   "totalResidents": 11685
+ },
+ {
+   "postcode": "OX29",
+   "totalResidents": 9788
+ },
+ {
+   "postcode": "OX3",
+   "totalResidents": 17153
+ },
+ {
+   "postcode": "OX33",
+   "totalResidents": 3270
+ },
+ {
+   "postcode": "OX39",
+   "totalResidents": 2810
+ },
+ {
+   "postcode": "OX4",
+   "totalResidents": 24456
+ },
+ {
+   "postcode": "OX44",
+   "totalResidents": 3474
+ },
+ {
+   "postcode": "OX49",
+   "totalResidents": 1903
+ },
+ {
+   "postcode": "OX5",
+   "totalResidents": 9917
+ },
+ {
+   "postcode": "OX7",
+   "totalResidents": 10772
+ },
+ {
+   "postcode": "OX9",
+   "totalResidents": 5803
+ },
+ {
+   "postcode": "PE1",
+   "totalResidents": 19444
+ },
+ {
+   "postcode": "PE10",
+   "totalResidents": 9413
+ },
+ {
+   "postcode": "PE11",
+   "totalResidents": 18712
+ },
+ {
+   "postcode": "PE12",
+   "totalResidents": 17696
+ },
+ {
+   "postcode": "PE13",
+   "totalResidents": 15365
+ },
+ {
+   "postcode": "PE14",
+   "totalResidents": 9119
+ },
+ {
+   "postcode": "PE15",
+   "totalResidents": 13161
+ },
+ {
+   "postcode": "PE16",
+   "totalResidents": 4732
+ },
+ {
+   "postcode": "PE19",
+   "totalResidents": 18852
+ },
+ {
+   "postcode": "PE2",
+   "totalResidents": 19678
+ },
+ {
+   "postcode": "PE20",
+   "totalResidents": 6153
+ },
+ {
+   "postcode": "PE21",
+   "totalResidents": 18871
+ },
+ {
+   "postcode": "PE22",
+   "totalResidents": 7423
+ },
+ {
+   "postcode": "PE23",
+   "totalResidents": 3980
+ },
+ {
+   "postcode": "PE24",
+   "totalResidents": 5998
+ },
+ {
+   "postcode": "PE25",
+   "totalResidents": 10800
+ },
+ {
+   "postcode": "PE26",
+   "totalResidents": 5112
+ },
+ {
+   "postcode": "PE27",
+   "totalResidents": 8701
+ },
+ {
+   "postcode": "PE28",
+   "totalResidents": 19596
+ },
+ {
+   "postcode": "PE29",
+   "totalResidents": 12360
+ },
+ {
+   "postcode": "PE3",
+   "totalResidents": 11721
+ },
+ {
+   "postcode": "PE30",
+   "totalResidents": 19468
+ },
+ {
+   "postcode": "PE31",
+   "totalResidents": 14219
+ },
+ {
+   "postcode": "PE32",
+   "totalResidents": 7141
+ },
+ {
+   "postcode": "PE33",
+   "totalResidents": 6641
+ },
+ {
+   "postcode": "PE34",
+   "totalResidents": 6241
+ },
+ {
+   "postcode": "PE36",
+   "totalResidents": 5894
+ },
+ {
+   "postcode": "PE37",
+   "totalResidents": 4912
+ },
+ {
+   "postcode": "PE38",
+   "totalResidents": 7028
+ },
+ {
+   "postcode": "PE4",
+   "totalResidents": 12593
+ },
+ {
+   "postcode": "PE5",
+   "totalResidents": 691
+ },
+ {
+   "postcode": "PE6",
+   "totalResidents": 15209
+ },
+ {
+   "postcode": "PE7",
+   "totalResidents": 17765
+ },
+ {
+   "postcode": "PE8",
+   "totalResidents": 7254
+ },
+ {
+   "postcode": "PE9",
+   "totalResidents": 14381
+ },
+ {
+   "postcode": "PL1",
+   "totalResidents": 12083
+ },
+ {
+   "postcode": "PL10",
+   "totalResidents": 2166
+ },
+ {
+   "postcode": "PL11",
+   "totalResidents": 4955
+ },
+ {
+   "postcode": "PL12",
+   "totalResidents": 9735
+ },
+ {
+   "postcode": "PL13",
+   "totalResidents": 5446
+ },
+ {
+   "postcode": "PL14",
+   "totalResidents": 10719
+ },
+ {
+   "postcode": "PL15",
+   "totalResidents": 9032
+ },
+ {
+   "postcode": "PL16",
+   "totalResidents": 795
+ },
+ {
+   "postcode": "PL17",
+   "totalResidents": 4541
+ },
+ {
+   "postcode": "PL18",
+   "totalResidents": 2262
+ },
+ {
+   "postcode": "PL19",
+   "totalResidents": 7640
+ },
+ {
+   "postcode": "PL2",
+   "totalResidents": 14120
+ },
+ {
+   "postcode": "PL20",
+   "totalResidents": 5386
+ },
+ {
+   "postcode": "PL21",
+   "totalResidents": 7423
+ },
+ {
+   "postcode": "PL22",
+   "totalResidents": 1808
+ },
+ {
+   "postcode": "PL23",
+   "totalResidents": 2426
+ },
+ {
+   "postcode": "PL24",
+   "totalResidents": 4461
+ },
+ {
+   "postcode": "PL25",
+   "totalResidents": 11576
+ },
+ {
+   "postcode": "PL26",
+   "totalResidents": 12337
+ },
+ {
+   "postcode": "PL27",
+   "totalResidents": 6987
+ },
+ {
+   "postcode": "PL28",
+   "totalResidents": 3366
+ },
+ {
+   "postcode": "PL29",
+   "totalResidents": 863
+ },
+ {
+   "postcode": "PL3",
+   "totalResidents": 13458
+ },
+ {
+   "postcode": "PL30",
+   "totalResidents": 5143
+ },
+ {
+   "postcode": "PL31",
+   "totalResidents": 6485
+ },
+ {
+   "postcode": "PL32",
+   "totalResidents": 2056
+ },
+ {
+   "postcode": "PL33",
+   "totalResidents": 806
+ },
+ {
+   "postcode": "PL34",
+   "totalResidents": 1073
+ },
+ {
+   "postcode": "PL35",
+   "totalResidents": 664
+ },
+ {
+   "postcode": "PL4",
+   "totalResidents": 15594
+ },
+ {
+   "postcode": "PL5",
+   "totalResidents": 18973
+ },
+ {
+   "postcode": "PL6",
+   "totalResidents": 17552
+ },
+ {
+   "postcode": "PL7",
+   "totalResidents": 13230
+ },
+ {
+   "postcode": "PL8",
+   "totalResidents": 2904
+ },
+ {
+   "postcode": "PL9",
+   "totalResidents": 12468
+ },
+ {
+   "postcode": "PO1",
+   "totalResidents": 13026
+ },
+ {
+   "postcode": "PO10",
+   "totalResidents": 8307
+ },
+ {
+   "postcode": "PO11",
+   "totalResidents": 8483
+ },
+ {
+   "postcode": "PO12",
+   "totalResidents": 22011
+ },
+ {
+   "postcode": "PO13",
+   "totalResidents": 14701
+ },
+ {
+   "postcode": "PO14",
+   "totalResidents": 14121
+ },
+ {
+   "postcode": "PO15",
+   "totalResidents": 9635
+ },
+ {
+   "postcode": "PO16",
+   "totalResidents": 14368
+ },
+ {
+   "postcode": "PO17",
+   "totalResidents": 2805
+ },
+ {
+   "postcode": "PO18",
+   "totalResidents": 6070
+ },
+ {
+   "postcode": "PO19",
+   "totalResidents": 14499
+ },
+ {
+   "postcode": "PO2",
+   "totalResidents": 17847
+ },
+ {
+   "postcode": "PO20",
+   "totalResidents": 15930
+ },
+ {
+   "postcode": "PO21",
+   "totalResidents": 19136
+ },
+ {
+   "postcode": "PO22",
+   "totalResidents": 13255
+ },
+ {
+   "postcode": "PO3",
+   "totalResidents": 7985
+ },
+ {
+   "postcode": "PO30",
+   "totalResidents": 12952
+ },
+ {
+   "postcode": "PO31",
+   "totalResidents": 7367
+ },
+ {
+   "postcode": "PO32",
+   "totalResidents": 3840
+ },
+ {
+   "postcode": "PO33",
+   "totalResidents": 14902
+ },
+ {
+   "postcode": "PO34",
+   "totalResidents": 1605
+ },
+ {
+   "postcode": "PO35",
+   "totalResidents": 2116
+ },
+ {
+   "postcode": "PO36",
+   "totalResidents": 8031
+ },
+ {
+   "postcode": "PO37",
+   "totalResidents": 4537
+ },
+ {
+   "postcode": "PO38",
+   "totalResidents": 6771
+ },
+ {
+   "postcode": "PO39",
+   "totalResidents": 1411
+ },
+ {
+   "postcode": "PO4",
+   "totalResidents": 18878
+ },
+ {
+   "postcode": "PO40",
+   "totalResidents": 2932
+ },
+ {
+   "postcode": "PO41",
+   "totalResidents": 1212
+ },
+ {
+   "postcode": "PO5",
+   "totalResidents": 13968
+ },
+ {
+   "postcode": "PO6",
+   "totalResidents": 16795
+ },
+ {
+   "postcode": "PO7",
+   "totalResidents": 17346
+ },
+ {
+   "postcode": "PO8",
+   "totalResidents": 14184
+ },
+ {
+   "postcode": "PO9",
+   "totalResidents": 20529
+ },
+ {
+   "postcode": "PR1",
+   "totalResidents": 30902
+ },
+ {
+   "postcode": "PR2",
+   "totalResidents": 34721
+ },
+ {
+   "postcode": "PR25",
+   "totalResidents": 13474
+ },
+ {
+   "postcode": "PR26",
+   "totalResidents": 5743
+ },
+ {
+   "postcode": "PR3",
+   "totalResidents": 16535
+ },
+ {
+   "postcode": "PR4",
+   "totalResidents": 25151
+ },
+ {
+   "postcode": "PR5",
+   "totalResidents": 18127
+ },
+ {
+   "postcode": "PR6",
+   "totalResidents": 15356
+ },
+ {
+   "postcode": "PR7",
+   "totalResidents": 24907
+ },
+ {
+   "postcode": "PR8",
+   "totalResidents": 24417
+ },
+ {
+   "postcode": "PR9",
+   "totalResidents": 21343
+ },
+ {
+   "postcode": "RG1",
+   "totalResidents": 19209
+ },
+ {
+   "postcode": "RG10",
+   "totalResidents": 7749
+ },
+ {
+   "postcode": "RG12",
+   "totalResidents": 22261
+ },
+ {
+   "postcode": "RG14",
+   "totalResidents": 16998
+ },
+ {
+   "postcode": "RG17",
+   "totalResidents": 6990
+ },
+ {
+   "postcode": "RG18",
+   "totalResidents": 7140
+ },
+ {
+   "postcode": "RG19",
+   "totalResidents": 7309
+ },
+ {
+   "postcode": "RG2",
+   "totalResidents": 15059
+ },
+ {
+   "postcode": "RG20",
+   "totalResidents": 7773
+ },
+ {
+   "postcode": "RG21",
+   "totalResidents": 12181
+ },
+ {
+   "postcode": "RG22",
+   "totalResidents": 17148
+ },
+ {
+   "postcode": "RG23",
+   "totalResidents": 5114
+ },
+ {
+   "postcode": "RG24",
+   "totalResidents": 13100
+ },
+ {
+   "postcode": "RG25",
+   "totalResidents": 3769
+ },
+ {
+   "postcode": "RG26",
+   "totalResidents": 9291
+ },
+ {
+   "postcode": "RG27",
+   "totalResidents": 8749
+ },
+ {
+   "postcode": "RG28",
+   "totalResidents": 2524
+ },
+ {
+   "postcode": "RG29",
+   "totalResidents": 2616
+ },
+ {
+   "postcode": "RG30",
+   "totalResidents": 18835
+ },
+ {
+   "postcode": "RG31",
+   "totalResidents": 11055
+ },
+ {
+   "postcode": "RG4",
+   "totalResidents": 16448
+ },
+ {
+   "postcode": "RG40",
+   "totalResidents": 11340
+ },
+ {
+   "postcode": "RG41",
+   "totalResidents": 11139
+ },
+ {
+   "postcode": "RG42",
+   "totalResidents": 10879
+ },
+ {
+   "postcode": "RG45",
+   "totalResidents": 5718
+ },
+ {
+   "postcode": "RG5",
+   "totalResidents": 10197
+ },
+ {
+   "postcode": "RG6",
+   "totalResidents": 13986
+ },
+ {
+   "postcode": "RG7",
+   "totalResidents": 13178
+ },
+ {
+   "postcode": "RG8",
+   "totalResidents": 7877
+ },
+ {
+   "postcode": "RG9",
+   "totalResidents": 10408
+ },
+ {
+   "postcode": "RH1",
+   "totalResidents": 19715
+ },
+ {
+   "postcode": "RH10",
+   "totalResidents": 27030
+ },
+ {
+   "postcode": "RH11",
+   "totalResidents": 22199
+ },
+ {
+   "postcode": "RH12",
+   "totalResidents": 18860
+ },
+ {
+   "postcode": "RH13",
+   "totalResidents": 15663
+ },
+ {
+   "postcode": "RH14",
+   "totalResidents": 6103
+ },
+ {
+   "postcode": "RH15",
+   "totalResidents": 13049
+ },
+ {
+   "postcode": "RH16",
+   "totalResidents": 14681
+ },
+ {
+   "postcode": "RH17",
+   "totalResidents": 7748
+ },
+ {
+   "postcode": "RH18",
+   "totalResidents": 1918
+ },
+ {
+   "postcode": "RH19",
+   "totalResidents": 14163
+ },
+ {
+   "postcode": "RH2",
+   "totalResidents": 10869
+ },
+ {
+   "postcode": "RH20",
+   "totalResidents": 11269
+ },
+ {
+   "postcode": "RH3",
+   "totalResidents": 1853
+ },
+ {
+   "postcode": "RH4",
+   "totalResidents": 6977
+ },
+ {
+   "postcode": "RH5",
+   "totalResidents": 6868
+ },
+ {
+   "postcode": "RH6",
+   "totalResidents": 12423
+ },
+ {
+   "postcode": "RH7",
+   "totalResidents": 3812
+ },
+ {
+   "postcode": "RH8",
+   "totalResidents": 6328
+ },
+ {
+   "postcode": "RH9",
+   "totalResidents": 2281
+ },
+ {
+   "postcode": "RM1",
+   "totalResidents": 8712
+ },
+ {
+   "postcode": "RM10",
+   "totalResidents": 15090
+ },
+ {
+   "postcode": "RM11",
+   "totalResidents": 12765
+ },
+ {
+   "postcode": "RM12",
+   "totalResidents": 14293
+ },
+ {
+   "postcode": "RM13",
+   "totalResidents": 11966
+ },
+ {
+   "postcode": "RM14",
+   "totalResidents": 11158
+ },
+ {
+   "postcode": "RM15",
+   "totalResidents": 11401
+ },
+ {
+   "postcode": "RM16",
+   "totalResidents": 15974
+ },
+ {
+   "postcode": "RM17",
+   "totalResidents": 11373
+ },
+ {
+   "postcode": "RM18",
+   "totalResidents": 6447
+ },
+ {
+   "postcode": "RM19",
+   "totalResidents": 2974
+ },
+ {
+   "postcode": "RM2",
+   "totalResidents": 5752
+ },
+ {
+   "postcode": "RM20",
+   "totalResidents": 1974
+ },
+ {
+   "postcode": "RM3",
+   "totalResidents": 17241
+ },
+ {
+   "postcode": "RM4",
+   "totalResidents": 1890
+ },
+ {
+   "postcode": "RM5",
+   "totalResidents": 7437
+ },
+ {
+   "postcode": "RM6",
+   "totalResidents": 12437
+ },
+ {
+   "postcode": "RM7",
+   "totalResidents": 11927
+ },
+ {
+   "postcode": "RM8",
+   "totalResidents": 15199
+ },
+ {
+   "postcode": "RM9",
+   "totalResidents": 13860
+ },
+ {
+   "postcode": "S1",
+   "totalResidents": 3826
+ },
+ {
+   "postcode": "S10",
+   "totalResidents": 18098
+ },
+ {
+   "postcode": "S11",
+   "totalResidents": 14352
+ },
+ {
+   "postcode": "S12",
+   "totalResidents": 15363
+ },
+ {
+   "postcode": "S13",
+   "totalResidents": 13953
+ },
+ {
+   "postcode": "S14",
+   "totalResidents": 4668
+ },
+ {
+   "postcode": "S17",
+   "totalResidents": 7161
+ },
+ {
+   "postcode": "S18",
+   "totalResidents": 10948
+ },
+ {
+   "postcode": "S2",
+   "totalResidents": 18745
+ },
+ {
+   "postcode": "S20",
+   "totalResidents": 13781
+ },
+ {
+   "postcode": "S21",
+   "totalResidents": 8897
+ },
+ {
+   "postcode": "S25",
+   "totalResidents": 9194
+ },
+ {
+   "postcode": "S26",
+   "totalResidents": 11188
+ },
+ {
+   "postcode": "S3",
+   "totalResidents": 7769
+ },
+ {
+   "postcode": "S32",
+   "totalResidents": 2718
+ },
+ {
+   "postcode": "S33",
+   "totalResidents": 2446
+ },
+ {
+   "postcode": "S35",
+   "totalResidents": 18307
+ },
+ {
+   "postcode": "S36",
+   "totalResidents": 12273
+ },
+ {
+   "postcode": "S4",
+   "totalResidents": 5286
+ },
+ {
+   "postcode": "S40",
+   "totalResidents": 17187
+ },
+ {
+   "postcode": "S41",
+   "totalResidents": 17118
+ },
+ {
+   "postcode": "S42",
+   "totalResidents": 12789
+ },
+ {
+   "postcode": "S43",
+   "totalResidents": 18052
+ },
+ {
+   "postcode": "S44",
+   "totalResidents": 9913
+ },
+ {
+   "postcode": "S45",
+   "totalResidents": 6316
+ },
+ {
+   "postcode": "S5",
+   "totalResidents": 25276
+ },
+ {
+   "postcode": "S6",
+   "totalResidents": 26903
+ },
+ {
+   "postcode": "S60",
+   "totalResidents": 15755
+ },
+ {
+   "postcode": "S61",
+   "totalResidents": 16043
+ },
+ {
+   "postcode": "S62",
+   "totalResidents": 8979
+ },
+ {
+   "postcode": "S63",
+   "totalResidents": 17196
+ },
+ {
+   "postcode": "S64",
+   "totalResidents": 13800
+ },
+ {
+   "postcode": "S65",
+   "totalResidents": 15265
+ },
+ {
+   "postcode": "S66",
+   "totalResidents": 20010
+ },
+ {
+   "postcode": "S7",
+   "totalResidents": 7031
+ },
+ {
+   "postcode": "S70",
+   "totalResidents": 18660
+ },
+ {
+   "postcode": "S71",
+   "totalResidents": 20071
+ },
+ {
+   "postcode": "S72",
+   "totalResidents": 11059
+ },
+ {
+   "postcode": "S73",
+   "totalResidents": 12184
+ },
+ {
+   "postcode": "S74",
+   "totalResidents": 8120
+ },
+ {
+   "postcode": "S75",
+   "totalResidents": 19582
+ },
+ {
+   "postcode": "S8",
+   "totalResidents": 21595
+ },
+ {
+   "postcode": "S80",
+   "totalResidents": 13696
+ },
+ {
+   "postcode": "S81",
+   "totalResidents": 15898
+ },
+ {
+   "postcode": "S9",
+   "totalResidents": 11084
+ },
+ {
+   "postcode": "SE1",
+   "totalResidents": 31597
+ },
+ {
+   "postcode": "SE10",
+   "totalResidents": 11245
+ },
+ {
+   "postcode": "SE11",
+   "totalResidents": 10222
+ },
+ {
+   "postcode": "SE12",
+   "totalResidents": 11720
+ },
+ {
+   "postcode": "SE13",
+   "totalResidents": 18959
+ },
+ {
+   "postcode": "SE14",
+   "totalResidents": 10205
+ },
+ {
+   "postcode": "SE15",
+   "totalResidents": 26083
+ },
+ {
+   "postcode": "SE16",
+   "totalResidents": 20623
+ },
+ {
+   "postcode": "SE17",
+   "totalResidents": 14087
+ },
+ {
+   "postcode": "SE18",
+   "totalResidents": 30798
+ },
+ {
+   "postcode": "SE19",
+   "totalResidents": 13041
+ },
+ {
+   "postcode": "SE2",
+   "totalResidents": 10594
+ },
+ {
+   "postcode": "SE20",
+   "totalResidents": 10883
+ },
+ {
+   "postcode": "SE21",
+   "totalResidents": 6176
+ },
+ {
+   "postcode": "SE22",
+   "totalResidents": 13085
+ },
+ {
+   "postcode": "SE23",
+   "totalResidents": 14875
+ },
+ {
+   "postcode": "SE24",
+   "totalResidents": 8048
+ },
+ {
+   "postcode": "SE25",
+   "totalResidents": 15511
+ },
+ {
+   "postcode": "SE26",
+   "totalResidents": 12830
+ },
+ {
+   "postcode": "SE27",
+   "totalResidents": 9361
+ },
+ {
+   "postcode": "SE28",
+   "totalResidents": 10787
+ },
+ {
+   "postcode": "SE3",
+   "totalResidents": 14578
+ },
+ {
+   "postcode": "SE4",
+   "totalResidents": 12177
+ },
+ {
+   "postcode": "SE5",
+   "totalResidents": 19220
+ },
+ {
+   "postcode": "SE6",
+   "totalResidents": 21633
+ },
+ {
+   "postcode": "SE7",
+   "totalResidents": 8489
+ },
+ {
+   "postcode": "SE8",
+   "totalResidents": 12040
+ },
+ {
+   "postcode": "SE9",
+   "totalResidents": 25947
+ },
+ {
+   "postcode": "SG1",
+   "totalResidents": 21874
+ },
+ {
+   "postcode": "SG10",
+   "totalResidents": 815
+ },
+ {
+   "postcode": "SG11",
+   "totalResidents": 3235
+ },
+ {
+   "postcode": "SG12",
+   "totalResidents": 12931
+ },
+ {
+   "postcode": "SG13",
+   "totalResidents": 6878
+ },
+ {
+   "postcode": "SG14",
+   "totalResidents": 8608
+ },
+ {
+   "postcode": "SG15",
+   "totalResidents": 2422
+ },
+ {
+   "postcode": "SG16",
+   "totalResidents": 2669
+ },
+ {
+   "postcode": "SG17",
+   "totalResidents": 5046
+ },
+ {
+   "postcode": "SG18",
+   "totalResidents": 10413
+ },
+ {
+   "postcode": "SG19",
+   "totalResidents": 10340
+ },
+ {
+   "postcode": "SG2",
+   "totalResidents": 17412
+ },
+ {
+   "postcode": "SG3",
+   "totalResidents": 3102
+ },
+ {
+   "postcode": "SG4",
+   "totalResidents": 12645
+ },
+ {
+   "postcode": "SG5",
+   "totalResidents": 14072
+ },
+ {
+   "postcode": "SG6",
+   "totalResidents": 14271
+ },
+ {
+   "postcode": "SG7",
+   "totalResidents": 5797
+ },
+ {
+   "postcode": "SG8",
+   "totalResidents": 16034
+ },
+ {
+   "postcode": "SG9",
+   "totalResidents": 3868
+ },
+ {
+   "postcode": "SK1",
+   "totalResidents": 5829
+ },
+ {
+   "postcode": "SK10",
+   "totalResidents": 18069
+ },
+ {
+   "postcode": "SK11",
+   "totalResidents": 17209
+ },
+ {
+   "postcode": "SK12",
+   "totalResidents": 8364
+ },
+ {
+   "postcode": "SK13",
+   "totalResidents": 14569
+ },
+ {
+   "postcode": "SK14",
+   "totalResidents": 20649
+ },
+ {
+   "postcode": "SK15",
+   "totalResidents": 12172
+ },
+ {
+   "postcode": "SK16",
+   "totalResidents": 8909
+ },
+ {
+   "postcode": "SK17",
+   "totalResidents": 14840
+ },
+ {
+   "postcode": "SK2",
+   "totalResidents": 12729
+ },
+ {
+   "postcode": "SK22",
+   "totalResidents": 5584
+ },
+ {
+   "postcode": "SK23",
+   "totalResidents": 7701
+ },
+ {
+   "postcode": "SK3",
+   "totalResidents": 12851
+ },
+ {
+   "postcode": "SK4",
+   "totalResidents": 15777
+ },
+ {
+   "postcode": "SK5",
+   "totalResidents": 13487
+ },
+ {
+   "postcode": "SK6",
+   "totalResidents": 22841
+ },
+ {
+   "postcode": "SK7",
+   "totalResidents": 17379
+ },
+ {
+   "postcode": "SK8",
+   "totalResidents": 24737
+ },
+ {
+   "postcode": "SK9",
+   "totalResidents": 17424
+ },
+ {
+   "postcode": "SL0",
+   "totalResidents": 4471
+ },
+ {
+   "postcode": "SL1",
+   "totalResidents": 26916
+ },
+ {
+   "postcode": "SL2",
+   "totalResidents": 19535
+ },
+ {
+   "postcode": "SL3",
+   "totalResidents": 17786
+ },
+ {
+   "postcode": "SL4",
+   "totalResidents": 18964
+ },
+ {
+   "postcode": "SL5",
+   "totalResidents": 9909
+ },
+ {
+   "postcode": "SL6",
+   "totalResidents": 32344
+ },
+ {
+   "postcode": "SL7",
+   "totalResidents": 8959
+ },
+ {
+   "postcode": "SL8",
+   "totalResidents": 2906
+ },
+ {
+   "postcode": "SL9",
+   "totalResidents": 8130
+ },
+ {
+   "postcode": "SM1",
+   "totalResidents": 16608
+ },
+ {
+   "postcode": "SM2",
+   "totalResidents": 12473
+ },
+ {
+   "postcode": "SM3",
+   "totalResidents": 8074
+ },
+ {
+   "postcode": "SM4",
+   "totalResidents": 14291
+ },
+ {
+   "postcode": "SM5",
+   "totalResidents": 15456
+ },
+ {
+   "postcode": "SM6",
+   "totalResidents": 15680
+ },
+ {
+   "postcode": "SM7",
+   "totalResidents": 7264
+ },
+ {
+   "postcode": "SN1",
+   "totalResidents": 13868
+ },
+ {
+   "postcode": "SN10",
+   "totalResidents": 13785
+ },
+ {
+   "postcode": "SN11",
+   "totalResidents": 9382
+ },
+ {
+   "postcode": "SN12",
+   "totalResidents": 10765
+ },
+ {
+   "postcode": "SN13",
+   "totalResidents": 7282
+ },
+ {
+   "postcode": "SN14",
+   "totalResidents": 11444
+ },
+ {
+   "postcode": "SN15",
+   "totalResidents": 14832
+ },
+ {
+   "postcode": "SN16",
+   "totalResidents": 6033
+ },
+ {
+   "postcode": "SN2",
+   "totalResidents": 18170
+ },
+ {
+   "postcode": "SN25",
+   "totalResidents": 14658
+ },
+ {
+   "postcode": "SN26",
+   "totalResidents": 719
+ },
+ {
+   "postcode": "SN3",
+   "totalResidents": 22304
+ },
+ {
+   "postcode": "SN4",
+   "totalResidents": 11814
+ },
+ {
+   "postcode": "SN5",
+   "totalResidents": 14038
+ },
+ {
+   "postcode": "SN6",
+   "totalResidents": 9301
+ },
+ {
+   "postcode": "SN7",
+   "totalResidents": 5828
+ },
+ {
+   "postcode": "SN8",
+   "totalResidents": 10445
+ },
+ {
+   "postcode": "SN9",
+   "totalResidents": 3735
+ },
+ {
+   "postcode": "SO14",
+   "totalResidents": 11360
+ },
+ {
+   "postcode": "SO15",
+   "totalResidents": 19050
+ },
+ {
+   "postcode": "SO16",
+   "totalResidents": 27304
+ },
+ {
+   "postcode": "SO17",
+   "totalResidents": 7806
+ },
+ {
+   "postcode": "SO18",
+   "totalResidents": 15955
+ },
+ {
+   "postcode": "SO19",
+   "totalResidents": 24684
+ },
+ {
+   "postcode": "SO20",
+   "totalResidents": 3483
+ },
+ {
+   "postcode": "SO21",
+   "totalResidents": 8137
+ },
+ {
+   "postcode": "SO22",
+   "totalResidents": 11051
+ },
+ {
+   "postcode": "SO23",
+   "totalResidents": 10185
+ },
+ {
+   "postcode": "SO24",
+   "totalResidents": 4891
+ },
+ {
+   "postcode": "SO30",
+   "totalResidents": 13546
+ },
+ {
+   "postcode": "SO31",
+   "totalResidents": 19164
+ },
+ {
+   "postcode": "SO32",
+   "totalResidents": 8384
+ },
+ {
+   "postcode": "SO40",
+   "totalResidents": 17572
+ },
+ {
+   "postcode": "SO41",
+   "totalResidents": 15726
+ },
+ {
+   "postcode": "SO42",
+   "totalResidents": 2447
+ },
+ {
+   "postcode": "SO43",
+   "totalResidents": 2117
+ },
+ {
+   "postcode": "SO45",
+   "totalResidents": 15439
+ },
+ {
+   "postcode": "SO50",
+   "totalResidents": 19373
+ },
+ {
+   "postcode": "SO51",
+   "totalResidents": 11664
+ },
+ {
+   "postcode": "SO52",
+   "totalResidents": 3091
+ },
+ {
+   "postcode": "SO53",
+   "totalResidents": 13447
+ },
+ {
+   "postcode": "SP1",
+   "totalResidents": 9627
+ },
+ {
+   "postcode": "SP10",
+   "totalResidents": 17029
+ },
+ {
+   "postcode": "SP11",
+   "totalResidents": 9686
+ },
+ {
+   "postcode": "SP2",
+   "totalResidents": 13169
+ },
+ {
+   "postcode": "SP3",
+   "totalResidents": 5357
+ },
+ {
+   "postcode": "SP4",
+   "totalResidents": 12277
+ },
+ {
+   "postcode": "SP5",
+   "totalResidents": 9576
+ },
+ {
+   "postcode": "SP6",
+   "totalResidents": 6254
+ },
+ {
+   "postcode": "SP7",
+   "totalResidents": 6147
+ },
+ {
+   "postcode": "SP8",
+   "totalResidents": 6683
+ },
+ {
+   "postcode": "SP9",
+   "totalResidents": 3101
+ },
+ {
+   "postcode": "SR1",
+   "totalResidents": 2757
+ },
+ {
+   "postcode": "SR2",
+   "totalResidents": 15230
+ },
+ {
+   "postcode": "SR3",
+   "totalResidents": 17647
+ },
+ {
+   "postcode": "SR4",
+   "totalResidents": 17973
+ },
+ {
+   "postcode": "SR5",
+   "totalResidents": 15783
+ },
+ {
+   "postcode": "SR6",
+   "totalResidents": 13905
+ },
+ {
+   "postcode": "SR7",
+   "totalResidents": 13919
+ },
+ {
+   "postcode": "SR8",
+   "totalResidents": 15855
+ },
+ {
+   "postcode": "SS0",
+   "totalResidents": 19182
+ },
+ {
+   "postcode": "SS1",
+   "totalResidents": 12600
+ },
+ {
+   "postcode": "SS11",
+   "totalResidents": 7136
+ },
+ {
+   "postcode": "SS12",
+   "totalResidents": 7604
+ },
+ {
+   "postcode": "SS13",
+   "totalResidents": 9463
+ },
+ {
+   "postcode": "SS14",
+   "totalResidents": 10625
+ },
+ {
+   "postcode": "SS15",
+   "totalResidents": 12943
+ },
+ {
+   "postcode": "SS16",
+   "totalResidents": 12387
+ },
+ {
+   "postcode": "SS17",
+   "totalResidents": 13408
+ },
+ {
+   "postcode": "SS2",
+   "totalResidents": 16504
+ },
+ {
+   "postcode": "SS3",
+   "totalResidents": 11974
+ },
+ {
+   "postcode": "SS4",
+   "totalResidents": 8902
+ },
+ {
+   "postcode": "SS5",
+   "totalResidents": 8958
+ },
+ {
+   "postcode": "SS6",
+   "totalResidents": 13037
+ },
+ {
+   "postcode": "SS7",
+   "totalResidents": 20910
+ },
+ {
+   "postcode": "SS8",
+   "totalResidents": 16525
+ },
+ {
+   "postcode": "SS9",
+   "totalResidents": 22438
+ },
+ {
+   "postcode": "ST1",
+   "totalResidents": 14073
+ },
+ {
+   "postcode": "ST10",
+   "totalResidents": 11338
+ },
+ {
+   "postcode": "ST11",
+   "totalResidents": 4443
+ },
+ {
+   "postcode": "ST12",
+   "totalResidents": 1738
+ },
+ {
+   "postcode": "ST13",
+   "totalResidents": 12896
+ },
+ {
+   "postcode": "ST14",
+   "totalResidents": 8349
+ },
+ {
+   "postcode": "ST15",
+   "totalResidents": 9547
+ },
+ {
+   "postcode": "ST16",
+   "totalResidents": 13826
+ },
+ {
+   "postcode": "ST17",
+   "totalResidents": 17566
+ },
+ {
+   "postcode": "ST18",
+   "totalResidents": 6680
+ },
+ {
+   "postcode": "ST19",
+   "totalResidents": 6418
+ },
+ {
+   "postcode": "ST2",
+   "totalResidents": 15260
+ },
+ {
+   "postcode": "ST20",
+   "totalResidents": 2949
+ },
+ {
+   "postcode": "ST21",
+   "totalResidents": 2504
+ },
+ {
+   "postcode": "ST3",
+   "totalResidents": 29560
+ },
+ {
+   "postcode": "ST4",
+   "totalResidents": 26068
+ },
+ {
+   "postcode": "ST5",
+   "totalResidents": 36030
+ },
+ {
+   "postcode": "ST6",
+   "totalResidents": 28890
+ },
+ {
+   "postcode": "ST7",
+   "totalResidents": 23557
+ },
+ {
+   "postcode": "ST8",
+   "totalResidents": 9068
+ },
+ {
+   "postcode": "ST9",
+   "totalResidents": 5087
+ },
+ {
+   "postcode": "SW10",
+   "totalResidents": 10201
+ },
+ {
+   "postcode": "SW11",
+   "totalResidents": 33266
+ },
+ {
+   "postcode": "SW12",
+   "totalResidents": 13911
+ },
+ {
+   "postcode": "SW13",
+   "totalResidents": 7212
+ },
+ {
+   "postcode": "SW14",
+   "totalResidents": 7264
+ },
+ {
+   "postcode": "SW15",
+   "totalResidents": 26534
+ },
+ {
+   "postcode": "SW16",
+   "totalResidents": 33397
+ },
+ {
+   "postcode": "SW17",
+   "totalResidents": 26882
+ },
+ {
+   "postcode": "SW18",
+   "totalResidents": 25614
+ },
+ {
+   "postcode": "SW19",
+   "totalResidents": 34043
+ },
+ {
+   "postcode": "SW1A",
+   "totalResidents": 224
+ },
+ {
+   "postcode": "SW1E",
+   "totalResidents": 407
+ },
+ {
+   "postcode": "SW1H",
+   "totalResidents": 564
+ },
+ {
+   "postcode": "SW1P",
+   "totalResidents": 7598
+ },
+ {
+   "postcode": "SW1V",
+   "totalResidents": 12858
+ },
+ {
+   "postcode": "SW1W",
+   "totalResidents": 5335
+ },
+ {
+   "postcode": "SW1X",
+   "totalResidents": 4386
+ },
+ {
+   "postcode": "SW1Y",
+   "totalResidents": 451
+ },
+ {
+   "postcode": "SW2",
+   "totalResidents": 23656
+ },
+ {
+   "postcode": "SW20",
+   "totalResidents": 11983
+ },
+ {
+   "postcode": "SW3",
+   "totalResidents": 14165
+ },
+ {
+   "postcode": "SW4",
+   "totalResidents": 17410
+ },
+ {
+   "postcode": "SW5",
+   "totalResidents": 8877
+ },
+ {
+   "postcode": "SW6",
+   "totalResidents": 30163
+ },
+ {
+   "postcode": "SW7",
+   "totalResidents": 11254
+ },
+ {
+   "postcode": "SW8",
+   "totalResidents": 17305
+ },
+ {
+   "postcode": "SW9",
+   "totalResidents": 19134
+ },
+ {
+   "postcode": "SY1",
+   "totalResidents": 11864
+ },
+ {
+   "postcode": "SY10",
+   "totalResidents": 6410
+ },
+ {
+   "postcode": "SY11",
+   "totalResidents": 12073
+ },
+ {
+   "postcode": "SY12",
+   "totalResidents": 3558
+ },
+ {
+   "postcode": "SY13",
+   "totalResidents": 8494
+ },
+ {
+   "postcode": "SY14",
+   "totalResidents": 2515
+ },
+ {
+   "postcode": "SY15",
+   "totalResidents": 2336
+ },
+ {
+   "postcode": "SY16",
+   "totalResidents": 7334
+ },
+ {
+   "postcode": "SY17",
+   "totalResidents": 1659
+ },
+ {
+   "postcode": "SY18",
+   "totalResidents": 2310
+ },
+ {
+   "postcode": "SY19",
+   "totalResidents": 581
+ },
+ {
+   "postcode": "SY2",
+   "totalResidents": 7756
+ },
+ {
+   "postcode": "SY20",
+   "totalResidents": 3651
+ },
+ {
+   "postcode": "SY21",
+   "totalResidents": 7400
+ },
+ {
+   "postcode": "SY22",
+   "totalResidents": 4375
+ },
+ {
+   "postcode": "SY23",
+   "totalResidents": 12407
+ },
+ {
+   "postcode": "SY24",
+   "totalResidents": 2245
+ },
+ {
+   "postcode": "SY25",
+   "totalResidents": 2195
+ },
+ {
+   "postcode": "SY3",
+   "totalResidents": 15125
+ },
+ {
+   "postcode": "SY4",
+   "totalResidents": 10266
+ },
+ {
+   "postcode": "SY5",
+   "totalResidents": 9066
+ },
+ {
+   "postcode": "SY6",
+   "totalResidents": 3176
+ },
+ {
+   "postcode": "SY7",
+   "totalResidents": 5671
+ },
+ {
+   "postcode": "SY8",
+   "totalResidents": 9047
+ },
+ {
+   "postcode": "SY9",
+   "totalResidents": 1362
+ },
+ {
+   "postcode": "TA1",
+   "totalResidents": 18367
+ },
+ {
+   "postcode": "TA10",
+   "totalResidents": 4189
+ },
+ {
+   "postcode": "TA11",
+   "totalResidents": 4161
+ },
+ {
+   "postcode": "TA12",
+   "totalResidents": 2901
+ },
+ {
+   "postcode": "TA13",
+   "totalResidents": 1917
+ },
+ {
+   "postcode": "TA14",
+   "totalResidents": 1370
+ },
+ {
+   "postcode": "TA15",
+   "totalResidents": 389
+ },
+ {
+   "postcode": "TA16",
+   "totalResidents": 882
+ },
+ {
+   "postcode": "TA17",
+   "totalResidents": 267
+ },
+ {
+   "postcode": "TA18",
+   "totalResidents": 4823
+ },
+ {
+   "postcode": "TA19",
+   "totalResidents": 5442
+ },
+ {
+   "postcode": "TA2",
+   "totalResidents": 11364
+ },
+ {
+   "postcode": "TA20",
+   "totalResidents": 9472
+ },
+ {
+   "postcode": "TA21",
+   "totalResidents": 8124
+ },
+ {
+   "postcode": "TA22",
+   "totalResidents": 1463
+ },
+ {
+   "postcode": "TA23",
+   "totalResidents": 2793
+ },
+ {
+   "postcode": "TA24",
+   "totalResidents": 9628
+ },
+ {
+   "postcode": "TA3",
+   "totalResidents": 6415
+ },
+ {
+   "postcode": "TA4",
+   "totalResidents": 8445
+ },
+ {
+   "postcode": "TA5",
+   "totalResidents": 4640
+ },
+ {
+   "postcode": "TA6",
+   "totalResidents": 20464
+ },
+ {
+   "postcode": "TA7",
+   "totalResidents": 6502
+ },
+ {
+   "postcode": "TA8",
+   "totalResidents": 8138
+ },
+ {
+   "postcode": "TA9",
+   "totalResidents": 5388
+ },
+ {
+   "postcode": "TD12",
+   "totalResidents": 653
+ },
+ {
+   "postcode": "TD15",
+   "totalResidents": 8562
+ },
+ {
+   "postcode": "TF1",
+   "totalResidents": 15427
+ },
+ {
+   "postcode": "TF10",
+   "totalResidents": 7403
+ },
+ {
+   "postcode": "TF11",
+   "totalResidents": 4497
+ },
+ {
+   "postcode": "TF12",
+   "totalResidents": 2529
+ },
+ {
+   "postcode": "TF13",
+   "totalResidents": 1683
+ },
+ {
+   "postcode": "TF2",
+   "totalResidents": 16137
+ },
+ {
+   "postcode": "TF3",
+   "totalResidents": 9450
+ },
+ {
+   "postcode": "TF4",
+   "totalResidents": 7667
+ },
+ {
+   "postcode": "TF5",
+   "totalResidents": 2003
+ },
+ {
+   "postcode": "TF6",
+   "totalResidents": 2070
+ },
+ {
+   "postcode": "TF7",
+   "totalResidents": 7514
+ },
+ {
+   "postcode": "TF8",
+   "totalResidents": 1388
+ },
+ {
+   "postcode": "TF9",
+   "totalResidents": 10602
+ },
+ {
+   "postcode": "TN1",
+   "totalResidents": 5950
+ },
+ {
+   "postcode": "TN10",
+   "totalResidents": 6779
+ },
+ {
+   "postcode": "TN11",
+   "totalResidents": 5701
+ },
+ {
+   "postcode": "TN12",
+   "totalResidents": 11985
+ },
+ {
+   "postcode": "TN13",
+   "totalResidents": 10160
+ },
+ {
+   "postcode": "TN14",
+   "totalResidents": 6329
+ },
+ {
+   "postcode": "TN15",
+   "totalResidents": 10155
+ },
+ {
+   "postcode": "TN16",
+   "totalResidents": 8069
+ },
+ {
+   "postcode": "TN17",
+   "totalResidents": 5894
+ },
+ {
+   "postcode": "TN18",
+   "totalResidents": 2771
+ },
+ {
+   "postcode": "TN19",
+   "totalResidents": 2144
+ },
+ {
+   "postcode": "TN2",
+   "totalResidents": 12247
+ },
+ {
+   "postcode": "TN20",
+   "totalResidents": 1719
+ },
+ {
+   "postcode": "TN21",
+   "totalResidents": 6968
+ },
+ {
+   "postcode": "TN22",
+   "totalResidents": 11107
+ },
+ {
+   "postcode": "TN23",
+   "totalResidents": 15897
+ },
+ {
+   "postcode": "TN24",
+   "totalResidents": 13311
+ },
+ {
+   "postcode": "TN25",
+   "totalResidents": 6654
+ },
+ {
+   "postcode": "TN26",
+   "totalResidents": 4859
+ },
+ {
+   "postcode": "TN27",
+   "totalResidents": 5570
+ },
+ {
+   "postcode": "TN28",
+   "totalResidents": 3853
+ },
+ {
+   "postcode": "TN29",
+   "totalResidents": 6334
+ },
+ {
+   "postcode": "TN3",
+   "totalResidents": 4739
+ },
+ {
+   "postcode": "TN30",
+   "totalResidents": 4362
+ },
+ {
+   "postcode": "TN31",
+   "totalResidents": 7095
+ },
+ {
+   "postcode": "TN32",
+   "totalResidents": 2172
+ },
+ {
+   "postcode": "TN33",
+   "totalResidents": 5567
+ },
+ {
+   "postcode": "TN34",
+   "totalResidents": 14762
+ },
+ {
+   "postcode": "TN35",
+   "totalResidents": 7724
+ },
+ {
+   "postcode": "TN36",
+   "totalResidents": 1332
+ },
+ {
+   "postcode": "TN37",
+   "totalResidents": 10146
+ },
+ {
+   "postcode": "TN38",
+   "totalResidents": 13441
+ },
+ {
+   "postcode": "TN39",
+   "totalResidents": 12699
+ },
+ {
+   "postcode": "TN4",
+   "totalResidents": 13636
+ },
+ {
+   "postcode": "TN40",
+   "totalResidents": 9055
+ },
+ {
+   "postcode": "TN5",
+   "totalResidents": 3734
+ },
+ {
+   "postcode": "TN6",
+   "totalResidents": 10182
+ },
+ {
+   "postcode": "TN7",
+   "totalResidents": 953
+ },
+ {
+   "postcode": "TN8",
+   "totalResidents": 5499
+ },
+ {
+   "postcode": "TN9",
+   "totalResidents": 7551
+ },
+ {
+   "postcode": "TQ1",
+   "totalResidents": 16615
+ },
+ {
+   "postcode": "TQ10",
+   "totalResidents": 1885
+ },
+ {
+   "postcode": "TQ11",
+   "totalResidents": 1894
+ },
+ {
+   "postcode": "TQ12",
+   "totalResidents": 23466
+ },
+ {
+   "postcode": "TQ13",
+   "totalResidents": 10952
+ },
+ {
+   "postcode": "TQ14",
+   "totalResidents": 9917
+ },
+ {
+   "postcode": "TQ2",
+   "totalResidents": 15518
+ },
+ {
+   "postcode": "TQ3",
+   "totalResidents": 14084
+ },
+ {
+   "postcode": "TQ4",
+   "totalResidents": 9400
+ },
+ {
+   "postcode": "TQ5",
+   "totalResidents": 9980
+ },
+ {
+   "postcode": "TQ6",
+   "totalResidents": 5139
+ },
+ {
+   "postcode": "TQ7",
+   "totalResidents": 9848
+ },
+ {
+   "postcode": "TQ8",
+   "totalResidents": 2087
+ },
+ {
+   "postcode": "TQ9",
+   "totalResidents": 8529
+ },
+ {
+   "postcode": "TR1",
+   "totalResidents": 9753
+ },
+ {
+   "postcode": "TR10",
+   "totalResidents": 4604
+ },
+ {
+   "postcode": "TR11",
+   "totalResidents": 14256
+ },
+ {
+   "postcode": "TR12",
+   "totalResidents": 4886
+ },
+ {
+   "postcode": "TR13",
+   "totalResidents": 9101
+ },
+ {
+   "postcode": "TR14",
+   "totalResidents": 11085
+ },
+ {
+   "postcode": "TR15",
+   "totalResidents": 9207
+ },
+ {
+   "postcode": "TR16",
+   "totalResidents": 6433
+ },
+ {
+   "postcode": "TR17",
+   "totalResidents": 871
+ },
+ {
+   "postcode": "TR18",
+   "totalResidents": 10452
+ },
+ {
+   "postcode": "TR19",
+   "totalResidents": 5247
+ },
+ {
+   "postcode": "TR2",
+   "totalResidents": 5269
+ },
+ {
+   "postcode": "TR20",
+   "totalResidents": 4464
+ },
+ {
+   "postcode": "TR21",
+   "totalResidents": 1046
+ },
+ {
+   "postcode": "TR22",
+   "totalResidents": 106
+ },
+ {
+   "postcode": "TR24",
+   "totalResidents": 164
+ },
+ {
+   "postcode": "TR25",
+   "totalResidents": 73
+ },
+ {
+   "postcode": "TR26",
+   "totalResidents": 7012
+ },
+ {
+   "postcode": "TR27",
+   "totalResidents": 6794
+ },
+ {
+   "postcode": "TR3",
+   "totalResidents": 5744
+ },
+ {
+   "postcode": "TR4",
+   "totalResidents": 5036
+ },
+ {
+   "postcode": "TR5",
+   "totalResidents": 2087
+ },
+ {
+   "postcode": "TR6",
+   "totalResidents": 1914
+ },
+ {
+   "postcode": "TR7",
+   "totalResidents": 10274
+ },
+ {
+   "postcode": "TR8",
+   "totalResidents": 3836
+ },
+ {
+   "postcode": "TR9",
+   "totalResidents": 3677
+ },
+ {
+   "postcode": "TS1",
+   "totalResidents": 7948
+ },
+ {
+   "postcode": "TS10",
+   "totalResidents": 16859
+ },
+ {
+   "postcode": "TS11",
+   "totalResidents": 5542
+ },
+ {
+   "postcode": "TS12",
+   "totalResidents": 10511
+ },
+ {
+   "postcode": "TS13",
+   "totalResidents": 5239
+ },
+ {
+   "postcode": "TS14",
+   "totalResidents": 8005
+ },
+ {
+   "postcode": "TS15",
+   "totalResidents": 5745
+ },
+ {
+   "postcode": "TS16",
+   "totalResidents": 4503
+ },
+ {
+   "postcode": "TS17",
+   "totalResidents": 18264
+ },
+ {
+   "postcode": "TS18",
+   "totalResidents": 10987
+ },
+ {
+   "postcode": "TS19",
+   "totalResidents": 15969
+ },
+ {
+   "postcode": "TS2",
+   "totalResidents": 359
+ },
+ {
+   "postcode": "TS20",
+   "totalResidents": 9617
+ },
+ {
+   "postcode": "TS21",
+   "totalResidents": 5552
+ },
+ {
+   "postcode": "TS22",
+   "totalResidents": 3676
+ },
+ {
+   "postcode": "TS23",
+   "totalResidents": 12819
+ },
+ {
+   "postcode": "TS24",
+   "totalResidents": 10449
+ },
+ {
+   "postcode": "TS25",
+   "totalResidents": 17658
+ },
+ {
+   "postcode": "TS26",
+   "totalResidents": 11533
+ },
+ {
+   "postcode": "TS27",
+   "totalResidents": 5570
+ },
+ {
+   "postcode": "TS28",
+   "totalResidents": 2358
+ },
+ {
+   "postcode": "TS29",
+   "totalResidents": 2794
+ },
+ {
+   "postcode": "TS3",
+   "totalResidents": 13130
+ },
+ {
+   "postcode": "TS4",
+   "totalResidents": 7489
+ },
+ {
+   "postcode": "TS5",
+   "totalResidents": 16619
+ },
+ {
+   "postcode": "TS6",
+   "totalResidents": 13685
+ },
+ {
+   "postcode": "TS7",
+   "totalResidents": 9728
+ },
+ {
+   "postcode": "TS8",
+   "totalResidents": 9084
+ },
+ {
+   "postcode": "TS9",
+   "totalResidents": 6072
+ },
+ {
+   "postcode": "TW1",
+   "totalResidents": 11360
+ },
+ {
+   "postcode": "TW10",
+   "totalResidents": 8811
+ },
+ {
+   "postcode": "TW11",
+   "totalResidents": 10483
+ },
+ {
+   "postcode": "TW12",
+   "totalResidents": 9982
+ },
+ {
+   "postcode": "TW13",
+   "totalResidents": 14199
+ },
+ {
+   "postcode": "TW14",
+   "totalResidents": 10709
+ },
+ {
+   "postcode": "TW15",
+   "totalResidents": 11424
+ },
+ {
+   "postcode": "TW16",
+   "totalResidents": 8449
+ },
+ {
+   "postcode": "TW17",
+   "totalResidents": 6459
+ },
+ {
+   "postcode": "TW18",
+   "totalResidents": 11533
+ },
+ {
+   "postcode": "TW19",
+   "totalResidents": 6721
+ },
+ {
+   "postcode": "TW2",
+   "totalResidents": 12650
+ },
+ {
+   "postcode": "TW20",
+   "totalResidents": 9678
+ },
+ {
+   "postcode": "TW3",
+   "totalResidents": 13999
+ },
+ {
+   "postcode": "TW4",
+   "totalResidents": 9047
+ },
+ {
+   "postcode": "TW5",
+   "totalResidents": 9498
+ },
+ {
+   "postcode": "TW7",
+   "totalResidents": 14738
+ },
+ {
+   "postcode": "TW8",
+   "totalResidents": 8825
+ },
+ {
+   "postcode": "TW9",
+   "totalResidents": 10482
+ },
+ {
+   "postcode": "UB1",
+   "totalResidents": 12000
+ },
+ {
+   "postcode": "UB10",
+   "totalResidents": 13042
+ },
+ {
+   "postcode": "UB2",
+   "totalResidents": 10036
+ },
+ {
+   "postcode": "UB3",
+   "totalResidents": 16313
+ },
+ {
+   "postcode": "UB4",
+   "totalResidents": 13779
+ },
+ {
+   "postcode": "UB5",
+   "totalResidents": 17188
+ },
+ {
+   "postcode": "UB6",
+   "totalResidents": 17970
+ },
+ {
+   "postcode": "UB7",
+   "totalResidents": 11678
+ },
+ {
+   "postcode": "UB8",
+   "totalResidents": 13266
+ },
+ {
+   "postcode": "UB9",
+   "totalResidents": 6366
+ },
+ {
+   "postcode": "W10",
+   "totalResidents": 15268
+ },
+ {
+   "postcode": "W11",
+   "totalResidents": 16348
+ },
+ {
+   "postcode": "W12",
+   "totalResidents": 20976
+ },
+ {
+   "postcode": "W13",
+   "totalResidents": 13750
+ },
+ {
+   "postcode": "W14",
+   "totalResidents": 18900
+ },
+ {
+   "postcode": "W1B",
+   "totalResidents": 334
+ },
+ {
+   "postcode": "W1D",
+   "totalResidents": 1057
+ },
+ {
+   "postcode": "W1F",
+   "totalResidents": 1045
+ },
+ {
+   "postcode": "W1G",
+   "totalResidents": 1868
+ },
+ {
+   "postcode": "W1H",
+   "totalResidents": 4044
+ },
+ {
+   "postcode": "W1J",
+   "totalResidents": 1432
+ },
+ {
+   "postcode": "W1K",
+   "totalResidents": 2347
+ },
+ {
+   "postcode": "W1S",
+   "totalResidents": 135
+ },
+ {
+   "postcode": "W1T",
+   "totalResidents": 1922
+ },
+ {
+   "postcode": "W1U",
+   "totalResidents": 3730
+ },
+ {
+   "postcode": "W1W",
+   "totalResidents": 2438
+ },
+ {
+   "postcode": "W2",
+   "totalResidents": 26750
+ },
+ {
+   "postcode": "W3",
+   "totalResidents": 21733
+ },
+ {
+   "postcode": "W4",
+   "totalResidents": 20594
+ },
+ {
+   "postcode": "W5",
+   "totalResidents": 21215
+ },
+ {
+   "postcode": "W6",
+   "totalResidents": 16472
+ },
+ {
+   "postcode": "W7",
+   "totalResidents": 11434
+ },
+ {
+   "postcode": "W8",
+   "totalResidents": 10940
+ },
+ {
+   "postcode": "W9",
+   "totalResidents": 18323
+ },
+ {
+   "postcode": "WA1",
+   "totalResidents": 9643
+ },
+ {
+   "postcode": "WA10",
+   "totalResidents": 18300
+ },
+ {
+   "postcode": "WA11",
+   "totalResidents": 18126
+ },
+ {
+   "postcode": "WA12",
+   "totalResidents": 9987
+ },
+ {
+   "postcode": "WA13",
+   "totalResidents": 5577
+ },
+ {
+   "postcode": "WA14",
+   "totalResidents": 12336
+ },
+ {
+   "postcode": "WA15",
+   "totalResidents": 17592
+ },
+ {
+   "postcode": "WA16",
+   "totalResidents": 10762
+ },
+ {
+   "postcode": "WA2",
+   "totalResidents": 18404
+ },
+ {
+   "postcode": "WA3",
+   "totalResidents": 20710
+ },
+ {
+   "postcode": "WA4",
+   "totalResidents": 20690
+ },
+ {
+   "postcode": "WA5",
+   "totalResidents": 24335
+ },
+ {
+   "postcode": "WA6",
+   "totalResidents": 8527
+ },
+ {
+   "postcode": "WA7",
+   "totalResidents": 27475
+ },
+ {
+   "postcode": "WA8",
+   "totalResidents": 26923
+ },
+ {
+   "postcode": "WA9",
+   "totalResidents": 21922
+ },
+ {
+   "postcode": "WC1A",
+   "totalResidents": 302
+ },
+ {
+   "postcode": "WC1B",
+   "totalResidents": 791
+ },
+ {
+   "postcode": "WC1E",
+   "totalResidents": 857
+ },
+ {
+   "postcode": "WC1H",
+   "totalResidents": 4049
+ },
+ {
+   "postcode": "WC1N",
+   "totalResidents": 3544
+ },
+ {
+   "postcode": "WC1R",
+   "totalResidents": 400
+ },
+ {
+   "postcode": "WC1V",
+   "totalResidents": 405
+ },
+ {
+   "postcode": "WC1X",
+   "totalResidents": 3279
+ },
+ {
+   "postcode": "WC2B",
+   "totalResidents": 1081
+ },
+ {
+   "postcode": "WC2E",
+   "totalResidents": 683
+ },
+ {
+   "postcode": "WC2H",
+   "totalResidents": 1440
+ },
+ {
+   "postcode": "WC2N",
+   "totalResidents": 637
+ },
+ {
+   "postcode": "WD17",
+   "totalResidents": 7026
+ },
+ {
+   "postcode": "WD18",
+   "totalResidents": 9853
+ },
+ {
+   "postcode": "WD19",
+   "totalResidents": 11488
+ },
+ {
+   "postcode": "WD23",
+   "totalResidents": 10668
+ },
+ {
+   "postcode": "WD24",
+   "totalResidents": 8844
+ },
+ {
+   "postcode": "WD25",
+   "totalResidents": 11405
+ },
+ {
+   "postcode": "WD3",
+   "totalResidents": 16834
+ },
+ {
+   "postcode": "WD4",
+   "totalResidents": 4856
+ },
+ {
+   "postcode": "WD5",
+   "totalResidents": 4884
+ },
+ {
+   "postcode": "WD6",
+   "totalResidents": 15216
+ },
+ {
+   "postcode": "WD7",
+   "totalResidents": 4925
+ },
+ {
+   "postcode": "WF1",
+   "totalResidents": 15970
+ },
+ {
+   "postcode": "WF10",
+   "totalResidents": 20437
+ },
+ {
+   "postcode": "WF11",
+   "totalResidents": 7813
+ },
+ {
+   "postcode": "WF12",
+   "totalResidents": 13305
+ },
+ {
+   "postcode": "WF13",
+   "totalResidents": 10518
+ },
+ {
+   "postcode": "WF14",
+   "totalResidents": 8832
+ },
+ {
+   "postcode": "WF15",
+   "totalResidents": 7973
+ },
+ {
+   "postcode": "WF16",
+   "totalResidents": 5024
+ },
+ {
+   "postcode": "WF17",
+   "totalResidents": 17313
+ },
+ {
+   "postcode": "WF2",
+   "totalResidents": 22277
+ },
+ {
+   "postcode": "WF3",
+   "totalResidents": 14097
+ },
+ {
+   "postcode": "WF4",
+   "totalResidents": 19183
+ },
+ {
+   "postcode": "WF5",
+   "totalResidents": 9623
+ },
+ {
+   "postcode": "WF6",
+   "totalResidents": 9709
+ },
+ {
+   "postcode": "WF7",
+   "totalResidents": 9158
+ },
+ {
+   "postcode": "WF8",
+   "totalResidents": 14592
+ },
+ {
+   "postcode": "WF9",
+   "totalResidents": 17428
+ },
+ {
+   "postcode": "WN1",
+   "totalResidents": 9672
+ },
+ {
+   "postcode": "WN2",
+   "totalResidents": 23144
+ },
+ {
+   "postcode": "WN3",
+   "totalResidents": 12759
+ },
+ {
+   "postcode": "WN4",
+   "totalResidents": 12355
+ },
+ {
+   "postcode": "WN5",
+   "totalResidents": 19523
+ },
+ {
+   "postcode": "WN6",
+   "totalResidents": 17365
+ },
+ {
+   "postcode": "WN7",
+   "totalResidents": 21788
+ },
+ {
+   "postcode": "WN8",
+   "totalResidents": 19760
+ },
+ {
+   "postcode": "WR1",
+   "totalResidents": 5114
+ },
+ {
+   "postcode": "WR10",
+   "totalResidents": 8124
+ },
+ {
+   "postcode": "WR11",
+   "totalResidents": 18346
+ },
+ {
+   "postcode": "WR12",
+   "totalResidents": 2939
+ },
+ {
+   "postcode": "WR13",
+   "totalResidents": 3659
+ },
+ {
+   "postcode": "WR14",
+   "totalResidents": 15782
+ },
+ {
+   "postcode": "WR15",
+   "totalResidents": 3233
+ },
+ {
+   "postcode": "WR2",
+   "totalResidents": 12450
+ },
+ {
+   "postcode": "WR3",
+   "totalResidents": 9040
+ },
+ {
+   "postcode": "WR4",
+   "totalResidents": 11037
+ },
+ {
+   "postcode": "WR5",
+   "totalResidents": 13312
+ },
+ {
+   "postcode": "WR6",
+   "totalResidents": 5292
+ },
+ {
+   "postcode": "WR7",
+   "totalResidents": 2090
+ },
+ {
+   "postcode": "WR8",
+   "totalResidents": 3970
+ },
+ {
+   "postcode": "WR9",
+   "totalResidents": 13778
+ },
+ {
+   "postcode": "WS1",
+   "totalResidents": 10380
+ },
+ {
+   "postcode": "WS10",
+   "totalResidents": 18788
+ },
+ {
+   "postcode": "WS11",
+   "totalResidents": 18682
+ },
+ {
+   "postcode": "WS12",
+   "totalResidents": 14742
+ },
+ {
+   "postcode": "WS13",
+   "totalResidents": 11718
+ },
+ {
+   "postcode": "WS14",
+   "totalResidents": 7070
+ },
+ {
+   "postcode": "WS15",
+   "totalResidents": 15697
+ },
+ {
+   "postcode": "WS2",
+   "totalResidents": 15351
+ },
+ {
+   "postcode": "WS3",
+   "totalResidents": 21314
+ },
+ {
+   "postcode": "WS4",
+   "totalResidents": 7309
+ },
+ {
+   "postcode": "WS5",
+   "totalResidents": 8302
+ },
+ {
+   "postcode": "WS6",
+   "totalResidents": 7401
+ },
+ {
+   "postcode": "WS7",
+   "totalResidents": 12738
+ },
+ {
+   "postcode": "WS8",
+   "totalResidents": 6546
+ },
+ {
+   "postcode": "WS9",
+   "totalResidents": 11675
+ },
+ {
+   "postcode": "WV1",
+   "totalResidents": 6881
+ },
+ {
+   "postcode": "WV10",
+   "totalResidents": 23282
+ },
+ {
+   "postcode": "WV11",
+   "totalResidents": 15066
+ },
+ {
+   "postcode": "WV12",
+   "totalResidents": 10773
+ },
+ {
+   "postcode": "WV13",
+   "totalResidents": 8611
+ },
+ {
+   "postcode": "WV14",
+   "totalResidents": 20010
+ },
+ {
+   "postcode": "WV15",
+   "totalResidents": 3526
+ },
+ {
+   "postcode": "WV16",
+   "totalResidents": 8083
+ },
+ {
+   "postcode": "WV2",
+   "totalResidents": 6043
+ },
+ {
+   "postcode": "WV3",
+   "totalResidents": 13070
+ },
+ {
+   "postcode": "WV4",
+   "totalResidents": 14314
+ },
+ {
+   "postcode": "WV5",
+   "totalResidents": 6845
+ },
+ {
+   "postcode": "WV6",
+   "totalResidents": 19336
+ },
+ {
+   "postcode": "WV7",
+   "totalResidents": 2853
+ },
+ {
+   "postcode": "WV8",
+   "totalResidents": 6799
+ },
+ {
+   "postcode": "WV9",
+   "totalResidents": 3245
+ },
+ {
+   "postcode": "YO1",
+   "totalResidents": 2805
+ },
+ {
+   "postcode": "YO10",
+   "totalResidents": 11211
+ },
+ {
+   "postcode": "YO11",
+   "totalResidents": 12768
+ },
+ {
+   "postcode": "YO12",
+   "totalResidents": 19031
+ },
+ {
+   "postcode": "YO13",
+   "totalResidents": 4885
+ },
+ {
+   "postcode": "YO14",
+   "totalResidents": 6417
+ },
+ {
+   "postcode": "YO15",
+   "totalResidents": 7435
+ },
+ {
+   "postcode": "YO16",
+   "totalResidents": 12625
+ },
+ {
+   "postcode": "YO17",
+   "totalResidents": 9715
+ },
+ {
+   "postcode": "YO18",
+   "totalResidents": 5509
+ },
+ {
+   "postcode": "YO19",
+   "totalResidents": 5330
+ },
+ {
+   "postcode": "YO21",
+   "totalResidents": 7865
+ },
+ {
+   "postcode": "YO22",
+   "totalResidents": 4996
+ },
+ {
+   "postcode": "YO23",
+   "totalResidents": 8898
+ },
+ {
+   "postcode": "YO24",
+   "totalResidents": 13520
+ },
+ {
+   "postcode": "YO25",
+   "totalResidents": 15120
+ },
+ {
+   "postcode": "YO26",
+   "totalResidents": 12980
+ },
+ {
+   "postcode": "YO30",
+   "totalResidents": 11599
+ },
+ {
+   "postcode": "YO31",
+   "totalResidents": 13501
+ },
+ {
+   "postcode": "YO32",
+   "totalResidents": 12385
+ },
+ {
+   "postcode": "YO41",
+   "totalResidents": 4292
+ },
+ {
+   "postcode": "YO42",
+   "totalResidents": 6398
+ },
+ {
+   "postcode": "YO43",
+   "totalResidents": 5468
+ },
+ {
+   "postcode": "YO51",
+   "totalResidents": 2474
+ },
+ {
+   "postcode": "YO60",
+   "totalResidents": 2259
+ },
+ {
+   "postcode": "YO61",
+   "totalResidents": 6260
+ },
+ {
+   "postcode": "YO62",
+   "totalResidents": 5888
+ },
+ {
+   "postcode": "YO7",
+   "totalResidents": 8804
+ },
+ {
+   "postcode": "YO8",
+   "totalResidents": 19175
+ },
+ {
+   "postcode": "CF10",
+   "totalResidents": 500
+ },
+ {
+   "postcode": "CF11",
+   "totalResidents": 16605
+ },
+ {
+   "postcode": "CF14",
+   "totalResidents": 32571
+ },
+ {
+   "postcode": "CF15",
+   "totalResidents": 7510
+ },
+ {
+   "postcode": "CF23",
+   "totalResidents": 19080
+ },
+ {
+   "postcode": "CF24",
+   "totalResidents": 22527
+ },
+ {
+   "postcode": "CF3",
+   "totalResidents": 17817
+ },
+ {
+   "postcode": "CF31",
+   "totalResidents": 19362
+ },
+ {
+   "postcode": "CF32",
+   "totalResidents": 13534
+ },
+ {
+   "postcode": "CF33",
+   "totalResidents": 6375
+ },
+ {
+   "postcode": "CF34",
+   "totalResidents": 9282
+ },
+ {
+   "postcode": "CF35",
+   "totalResidents": 6296
+ },
+ {
+   "postcode": "CF36",
+   "totalResidents": 7920
+ },
+ {
+   "postcode": "CF37",
+   "totalResidents": 16884
+ },
+ {
+   "postcode": "CF38",
+   "totalResidents": 9615
+ },
+ {
+   "postcode": "CF39",
+   "totalResidents": 12729
+ },
+ {
+   "postcode": "CF40",
+   "totalResidents": 9357
+ },
+ {
+   "postcode": "CF41",
+   "totalResidents": 5054
+ },
+ {
+   "postcode": "CF42",
+   "totalResidents": 6455
+ },
+ {
+   "postcode": "CF43",
+   "totalResidents": 5851
+ },
+ {
+   "postcode": "CF44",
+   "totalResidents": 18149
+ },
+ {
+   "postcode": "CF45",
+   "totalResidents": 8952
+ },
+ {
+   "postcode": "CF46",
+   "totalResidents": 6375
+ },
+ {
+   "postcode": "CF47",
+   "totalResidents": 9705
+ },
+ {
+   "postcode": "CF48",
+   "totalResidents": 12231
+ },
+ {
+   "postcode": "CF5",
+   "totalResidents": 28985
+ },
+ {
+   "postcode": "CF61",
+   "totalResidents": 4245
+ },
+ {
+   "postcode": "CF62",
+   "totalResidents": 17742
+ },
+ {
+   "postcode": "CF63",
+   "totalResidents": 9819
+ },
+ {
+   "postcode": "CF64",
+   "totalResidents": 16617
+ },
+ {
+   "postcode": "CF71",
+   "totalResidents": 4055
+ },
+ {
+   "postcode": "CF72",
+   "totalResidents": 10957
+ },
+ {
+   "postcode": "CF81",
+   "totalResidents": 7267
+ },
+ {
+   "postcode": "CF82",
+   "totalResidents": 8539
+ },
+ {
+   "postcode": "CF83",
+   "totalResidents": 23460
+ },
+ {
+   "postcode": "LD1",
+   "totalResidents": 5747
+ },
+ {
+   "postcode": "LD2",
+   "totalResidents": 2762
+ },
+ {
+   "postcode": "LD3",
+   "totalResidents": 9082
+ },
+ {
+   "postcode": "LD4",
+   "totalResidents": 391
+ },
+ {
+   "postcode": "LD5",
+   "totalResidents": 547
+ },
+ {
+   "postcode": "LD6",
+   "totalResidents": 1392
+ },
+ {
+   "postcode": "LD7",
+   "totalResidents": 2367
+ },
+ {
+   "postcode": "LD8",
+   "totalResidents": 2065
+ },
+ {
+   "postcode": "LL11",
+   "totalResidents": 16660
+ },
+ {
+   "postcode": "LL12",
+   "totalResidents": 12430
+ },
+ {
+   "postcode": "LL13",
+   "totalResidents": 15162
+ },
+ {
+   "postcode": "LL14",
+   "totalResidents": 14774
+ },
+ {
+   "postcode": "LL15",
+   "totalResidents": 4957
+ },
+ {
+   "postcode": "LL16",
+   "totalResidents": 6925
+ },
+ {
+   "postcode": "LL17",
+   "totalResidents": 2336
+ },
+ {
+   "postcode": "LL18",
+   "totalResidents": 18446
+ },
+ {
+   "postcode": "LL19",
+   "totalResidents": 9120
+ },
+ {
+   "postcode": "LL20",
+   "totalResidents": 3971
+ },
+ {
+   "postcode": "LL21",
+   "totalResidents": 2889
+ },
+ {
+   "postcode": "LL22",
+   "totalResidents": 8739
+ },
+ {
+   "postcode": "LL23",
+   "totalResidents": 2186
+ },
+ {
+   "postcode": "LL24",
+   "totalResidents": 1119
+ },
+ {
+   "postcode": "LL25",
+   "totalResidents": 295
+ },
+ {
+   "postcode": "LL26",
+   "totalResidents": 2230
+ },
+ {
+   "postcode": "LL27",
+   "totalResidents": 429
+ },
+ {
+   "postcode": "LL28",
+   "totalResidents": 6900
+ },
+ {
+   "postcode": "LL29",
+   "totalResidents": 9297
+ },
+ {
+   "postcode": "LL30",
+   "totalResidents": 11161
+ },
+ {
+   "postcode": "LL31",
+   "totalResidents": 4529
+ },
+ {
+   "postcode": "LL32",
+   "totalResidents": 3405
+ },
+ {
+   "postcode": "LL33",
+   "totalResidents": 1805
+ },
+ {
+   "postcode": "LL34",
+   "totalResidents": 2269
+ },
+ {
+   "postcode": "LL35",
+   "totalResidents": 898
+ },
+ {
+   "postcode": "LL36",
+   "totalResidents": 2721
+ },
+ {
+   "postcode": "LL37",
+   "totalResidents": 316
+ },
+ {
+   "postcode": "LL38",
+   "totalResidents": 506
+ },
+ {
+   "postcode": "LL39",
+   "totalResidents": 213
+ },
+ {
+   "postcode": "LL40",
+   "totalResidents": 2262
+ },
+ {
+   "postcode": "LL41",
+   "totalResidents": 3500
+ },
+ {
+   "postcode": "LL42",
+   "totalResidents": 1492
+ },
+ {
+   "postcode": "LL43",
+   "totalResidents": 274
+ },
+ {
+   "postcode": "LL44",
+   "totalResidents": 604
+ },
+ {
+   "postcode": "LL45",
+   "totalResidents": 362
+ },
+ {
+   "postcode": "LL46",
+   "totalResidents": 1207
+ },
+ {
+   "postcode": "LL47",
+   "totalResidents": 356
+ },
+ {
+   "postcode": "LL48",
+   "totalResidents": 1248
+ },
+ {
+   "postcode": "LL49",
+   "totalResidents": 2724
+ },
+ {
+   "postcode": "LL51",
+   "totalResidents": 314
+ },
+ {
+   "postcode": "LL52",
+   "totalResidents": 1461
+ },
+ {
+   "postcode": "LL53",
+   "totalResidents": 9930
+ },
+ {
+   "postcode": "LL54",
+   "totalResidents": 5511
+ },
+ {
+   "postcode": "LL55",
+   "totalResidents": 10034
+ },
+ {
+   "postcode": "LL56",
+   "totalResidents": 1177
+ },
+ {
+   "postcode": "LL57",
+   "totalResidents": 10607
+ },
+ {
+   "postcode": "LL58",
+   "totalResidents": 2181
+ },
+ {
+   "postcode": "LL59",
+   "totalResidents": 2649
+ },
+ {
+   "postcode": "LL60",
+   "totalResidents": 1451
+ },
+ {
+   "postcode": "LL61",
+   "totalResidents": 2767
+ },
+ {
+   "postcode": "LL62",
+   "totalResidents": 807
+ },
+ {
+   "postcode": "LL63",
+   "totalResidents": 718
+ },
+ {
+   "postcode": "LL64",
+   "totalResidents": 853
+ },
+ {
+   "postcode": "LL65",
+   "totalResidents": 11339
+ },
+ {
+   "postcode": "LL67",
+   "totalResidents": 752
+ },
+ {
+   "postcode": "LL68",
+   "totalResidents": 3058
+ },
+ {
+   "postcode": "LL69",
+   "totalResidents": 290
+ },
+ {
+   "postcode": "LL70",
+   "totalResidents": 199
+ },
+ {
+   "postcode": "LL71",
+   "totalResidents": 783
+ },
+ {
+   "postcode": "LL72",
+   "totalResidents": 463
+ },
+ {
+   "postcode": "LL73",
+   "totalResidents": 164
+ },
+ {
+   "postcode": "LL74",
+   "totalResidents": 1281
+ },
+ {
+   "postcode": "LL75",
+   "totalResidents": 716
+ },
+ {
+   "postcode": "LL76",
+   "totalResidents": 151
+ },
+ {
+   "postcode": "LL77",
+   "totalResidents": 3300
+ },
+ {
+   "postcode": "LL78",
+   "totalResidents": 261
+ },
+ {
+   "postcode": "NP10",
+   "totalResidents": 9838
+ },
+ {
+   "postcode": "NP11",
+   "totalResidents": 16883
+ },
+ {
+   "postcode": "NP12",
+   "totalResidents": 14086
+ },
+ {
+   "postcode": "NP13",
+   "totalResidents": 9283
+ },
+ {
+   "postcode": "NP15",
+   "totalResidents": 3404
+ },
+ {
+   "postcode": "NP16",
+   "totalResidents": 10301
+ },
+ {
+   "postcode": "NP18",
+   "totalResidents": 7134
+ },
+ {
+   "postcode": "NP19",
+   "totalResidents": 22567
+ },
+ {
+   "postcode": "NP20",
+   "totalResidents": 22955
+ },
+ {
+   "postcode": "NP22",
+   "totalResidents": 10155
+ },
+ {
+   "postcode": "NP23",
+   "totalResidents": 15018
+ },
+ {
+   "postcode": "NP24",
+   "totalResidents": 2268
+ },
+ {
+   "postcode": "NP25",
+   "totalResidents": 6747
+ },
+ {
+   "postcode": "NP26",
+   "totalResidents": 9399
+ },
+ {
+   "postcode": "NP4",
+   "totalResidents": 20298
+ },
+ {
+   "postcode": "NP44",
+   "totalResidents": 20645
+ },
+ {
+   "postcode": "NP7",
+   "totalResidents": 12125
+ },
+ {
+   "postcode": "NP8",
+   "totalResidents": 2695
+ },
+ {
+   "postcode": "SA1",
+   "totalResidents": 23377
+ },
+ {
+   "postcode": "SA10",
+   "totalResidents": 13255
+ },
+ {
+   "postcode": "SA11",
+   "totalResidents": 17126
+ },
+ {
+   "postcode": "SA12",
+   "totalResidents": 15062
+ },
+ {
+   "postcode": "SA13",
+   "totalResidents": 9014
+ },
+ {
+   "postcode": "SA14",
+   "totalResidents": 14869
+ },
+ {
+   "postcode": "SA15",
+   "totalResidents": 17205
+ },
+ {
+   "postcode": "SA16",
+   "totalResidents": 4096
+ },
+ {
+   "postcode": "SA17",
+   "totalResidents": 4361
+ },
+ {
+   "postcode": "SA18",
+   "totalResidents": 13421
+ },
+ {
+   "postcode": "SA19",
+   "totalResidents": 4465
+ },
+ {
+   "postcode": "SA2",
+   "totalResidents": 15876
+ },
+ {
+   "postcode": "SA20",
+   "totalResidents": 1720
+ },
+ {
+   "postcode": "SA3",
+   "totalResidents": 13428
+ },
+ {
+   "postcode": "SA31",
+   "totalResidents": 7852
+ },
+ {
+   "postcode": "SA32",
+   "totalResidents": 3455
+ },
+ {
+   "postcode": "SA33",
+   "totalResidents": 5620
+ },
+ {
+   "postcode": "SA34",
+   "totalResidents": 2422
+ },
+ {
+   "postcode": "SA35",
+   "totalResidents": 324
+ },
+ {
+   "postcode": "SA36",
+   "totalResidents": 178
+ },
+ {
+   "postcode": "SA37",
+   "totalResidents": 613
+ },
+ {
+   "postcode": "SA38",
+   "totalResidents": 2284
+ },
+ {
+   "postcode": "SA39",
+   "totalResidents": 1044
+ },
+ {
+   "postcode": "SA4",
+   "totalResidents": 19408
+ },
+ {
+   "postcode": "SA40",
+   "totalResidents": 1623
+ },
+ {
+   "postcode": "SA41",
+   "totalResidents": 907
+ },
+ {
+   "postcode": "SA42",
+   "totalResidents": 1651
+ },
+ {
+   "postcode": "SA43",
+   "totalResidents": 6582
+ },
+ {
+   "postcode": "SA44",
+   "totalResidents": 5524
+ },
+ {
+   "postcode": "SA45",
+   "totalResidents": 1137
+ },
+ {
+   "postcode": "SA46",
+   "totalResidents": 1475
+ },
+ {
+   "postcode": "SA47",
+   "totalResidents": 571
+ },
+ {
+   "postcode": "SA48",
+   "totalResidents": 4001
+ },
+ {
+   "postcode": "SA5",
+   "totalResidents": 16112
+ },
+ {
+   "postcode": "SA6",
+   "totalResidents": 15608
+ },
+ {
+   "postcode": "SA61",
+   "totalResidents": 6736
+ },
+ {
+   "postcode": "SA62",
+   "totalResidents": 10487
+ },
+ {
+   "postcode": "SA63",
+   "totalResidents": 471
+ },
+ {
+   "postcode": "SA64",
+   "totalResidents": 1275
+ },
+ {
+   "postcode": "SA65",
+   "totalResidents": 2269
+ },
+ {
+   "postcode": "SA66",
+   "totalResidents": 1385
+ },
+ {
+   "postcode": "SA67",
+   "totalResidents": 3323
+ },
+ {
+   "postcode": "SA68",
+   "totalResidents": 2008
+ },
+ {
+   "postcode": "SA69",
+   "totalResidents": 2112
+ },
+ {
+   "postcode": "SA7",
+   "totalResidents": 6401
+ },
+ {
+   "postcode": "SA70",
+   "totalResidents": 5498
+ },
+ {
+   "postcode": "SA71",
+   "totalResidents": 5309
+ },
+ {
+   "postcode": "SA72",
+   "totalResidents": 4879
+ },
+ {
+   "postcode": "SA73",
+   "totalResidents": 9399
+ },
+ {
+   "postcode": "SA8",
+   "totalResidents": 5606
+ },
+ {
+   "postcode": "SA9",
+   "totalResidents": 7227
+ }
+]
