@@ -31,6 +31,6 @@ export const getDevicesByMpxn = async (mpxn) => {
 };
 
 export const getLatLng = async (address) => {
-    const response = await mapsGoogleApiService.get(`/geocode/json?address=${address}&key=AIzaSyA7UWJPz9JpgqoZhX9diEUeLAqjljSZPc8`);
+    const response = await mapsGoogleApiService.get(`/geocode/json?address=${address}&key={ENTER_GOOGLE_API_KEY_HERE}`);
     return response.data;
 };
