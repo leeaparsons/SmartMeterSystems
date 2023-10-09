@@ -1,0 +1,9 @@
+rootProject.name = 'project15dissertation'
+
+include 'database-upload-service'
+include 'interactive-map-service'
+include 'meter-data-service'
+include 'security'
+include 'jackson-pollock'
+include 'bob-ross'
+

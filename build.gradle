@@ -1,0 +1,9 @@
+task startBootStack(type: GradleBuild) {
+    tasks = [
+            ':database-upload-service:bootRun',
+            ':interactive-map-service:bootRun',
+            ':meter-data-service:bootRun',
+            ':bob-ross:bootRun',
+            ':jackson-pollock:bootRun'
+    ]
+}
