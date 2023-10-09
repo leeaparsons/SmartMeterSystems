@@ -1,0 +1,129 @@
+@import url("common.css");
+
+.pagination {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1em 0;
+    margin-top: 20px;
+}
+
+.pagination button {
+    cursor: pointer;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: lightgrey;
+    cursor: pointer;
+}
+
+#pagination-buttons button.active {
+    background-color: var(--darker-green-color);
+    color: var(--white-color);
+}
+
+#pagination-buttons button:hover {
+    background-color: var(--darker-green-color);
+    color: var(--white-color);
+}
+
+#pagination-buttons button[style*="visibility: hidden"] {
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: transparent;
+}
+
+/* Table CSS */
+#meter-data-table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+}
+
+#meter-data-table th, #meter-data-table td {
+    border: 1px solid var(--table-border-color);
+    padding: 8px;
+}
+
+#meter-data-table tr:nth-child(even) {
+    background-color: var(--table-even-color);
+}
+
+#meter-data-table tr:hover {
+    background-color: var(--table-hover-color);
+}
+
+#meter-data-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: var(--darker-green-color);
+    color: var(--white-color);
+}
+
+#meter-data-table {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.fixed-width {
+    width: 100px;
+}
+
+.fixed-width-1 {
+    width: 120px;
+}
+
+th.pointer {
+    cursor: pointer;
+}
+
+.search-form {
+    max-width: 500px;
+}
+
+.search-form_button--search {
+    border-radius: 0;
+}
+
+.search-form_button--clear {
+    background-color: rgb(241, 243, 244);
+    color: var(--darker-green-color);
+}
+
+.search-form_button--clear:hover,
+.search-form_button--clear:focus {
+    color: var(--darker-green-color);
+    background-color: rgb(232, 236, 236);
+}
+
+.search-form {
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.search-form--table {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .search-form--table {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .search-form_button--search {
+        border-radius: 0px 6px 6px 0px;
+    }
+
+    .search-form_button--clear {
+        border-radius: 6px
+    }
+}

@@ -1,0 +1,20 @@
+:root {
+    --darker-green-color: #1c6758;
+    --darker-green-hover-color: #135E4F;
+    --lighter-green-color: #4C9A79;
+    --background-color: #f6f6f6;
+    --white-color: #fff;
+    --card-bg-color: #f6fbf4;
+    --card-border-color: #DAE7D4;
+    --font-color: #454545;
+    --purple-accent-color: #6554af;
+    --accent-active-color: #5aad7d;
+    --accent-not-active-color: #e64848;
+    --table-even-color: #f2f2f2;
+    --table-border-color: #ddd;
+    --table-hover-color: #ddd;
+    --message-color: rgba(255, 255, 255, 0.6);
+    --box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    --transition-time: 300ms;
+    --transition-timing-function: cubic-bezier(0.61, 1, 0.88, 1);
+}

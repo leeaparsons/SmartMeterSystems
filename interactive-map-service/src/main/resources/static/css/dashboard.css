@@ -1,0 +1,103 @@
+@import url("common.css");
+
+.dashboard {
+    padding: 20px;
+    background-color: var(--white-color);
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+}
+
+.statistics_list {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.statistics_card {
+    width: 100%;
+    padding: 30px;
+    background-color: var(--lighter-green-color);
+    box-shadow: var(--box-shadow);
+    border-radius: 10px;
+    color: var(--white-color);
+}
+
+.statistics_title {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.statistics_value {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.gauge_list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gauge_card {
+    width: 100%;
+    padding: 40px 20px;
+    background-color: var(--card-bg-color);
+    border-radius: 10px;
+    border: 1px solid var(--card-border-color);
+    box-shadow: var(--box-shadow);
+}
+
+.gauge_title {
+    margin: 0 0 30px 0;
+    text-align: center;
+    color: var(--darker-green-color);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+@media screen and (min-width: 800px) {
+    .gauge_list {
+        flex-direction: row;
+        gap: 30px;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 840px) {
+    .dashboard {
+        padding: 40px;
+    }
+
+    .statistics_list {
+        margin-bottom: 30px;
+        flex-direction: row;
+        gap: 30px;
+    }
+
+    .statistics_card {
+        width: calc((100% - 60px) / 3);
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1299px){
+    .gauge_card {
+        width: calc((100% - 30px) / 2);
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .gauge_card {
+        width: calc((100% - 60px) / 3);
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .gauge_title,
+    .statistics_title {
+        font-size: 18px;
+    }
+}

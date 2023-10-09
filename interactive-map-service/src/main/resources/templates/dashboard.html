@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="/js/redirect.js"></script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+            href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap"
+            rel="stylesheet"
+    />
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css"
+    />
+    <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <link rel="stylesheet" href="/css/navbar.css" />
+    <link rel="stylesheet" href="/css/dashboard.css" />
+</head>
+<body>
+<div id="fortressNavbar"></div>
+<main>
+    <div class="container">
+        <h1 class="page_title">
+            Smart Metering Systems Statistics Today
+        </h1>
+        <section class="dashboard" id="dashboard">
+            <ul class="statistics_list">
+                <li class="statistics_card">
+                    <p class="statistics_title">
+                        Total number of smart meters
+                    </p>
+                    <p class="statistics_value" id="numberOfMeters">
+                        0
+                    </p>
+                </li>
+                <li class="statistics_card">
+                    <p class="statistics_title">
+                        Uncommissioned smart meters
+                    </p>
+                    <p class="statistics_value" id="numberOfUncomMeters">
+                        0
+                    </p>
+                </li>
+                <li class="statistics_card">
+                    <p class="statistics_title">
+                        Area with the lowest uptake
+                    </p>
+                    <p class="statistics_value" id="leastUptake">
+                        Unknown
+                    </p>
+                </li>
+            </ul>
+            <ul class="gauge_list">
+                <li class="gauge_card">
+                    <p class="gauge_title">
+                        Total uncommissioned smart meters
+                    </p>
+                    <div id="uncommissioned"></div>
+                </li>
+                <li class="gauge_card">
+                    <p class="gauge_title">
+                        Average of uncommissioned smart meters
+                    </p>
+                    <div id="percentage"></div>
+                </li>
+                <li class="gauge_card">
+                    <p class="gauge_title">
+                        Areas with acceptable uptake percentage
+                    </p>
+                    <div id="acceptable"></div>
+                </li>
+            </ul>
+        </section>
+    </div>
+</main>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="module" src="/js/dashboardGauge.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<script type="module">
+    import {} from '/js/fortressNavbar.js';
+</script>
+
+</body>
+</html>

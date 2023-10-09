@@ -1,0 +1,96 @@
+@import url("variables.css");
+
+body {
+    font-family: "Lexend", sans-serif;
+    color: var(--font-color);
+    background-color: var(--background-color);
+    min-width: 320px;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    min-width: 320px;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.page_title {
+    font-size: 20px;
+    margin: 10px 0 30px 0;
+    text-align: center;
+    color: var(--darker-green-color);
+    font-weight: 600;
+}
+
+@media screen and (min-width: 840px) {
+    .page_title {
+        font-size: 28px;
+    }
+}
+
+/* search form*/
+
+.search-form {
+    width: 100%;
+    display: flex;
+    position: relative;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    justify-content: stretch;
+}
+
+.form_input {
+    width: 100%;
+    margin: 0;
+    padding: 10px 10px 10px 36px;
+    border-radius: 6px 0px 0px 6px;
+    border: 1px solid var(--darker-green-color);
+    color: var(--font-color);
+    font-size: 16px;
+    line-height: 1.15;
+}
+
+.form_input:focus,
+.form_input:focus ~ .search-form_button {
+    border: 1px solid var(--darker-green-hover-color);
+    outline: 1px solid var(--darker-green-hover-color);
+}
+
+.form_input-icon {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.search-form_button {
+    cursor: pointer;
+    margin: 0;
+    padding: 8px 20px;
+    border: 1px solid var(--darker-green-color);
+    border-radius: 0px 6px 6px 0px;
+    background-color: var(--darker-green-color);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    transition: background-color var(--transition-time) var(--transition-timing-function);
+}
+
+.search-form_button:hover,
+.search-form_button:focus {
+    background-color: var(--darker-green-hover-color);
+}

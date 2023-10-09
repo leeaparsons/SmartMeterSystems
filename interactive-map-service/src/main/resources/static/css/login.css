@@ -1,0 +1,33 @@
+.bg-primary {
+  background-color: #1c6758!important;
+}
+
+.btn.btn-success{
+  background-color: #1c6758!important;
+  border-color: #1c6758!important;
+}
+
+.btn.btn-success:hover,
+.btn.btn-success:focus {
+  background-color: #1c6758!important;
+  border-color: #1c6758!important;
+  transition: background-color 300ms cubic-bezier(0.61, 1, 0.88, 1);
+}
+
+.modal-container {
+  min-height: 100vh;
+  height: fit-content;
+  background-image: url(../images/background.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group.mb-2 {
+  padding-bottom: 1rem;
+}
+

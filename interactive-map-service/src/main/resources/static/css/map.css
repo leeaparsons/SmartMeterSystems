@@ -1,0 +1,355 @@
+@import url("common.css");
+
+.box {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: var(--box-shadow);
+}
+
+.map-container {
+    height: calc(100vh - 106px);
+    width: 100%;
+}
+
+.sidebar {
+    height: calc(100vh - 106px);
+    padding: 36px 20px;
+    background-color: var(--lighter-green-color);
+    overflow: auto;
+}
+
+.sidebar_header {
+    margin: 0 0 30px 0;
+    color: var(--white-color);
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.meter_list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.meter_container {
+    padding-bottom: 30px;
+    border-radius: 10px;
+    background-color: var(--card-bg-color);
+}
+
+.mpxn_container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background-color: var(--card-bg-color);
+}
+
+.meter_container:not(:last-child),
+.mpxn_container:not(:last-child){
+    margin-bottom: 20px;
+}
+
+.meter-info_title-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.meter-info_title {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.meter-info_address {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.meter-info_title, .meter-info_address {
+    color: var(--white-color);
+    text-align: center;
+}
+
+.meter-type {
+    padding: 30px 20px 20px 20px;
+    border-bottom: 2px solid var(--darker-green-color);
+}
+
+.meter-type_header {
+    margin: 0;
+    font-size: 18px;
+    color: var(--darker-green-color);
+    text-align: center;
+    font-weight: 500;
+}
+
+.mpxn_header {
+    margin: 0;
+    font-size: 18px;
+    color: var(--darker-green-color);
+    text-align: center;
+    font-weight: 500;
+}
+
+.meter-data {
+    padding: 20px 20px 0 20px;
+    color: var(--font-color);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.mpxn-data {
+    color: var(--font-color);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.meter-data_item img {
+    vertical-align: baseline;
+}
+
+.meter-data_item:not(:last-child),
+.mpxn-data_item:not(:last-child){
+    margin-bottom: 8px;
+}
+
+.meter-data_title,
+.mpxn-data_title {
+    color: var(--purple-accent-color);
+    font-weight: 500;
+}
+
+.meter-data_value--active {
+    color: var(--accent-active-color);
+}
+
+.meter-data_value--not-active {
+    color: var(--accent-not-active-color);
+}
+
+.meter-info_button,
+.mpxn_button {
+    cursor: pointer;
+    margin: 0;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px 6px;
+    background-color: var(--darker-green-color);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.15;
+    transition: background-color var(--transition-time) var(--transition-timing-function);
+}
+
+.meter-info_button {
+    min-width: 96px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mpxn_button:hover,
+.mpxn_button:focus {
+    background-color: var(--darker-green-hover-color);
+}
+
+.message {
+    font-size: 16px;
+    margin-top: 200px;
+    text-align: center;
+    color: var(--message-color);
+}
+
+.info {
+    padding: 6px 8px;
+    font: 16px Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.info h4 {
+    font: 16px Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.filter-menu-container {
+    padding: 6px 8px;
+    font: 16px Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    line-height: 18px;
+    color: #555;
+}
+
+#filter-commissioned-checkbox {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+    right: 3px;
+}
+
+input[type="radio"] {
+    margin-top: -1px;
+    vertical-align: middle;
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+    background-color: rgba(0, 204, 255, 0.8);
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+    background-color: rgba(109, 226, 255, 0.8);
+}
+
+.scroll-button {
+    border: none;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+}
+
+@media screen and (max-width: 450px) {
+    .mpxn_container {
+        flex-direction: column;
+        gap: 16px;
+        align-items: start;
+        justify-content: start;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .info,
+    .info h4 {
+        font-size: 14px;
+    }
+
+    .filter-menu-container {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 999px) {
+    .map-container {
+        min-height: calc(100vh - 86px);
+    }
+
+    .sidebar {
+        min-height: calc(100vh - 20px);
+        height: fit-content;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+    .meter_list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .meter_container {
+        width: calc((100% - 20px)/2);
+    }
+
+    .mpxn_container {
+        width: calc((100% - 20px)/2);
+        flex-direction: column;
+        gap: 16px;
+        align-items: start;
+        justify-content: start;
+    }
+
+    .meter_container:not(:last-child),
+    .mpxn_container:not(:last-child) {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 850px) and (max-width: 1000px) {
+    .mpxn_container {
+        flex-direction: row;
+        align-items: start;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .box {
+        display: flex;
+    }
+
+    .sidebar {
+        min-width: 500px;
+    }
+
+    .sidebar_header {
+        font-size: 26px;
+    }
+
+    .mpxn_container {
+        padding: 30px;
+    }
+
+    .meter-type {
+        padding: 30px 30px 20px 30px;
+    }
+
+    .meter-type_header {
+        font-size: 20px;
+    }
+
+    .meter-data {
+        font-size: 18px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .meter-data_item:not(:last-child),
+    .mpxn-data_item:not(:last-child) {
+        margin-bottom: 10px;
+    }
+
+    .mpxn-data {
+        font-size: 18px;
+    }
+
+    .mpxn_header {
+        font-size: 20px;
+    }
+
+    .message {
+        font-size: 16px;
+    }
+
+    .scroll-button {
+        display: none;
+    }
+}
