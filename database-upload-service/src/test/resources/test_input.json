@@ -1,0 +1,108 @@
+{
+  "result": [
+    {
+      "mpxn": "1023536563502",
+      "status": 200,
+      "devices": [
+        {
+          "deviceId": "30-EB-5A-FF-FF-08-DD-01",
+          "deviceType": "ESME",
+          "deviceStatus": "NOT COMMISSIONED",
+          "deviceManufacturer": "1063",
+          "deviceModel": "00050203",
+          "smetsChtsVersion": "V4.2",
+          "deviceFirmwareVersion": "38040404",
+          "deviceFirmwareVersionStatus": "NOT ACTIVE",
+          "cplStatus": "ACTIVE",
+          "dateCommissioned": "2021-06-01Z",
+          "importMpxn": "1023536563550",
+          "esmeVariant": "ADE",
+          "uprn": "10002600297",
+          "propertyFilter": {
+            "addressIdentifier": "20 ST. MARY STREET",
+            "postCode": "CF10 1AA"
+          },
+          "cspRegion": "CENTRAL",
+          "deviceGbcsVersion": "3.2",
+          "lastCommunicationsDateTime": {
+            "status": 200,
+            "statusMessage": "SUCCESS",
+            "value": {
+              "$date": {
+                "$numberLong": "1687787910000"
+              }
+            },
+            "lastUpdate": {
+              "$date": {
+                "$numberLong": "1687787948948"
+              }
+            }
+          },
+          "checkFirmware": {
+            "status": 200,
+            "statusMessage": "SUCCESS",
+            "firmwareVersionValue": "38040404",
+            "lastUpdate": {
+              "$date": {
+                "$numberLong": "1687787950716"
+              }
+            }
+          }
+        },
+        {
+          "deviceId": "30-EB-5A-FF-FF-08-DD-01",
+          "deviceType": "GSME",
+          "deviceStatus": "NOT COMMISSIONED",
+          "deviceManufacturer": "1063",
+          "deviceModel": "00050203",
+          "smetsChtsVersion": "V4.2",
+          "deviceFirmwareVersion": "38040404",
+          "deviceFirmwareVersionStatus": "NOT ACTIVE",
+          "cplStatus": "ACTIVE",
+          "dateCommissioned": "2021-06-01Z",
+          "importMpxn": "1023536563550",
+          "esmeVariant": "ADE",
+          "uprn": "10002600297",
+          "propertyFilter": {
+            "addressIdentifier": "20 ST. MARY STREET",
+            "postCode": "CF10 1AA"
+          },
+          "cspRegion": "CENTRAL",
+          "deviceGbcsVersion": "3.2",
+          "lastCommunicationsDateTime": {
+            "status": 200,
+            "statusMessage": "SUCCESS",
+            "value": {
+              "$date": {
+                "$numberLong": "1687787910000"
+              }
+            },
+            "lastUpdate": {
+              "$date": {
+                "$numberLong": "1687787948948"
+              }
+            }
+          },
+          "checkFirmware": {
+            "status": 200,
+            "statusMessage": "SUCCESS",
+            "firmwareVersionValue": "38040404",
+            "lastUpdate": {
+              "$date": {
+                "$numberLong": "1687787950716"
+              }
+            }
+          }
+        }
+      ],
+      "wanMatrix": {
+        "status": 404
+      },
+      "lastUpdate": {
+        "$date": {
+          "$numberLong": "1687787939307"
+        }
+      }
+    }
+  ]
+}
